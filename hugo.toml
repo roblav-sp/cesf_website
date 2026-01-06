@@ -4,6 +4,15 @@ title = 'CESF - Centro Espírita São Francisco'
 defaultContentLanguage = 'pt'
 theme = 'ananke'
 
+[params]
+  social:
+    - name: "Facebook"
+      url: "https://www.facebook.com/cesf"
+    - name: "YouTube"
+      url: "https://www.youtube.com/cesf"
+    - name: "Instagram"
+      url: "https://www.instagram.com/cesf"
+
 [languages]
 [languages.pt]
 title = "CESF - Centro Espírita São Francisco"
