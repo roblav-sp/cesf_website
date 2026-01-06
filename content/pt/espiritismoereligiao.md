@@ -1,0 +1,12 @@
+---
+title: "Espiritismo é religião?"
+---
+O Espiritismo é em si apenas uma doutrina filosófica construída sobre fatos exatos e leis naturais ainda desconhecidas; em sua essência, esta doutrina, ao modificar profundamente as idéias, toca todas as questões sociais e, conseqüentemente, a questão religiosa, como todas as outras. Todas as filosofias não cuidam disso? Já que comentam os fundamentos de todas as religiões, ou seja, Deus, a origem e a natureza da alma? A filosofia materialista não se preocupa também com isso do ponto de vista da negação? É até impossível que uma filosofia não trate dessas questões em uma direção ou outra. O Espiritismo poderia, portanto, tratá-lo paralelamente com a ajuda dos novos elementos que o precede; mas não é isso que constitui uma religião, caso contrário, todas as filosofias seriam religiões.
+
+Devemos distinguir a idéia religiosa da religião propriamente dita. A ideia religiosa é geral, sem o princípio dos detalhes fixos, sem qualquer regulamentação. A religião tem um caráter particular de precisão que consiste não apenas em uma comunidade de crenças bem definidas, mas na forma externa de adoração, no cumprimento de certos deveres e no vínculo que une os adeptos. Isso é o que o espiritualismo nunca teve, por isso não era uma religião. Alguém é espiritualista porque simpatiza com a ideia que contém, como se é cartesiano, platônico, espiritualista ou materialista, mas não por uma profissão de fé ou qualquer consagração.
+
+O Espiritismo não tem dogmas, cultos, ritos, cerimônias ou hierarquias; ele não pede nem admite qualquer fé cega; ele quer ver tudo com clareza; ele quer que entendamos tudo, que percebamos tudo.
+
+No sentido filosófico, o espiritualismo é uma religião porque é a doutrina que funda os laços da fraternidade e da comunhão de pensamentos sobre uma convenção simples, mas sobre bases mais sólidas, as próprias leis da matéria. Por que então declaramos que o espiritualismo não é uma religião? Porque só existe uma palavra para expressar duas ideias diferentes e que, na opinião geral, a palavra religião é indissociável da palavra culto, que desperta exclusivamente uma ideia de forma e que o espiritualismo não tem. Rejeitamos veementemente os dogmas que cristalizam a pesquisa e muitas vezes se opõem à razão, bem como os ritos que tendem a dar poder usurpado a quem os pratica.
+
+Fonte: http://www.cslak.fr/bibliotheque-edition/95-support-de-cours/582-etude2

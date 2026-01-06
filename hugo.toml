@@ -1,0 +1,21 @@
+baseURL = 'https://cesf.ca/'
+languageCode = 'pt-br'
+title = 'CESF - Centro Espírita São Francisco'
+defaultContentLanguage = 'pt'
+theme = 'ananke'
+
+[languages]
+[languages.pt]
+title = "CESF - Centro Espírita São Francisco"
+languageCode = "pt-br"
+weight = 1
+
+[languages.fr]
+title = "CESF - Centre d'Études Spirites Fraternité"
+languageCode = "fr-ca"
+weight = 2
+
+[languages.en]
+title = "CESF - Spiritist Study Center Fraternity"
+languageCode = "en-ca"
+weight = 3
