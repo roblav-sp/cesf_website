@@ -1,11 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CESF - Centre d&#39;Études Spirites Fraternité</title>
+    <title>Welcome on CESF - Centre d&#39;Études Spirites Fraternité</title>
     <link>http://localhost:1313/en/</link>
-    <description>Recent content on CESF - Centre d&#39;Études Spirites Fraternité</description>
+    <description>Recent content in Welcome on CESF - Centre d&#39;Études Spirites Fraternité</description>
     <generator>Hugo</generator>
-    <language>en-ca</language>
+    <language>pt-br</language>
     <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CESF History</title>
+      <link>http://localhost:1313/en/historia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/historia/</guid>
+      <description>&lt;p&gt;Most spiritist centers began with simple study meetings held in family homes, with the participation of relatives and friends. It was from this union and harmony of ideas that many spiritist centers were founded throughout the world. It was no different for the Spiritist Study Center Fraternity. After a period of gatherings of a group of friends that took place every week around a table in the living room of a small apartment, the moment came when they decided to found a spiritist center. The main ideal of this group at that time, and which remains so today, was to promote Spiritism in Montreal, in order to bring to Québécois and immigrants the message of love and charity of spiritist philosophy. Founded on August 9, 2005, CESF began operating at 797 Gordon Street, in Verdun, Montreal, in facilities donated by the couple Roberto Lavoie and Isabelle Norris, active members of the center&amp;rsquo;s work.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/contact/</guid>
+      <description>&lt;p&gt;Get in touch with us.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Email:&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Message:&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Send&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>Fundamental Teachings</title>
+      <link>http://localhost:1313/en/ensinamentos-fundamentais/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/ensinamentos-fundamentais/</guid>
+      <description>&lt;p&gt;God is the supreme intelligence, the first cause of all things. He is eternal, immutable, immaterial, unique, all-powerful, supremely just and good.&lt;/p&gt;&#xA;&lt;p&gt;God created the universe, which includes all rational and irrational beings, animate and inanimate, material and immaterial.&lt;/p&gt;&#xA;&lt;p&gt;Beyond the corporeal world, where incarnate Spirits who are men live, there exists a spiritual world, the home of disembodied Spirits.&lt;/p&gt;&#xA;&lt;p&gt;In the universe, there are other worlds inhabited by beings at different levels of evolution: equal, more evolved, or less evolved than men.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mediumship</title>
+      <link>http://localhost:1313/en/mediunidade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/mediunidade/</guid>
+      <description>&lt;p&gt;From Leon Denis, in the book: In the Invisible&lt;/p&gt;&#xA;&lt;p&gt;All manifestations of nature and life can be summarized in vibrations, more or less rapid and extensive, according to the causes that produce them. Everything vibrates in the universe: sound, light, heat, electricity, magnetism, chemical rays, cathode rays, radio waves, etc., are only the various modes of undulation, vibration of universal force and substance, the successive degrees that constitute, as a whole, the ascending scale of energy manifestations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Public Activities</title>
+      <link>http://localhost:1313/en/atividades/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/atividades/</guid>
+      <description>&lt;p&gt;Study Meetings and Mini-Lectures&#xA;Open meetings for people of all ages who wish to discover or deepen their knowledge about spiritualism.&lt;/p&gt;&#xA;&lt;p&gt;Wednesdays (in French): mini-lectures, magnetic passes activity for those who wish and systematic study of spiritualist philosophy.&lt;/p&gt;&#xA;&lt;p&gt;Time: 7:00 PM to 9:30 PM&lt;/p&gt;&#xA;&lt;p&gt;Saturdays (in French): systematic study of spiritualist philosophy and magnetic passes for those who desire them.&lt;/p&gt;&#xA;&lt;p&gt;Time: 11:00 AM to 12:45 PM&lt;/p&gt;&#xA;&lt;p&gt;Workshop for Children and Young People (in French and Portuguese)&#xA;Meetings / activities scheduled for children and young people (3 to 13 years old), guided according to the moral teachings of spiritualist philosophy. These meetings take place on Saturdays, every other week, from 2:00 PM to 3:00 PM. In parallel, a Parents&amp;rsquo; Meeting is held, aimed at discussing topics related to parenting practices, child development, family relationships, among others. Check the calendar to find the date of the next Workshop for children and young people, as well as the next Parents&amp;rsquo; Meeting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spiritist Practice</title>
+      <link>http://localhost:1313/en/praticaespirita/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/praticaespirita/</guid>
+      <description>&lt;p&gt;All spiritualist practice is free, according to the Gospel principle: &amp;ldquo;Give freely what you have received freely&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Spiritualist practice has no external worship, according to the Christian principle that God should be worshipped in spirit and in truth.&lt;/p&gt;&#xA;&lt;p&gt;Spiritism has no priesthood, gurus, and the like. It does not adopt or use in its meetings and practices: facings, alcoholic beverages, incense, smoke, altars, icons, stretchers, candles, processions, talismans, amulets, sacraments, granting of indulgences, horoscopes, divination, pyramids, crystals, seashells, rituals, or any other form of external worship.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spiritual Assistance</title>
+      <link>http://localhost:1313/en/assistenciaespiritual/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/assistenciaespiritual/</guid>
+      <description>&lt;p&gt;Spiritist centers are frequently sought by people who need help to resolve a variety of personal problems. Some people cannot overcome the loss of a loved one; others suffer and suffer from depression; many others seek to understand the meaning of their lives, are depressed and hopeless, and still others have physical problems whose causes have not been found.&lt;/p&gt;&#xA;&lt;p&gt;CESF maintains a free spiritual assistance service to listen to these people with attention and seek to help them according to spiritist philosophy. By attempting to discover the main reasons for their problems, we end up relieving them. Many situations of this nature can be better understood by applying the spiritualist teaching that &amp;ldquo;every effect has a cause&amp;rdquo; and, therefore, when it is found, problems can be overcome.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome to the CESF website!</title>
+      <link>http://localhost:1313/en/bem-vindo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/bem-vindo/</guid>
+      <description>&lt;p&gt;The Spiritist Study Center Fraternity (CESF) is a spiritist center that aims to help everyone who wishes to begin the study and practice of spiritist philosophy, who wish to know the advantages that this philosophy can bring to their life, or who wish to deepen their knowledge and studies about Spiritism.&lt;/p&gt;&#xA;&lt;p&gt;At CESF, we develop basic and in-depth study activities on Spiritism, spiritual care, balance passes for the centers of force, spiritual treatment and development, and activities for the development of spiritist mediumship.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

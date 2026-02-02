@@ -1,0 +1,13 @@
+---
+title: "Is Spiritism a religion?"
+---
+
+Spiritism is in itself only a philosophical doctrine built on exact facts and natural laws still unknown; in its essence, this doctrine, by profoundly modifying ideas, touches all social questions and, consequently, the religious question, like all others. Don't all philosophies deal with this? Since they comment on the foundations of all religions, that is, God, the origin and nature of the soul? Doesn't materialist philosophy also concern itself with this from the point of view of negation? It is even impossible for a philosophy not to deal with these questions in one direction or another. Spiritism could therefore deal with it in parallel with the help of the new elements that precede it; but that is not what constitutes a religion, otherwise all philosophies would be religions.
+
+We must distinguish the religious idea from religion properly speaking. The religious idea is general, without the principle of fixed details, without any regulation. Religion has a particular character of precision that consists not only of a community of well-defined beliefs, but in the external form of worship, in the fulfillment of certain duties, and in the bond that unites adherents. This is what spiritualism never had, which is why it was not a religion. One is a spiritualist because one sympathizes with the idea it contains, as one is Cartesian, Platonic, spiritualist or materialist, but not by a profession of faith or any consecration.
+
+Spiritism has no dogmas, cults, rites, ceremonies or hierarchies; it neither asks nor admits any blind faith; it wants to see everything clearly; it wants us to understand everything, to perceive everything.
+
+In the philosophical sense, spiritualism is a religion because it is the doctrine that founds the bonds of fraternity and communion of thoughts on a simple convention, but on more solid bases, the very laws of matter. Why then do we declare that spiritualism is not a religion? Because there is only one word to express two different ideas and that, in general opinion, the word religion is inseparable from the word cult, which exclusively awakens an idea of form and that spiritualism does not have. We vehemently reject the dogmas that crystallize research and often oppose reason, as well as the rites that tend to give usurped power to those who practice them.
+
+Source: http://www.cslak.fr/bibliotheque-edition/95-support-de-cours/582-etude2
