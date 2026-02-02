@@ -5,17 +5,14 @@ defaultContentLanguage = 'pt'
 theme = 'ananke'
 
 [params]
-  social:
-    - name: "Facebook"
-      url: "https://www.facebook.com/cesf"
-    - name: "YouTube"
-      url: "https://www.youtube.com/cesf"
-    - name: "Instagram"
-      url: "https://www.instagram.com/cesf"
+social = [
+  { name = "Facebook", url = "https://www.facebook.com/cesf" },
+  { name = "YouTube", url = "https://www.youtube.com/cesf" },
+  { name = "Instagram", url = "https://www.instagram.com/cesf" }
+]
 
-[languages]
 [languages.pt]
-title = "CESF - Centro Espírita São Francisco"
+title = "CESF - Centre d'Études Spirites Fraternité"
 languageCode = "pt-br"
 weight = 1
 
@@ -25,6 +22,8 @@ languageCode = "fr-ca"
 weight = 2
 
 [languages.en]
-title = "CESF - Spiritist Study Center Fraternity"
+title = "CESF - Centre d'Études Spirites Fraternité"
 languageCode = "en-ca"
 weight = 3
+
+ignoreLogs = ["warning-goldmark-raw-html"]

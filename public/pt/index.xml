@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bem-vindo on CESF - Centro Espírita São Francisco</title>
+    <title>Bem-vindo on CESF - Centre d&#39;Études Spirites Fraternité</title>
     <link>http://localhost:1313/pt/</link>
-    <description>Recent content in Bem-vindo on CESF - Centro Espírita São Francisco</description>
+    <description>Recent content in Bem-vindo on CESF - Centre d&#39;Études Spirites Fraternité</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <atom:link href="http://localhost:1313/pt/index.xml" rel="self" type="application/rss+xml" />
@@ -48,6 +48,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt/biografias/</guid>
       <description>&lt;p&gt;Para mais informações sobre a biografia dos principais autores da Filosofia do Espiritismo, consulte os seguintes links:&lt;/p&gt;&#xA;&lt;p&gt;Allan Kardec&lt;/p&gt;&#xA;&lt;p&gt;Leon denis&lt;/p&gt;&#xA;&lt;p&gt;Gabriel Delanne&lt;/p&gt;&#xA;&lt;p&gt;Camile Flamarion&lt;/p&gt;&#xA;&lt;p&gt;Francisco Candido Xavier&lt;/p&gt;&#xA;&lt;p&gt;Outros autores importantes:&lt;/p&gt;&#xA;&lt;p&gt;Alexander N. Aksakof&lt;/p&gt;&#xA;&lt;p&gt;Amalia Domingo Soler&lt;/p&gt;&#xA;&lt;p&gt;Andrew Jackson Davis&lt;/p&gt;&#xA;&lt;p&gt;Arthur conam doyle&lt;/p&gt;&#xA;&lt;p&gt;Bezerra de Menezes&lt;/p&gt;&#xA;&lt;p&gt;César Lombroso&lt;/p&gt;&#xA;&lt;p&gt;Charles Richet&lt;/p&gt;&#xA;&lt;p&gt;Daniel Dunglas Home&lt;/p&gt;&#xA;&lt;p&gt;Divaldo Pereira Franco&lt;/p&gt;&#xA;&lt;p&gt;Ernest Bozzano&lt;/p&gt;&#xA;&lt;p&gt;Emmanuel Swedenborg&lt;/p&gt;&#xA;&lt;p&gt;William Crookes&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contato</title>
+      <link>http://localhost:1313/pt/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt/contact/</guid>
+      <description>&lt;p&gt;Entre em contato conosco.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Email:&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Mensagem:&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Enviar&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Espiritismo e Ciência</title>

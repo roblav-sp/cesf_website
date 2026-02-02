@@ -50,6 +50,8 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
+    <loc>http://localhost:1313/pt/contact/</loc>
+  </url><url>
     <loc>http://localhost:1313/pt/espiritismoeciencia/</loc>
   </url><url>
     <loc>http://localhost:1313/pt/espiritismoereligiao/</loc>
