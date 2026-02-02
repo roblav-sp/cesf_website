@@ -1,6 +1,10 @@
 ---
 title: "Bem-vindo"
+description: "Para compreender a razão da vida"
 ---
+
+## FILOSOFIA ESPÍRITA EM MONTREAL
+### Para compreender a razão da vida
 
 Bem-vindo ao site da CESF!
  

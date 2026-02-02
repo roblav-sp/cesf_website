@@ -2,119 +2,119 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:33791/pt/doacoes/</loc>
+    <loc>http://localhost:1313/pt/doacoes/</loc>
   </url><url>
-    <loc>http://localhost:33791/pt/ensinamentos-fundamentais/</loc>
+    <loc>http://localhost:1313/pt/ensinamentos-fundamentais/</loc>
   </url><url>
-    <loc>http://localhost:33791/fr/atividades/</loc>
+    <loc>http://localhost:1313/fr/atividades/</loc>
   </url><url>
-    <loc>http://localhost:33791/fr/assistenciaespiritual/</loc>
+    <loc>http://localhost:1313/fr/assistenciaespiritual/</loc>
   </url><url>
-    <loc>http://localhost:33791/pt/assistenciaespiritual/</loc>
+    <loc>http://localhost:1313/pt/assistenciaespiritual/</loc>
   </url><url>
-    <loc>http://localhost:33791/pt/atividades/</loc>
+    <loc>http://localhost:1313/pt/atividades/</loc>
   </url><url>
-    <loc>http://localhost:33791/pt/</loc>
+    <loc>http://localhost:1313/pt/</loc>
   </url><url>
-    <loc>http://localhost:33791/pt/bem-vindo/</loc>
+    <loc>http://localhost:1313/pt/bem-vindo/</loc>
   </url><url>
-    <loc>http://localhost:33791/fr/</loc>
+    <loc>http://localhost:1313/fr/</loc>
   </url><url>
-    <loc>http://localhost:33791/pt/biografias/</loc>
+    <loc>http://localhost:1313/pt/biografias/</loc>
   </url><url>
-    <loc>http://localhost:33791/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-ca"
-                href="http://localhost:33791/fr/categories/"
+                href="http://localhost:1313/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-ca"
-                href="http://localhost:33791/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:33791/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>http://localhost:33791/</loc>
+    <loc>http://localhost:1313/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-ca"
-                href="http://localhost:33791/fr/"
+                href="http://localhost:1313/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-ca"
-                href="http://localhost:33791/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:33791/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:33791/en/historia/</loc>
+    <loc>http://localhost:1313/en/historia/</loc>
   </url><url>
-    <loc>http://localhost:33791/en/contact/</loc>
+    <loc>http://localhost:1313/en/contact/</loc>
   </url><url>
-    <loc>http://localhost:33791/fr/contact/</loc>
+    <loc>http://localhost:1313/fr/contact/</loc>
   </url><url>
-    <loc>http://localhost:33791/pt/contact/</loc>
+    <loc>http://localhost:1313/pt/contact/</loc>
   </url><url>
-    <loc>http://localhost:33791/fr/ensinamentos-fundamentais/</loc>
+    <loc>http://localhost:1313/fr/ensinamentos-fundamentais/</loc>
   </url><url>
-    <loc>http://localhost:33791/pt/espiritismoeciencia/</loc>
+    <loc>http://localhost:1313/pt/espiritismoeciencia/</loc>
   </url><url>
-    <loc>http://localhost:33791/pt/espiritismoereligiao/</loc>
+    <loc>http://localhost:1313/pt/espiritismoereligiao/</loc>
   </url><url>
-    <loc>http://localhost:33791/en/ensinamentos-fundamentais/</loc>
+    <loc>http://localhost:1313/en/ensinamentos-fundamentais/</loc>
   </url><url>
-    <loc>http://localhost:33791/fr/historia/</loc>
+    <loc>http://localhost:1313/fr/historia/</loc>
   </url><url>
-    <loc>http://localhost:33791/pt/historia/</loc>
+    <loc>http://localhost:1313/pt/historia/</loc>
   </url><url>
-    <loc>http://localhost:33791/pt/livrosbasicos/</loc>
+    <loc>http://localhost:1313/pt/livrosbasicos/</loc>
   </url><url>
-    <loc>http://localhost:33791/fr/mediunidade/</loc>
+    <loc>http://localhost:1313/fr/mediunidade/</loc>
   </url><url>
-    <loc>http://localhost:33791/en/mediunidade/</loc>
+    <loc>http://localhost:1313/en/mediunidade/</loc>
   </url><url>
-    <loc>http://localhost:33791/pt/mediunidade/</loc>
+    <loc>http://localhost:1313/pt/mediunidade/</loc>
   </url><url>
-    <loc>http://localhost:33791/pt/nossas-reuni%C3%B5es-p%C3%BAblicas/</loc>
+    <loc>http://localhost:1313/pt/nossas-reuni%C3%B5es-p%C3%BAblicas/</loc>
   </url><url>
-    <loc>http://localhost:33791/pt/outrasatividades/</loc>
+    <loc>http://localhost:1313/pt/outrasatividades/</loc>
   </url><url>
-    <loc>http://localhost:33791/pt/praticaespirita/</loc>
+    <loc>http://localhost:1313/pt/praticaespirita/</loc>
   </url><url>
-    <loc>http://localhost:33791/fr/praticaespirita/</loc>
+    <loc>http://localhost:1313/fr/praticaespirita/</loc>
   </url><url>
-    <loc>http://localhost:33791/en/atividades/</loc>
+    <loc>http://localhost:1313/en/atividades/</loc>
   </url><url>
-    <loc>http://localhost:33791/en/praticaespirita/</loc>
+    <loc>http://localhost:1313/en/praticaespirita/</loc>
   </url><url>
-    <loc>http://localhost:33791/en/assistenciaespiritual/</loc>
+    <loc>http://localhost:1313/en/assistenciaespiritual/</loc>
   </url><url>
-    <loc>http://localhost:33791/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-ca"
-                href="http://localhost:33791/fr/tags/"
+                href="http://localhost:1313/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-ca"
-                href="http://localhost:33791/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:33791/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>http://localhost:33791/en/</loc>
+    <loc>http://localhost:1313/en/</loc>
   </url>
 </urlset>

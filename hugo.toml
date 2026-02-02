@@ -1,6 +1,6 @@
 baseURL = 'https://cesf.ca/'
 languageCode = 'pt-br'
-title = 'CESF - Centro Espírita São Francisco'
+title = "CESF - Centre d'Études Spirites Fraternité"
 defaultContentLanguage = 'pt'
 theme = 'ananke'
 
@@ -12,18 +12,43 @@ social = [
 ]
 
 [languages.pt]
-title = "CESF - Centro Espírita São Francisco"
+title = "CESF - Centre d'Études Spirites Fraternité"
 languageCode = "pt-br"
 weight = 1
+[languages.pt.params]
+subtitle = "FILOSOFIA ESPÍRITA EM MONTREAL"
+description = "Para compreender a razão da vida"
 
 [languages.fr]
 title = "CESF - Centre d'Études Spirites Fraternité"
 languageCode = "fr-ca"
 weight = 2
+[languages.fr.params]
+subtitle = "PHILOSOPHIE SPIRITE À MONTRÉAL"
+description = "Pour comprendre la raison de la vie"
 
 [languages.en]
-title = "CESF - Spiritist Study Center Fraternity"
+title = "CESF - Centre d'Études Spirites Fraternité"
 languageCode = "en-ca"
 weight = 3
+[languages.en.params]
+subtitle = "SPIRITIST PHILOSOPHY IN MONTREAL"
+description = "To understand the reason for life"
 
 ignoreLogs = ["warning-goldmark-raw-html"]
+
+[menu]
+[[menu.main]]
+name = "Português"
+url = "/pt/"
+weight = 1
+
+[[menu.main]]
+name = "Français"
+url = "/fr/"
+weight = 2
+
+[[menu.main]]
+name = "English"
+url = "/en/"
+weight = 3

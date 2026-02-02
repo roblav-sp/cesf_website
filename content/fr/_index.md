@@ -1,6 +1,10 @@
 ---
 title: "Bienvenue"
+description: "Pour comprendre la raison de la vie"
 ---
+
+## PHILOSOPHIE SPIRITE À MONTRÉAL
+### Pour comprendre la raison de la vie
 
 Bienvenue sur le site du CESF!
 
