@@ -1,0 +1,150 @@
+/* CESF Custom Styles - Logo Colors Theme */
+
+/* Color Palette from Logo:
+   - Primary Blue: #3366CC (medium blue)
+   - Light Blue: #5B9BD5 (sky blue)
+   - Dark Blue: #1F4788 (navy blue)
+   - Accent Purple: #7B68EE (purple-blue)
+   - Black: #1a1a1a (text)
+*/
+
+:root {
+  --cesf-primary-blue: #3366CC;
+  --cesf-light-blue: #5B9BD5;
+  --cesf-dark-blue: #1F4788;
+  --cesf-accent-purple: #7B68EE;
+  --cesf-black: #1a1a1a;
+  --cesf-white: #ffffff;
+  --cesf-light-gray: #f8f9fa;
+}
+
+/* Header and Navigation */
+body header {
+  background: linear-gradient(135deg, var(--cesf-dark-blue) 0%, var(--cesf-primary-blue) 50%, var(--cesf-light-blue) 100%);
+}
+
+/* Links */
+a {
+  color: var(--cesf-primary-blue);
+}
+
+a:hover {
+  color: var(--cesf-dark-blue);
+}
+
+/* Primary Buttons and CTAs */
+.bg-primary,
+.btn-primary {
+  background-color: var(--cesf-primary-blue) !important;
+}
+
+.bg-primary:hover,
+.btn-primary:hover {
+  background-color: var(--cesf-dark-blue) !important;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: var(--cesf-dark-blue);
+}
+
+/* Site Header Title */
+.site-title a {
+  color: var(--cesf-white) !important;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+}
+
+/* Navigation Menu */
+nav a {
+  color: var(--cesf-white) !important;
+}
+
+nav a:hover {
+  color: var(--cesf-light-blue) !important;
+  text-decoration: underline;
+}
+
+/* Featured/Hero Section */
+.featured-image {
+  border-bottom: 4px solid var(--cesf-primary-blue);
+}
+
+/* Article/Post Titles */
+article h1,
+article h2,
+article h3 {
+  color: var(--cesf-dark-blue);
+}
+
+/* Footer */
+footer {
+  background: linear-gradient(135deg, var(--cesf-dark-blue) 0%, var(--cesf-primary-blue) 100%);
+  color: var(--cesf-white);
+}
+
+footer a {
+  color: var(--cesf-light-blue);
+}
+
+footer a:hover {
+  color: var(--cesf-white);
+}
+
+/* Social Icons */
+.ananke-socials a:hover {
+  color: var(--cesf-light-blue) !important;
+}
+
+/* Blockquotes */
+.lh-copy blockquote {
+  border-left-color: var(--cesf-primary-blue);
+}
+
+/* Tables */
+table thead {
+  background-color: var(--cesf-primary-blue);
+  color: var(--cesf-white);
+}
+
+table tbody tr:hover {
+  background-color: var(--cesf-light-gray);
+}
+
+/* Logo Styling */
+.site-logo img {
+  max-height: 80px;
+  width: auto;
+  margin-right: 1rem;
+}
+
+/* Accent Elements */
+.accent-color {
+  color: var(--cesf-accent-purple);
+}
+
+/* Card/Panel Borders */
+.card,
+.panel {
+  border-top: 3px solid var(--cesf-primary-blue);
+}
+
+/* Active/Current Navigation Item */
+nav .active,
+nav [aria-current="page"] {
+  border-bottom: 2px solid var(--cesf-light-blue);
+  font-weight: bold;
+}
+
+/* Button Hover Effects */
+button:hover,
+input[type="submit"]:hover {
+  background: linear-gradient(135deg, var(--cesf-primary-blue) 0%, var(--cesf-accent-purple) 100%);
+  color: var(--cesf-white);
+}
+
+/* Responsive Logo */
+@media screen and (max-width: 768px) {
+  .site-logo img {
+    max-height: 60px;
+  }
+}

@@ -6,6 +6,9 @@ theme = 'ananke'
 defaultContentLanguageInSubdir = false
 
 [params]
+site_logo = "/images/logo.png"
+favicon = "/images/logo.png"
+custom_css = ["custom.css"]
 social = [
   { name = "Facebook", url = "https://www.facebook.com/cesf" },
   { name = "YouTube", url = "https://www.youtube.com/cesf" },
