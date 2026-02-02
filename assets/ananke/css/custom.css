@@ -20,7 +20,12 @@
 
 /* Header and Navigation */
 body header {
-  background: linear-gradient(135deg, var(--cesf-dark-blue) 0%, var(--cesf-primary-blue) 50%, var(--cesf-light-blue) 100%);
+  background: transparent;
+}
+
+/* Header background container */
+header .bg-black {
+  background: transparent !important;
 }
 
 /* Links */
@@ -112,11 +117,12 @@ table tbody tr:hover {
 
 /* Banner and Logo Styling */
 .cesf-banner {
-  max-height: 120px;
-  width: auto;
+  max-height: 200px;
+  width: 100%;
   max-width: 100%;
   height: auto;
   object-fit: contain;
+  display: block;
 }
 
 .cesf-logo-fallback {
@@ -157,9 +163,15 @@ input[type="submit"]:hover {
 }
 
 /* Responsive Banner and Logo */
+@media screen and (max-width: 1024px) {
+  .cesf-banner {
+    max-height: 150px;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .cesf-banner {
-    max-height: 80px;
+    max-height: 120px;
   }
   
   .cesf-logo-fallback {
@@ -173,6 +185,6 @@ input[type="submit"]:hover {
 
 @media screen and (max-width: 480px) {
   .cesf-banner {
-    max-height: 60px;
+    max-height: 80px;
   }
 }
