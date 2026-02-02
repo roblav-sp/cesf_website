@@ -1,20 +1,44 @@
 ---
 title: "Activités Publiques"
+description: "Découvrez nos réunions, études et activités spirites"
 ---
 
-Réunions d'étude et mini-conférences
-Rencontres ouvertes au public pour les personnes de tous les âges qui souhaitent découvrir ou approfondir leurs connaissances sur le spiritualisme.
+# Nos Activités
 
-Mercredis (en français) : mini-conférences, activité de passes magnétiques pour ceux qui le souhaitent et l'étude systématique de la philosophie spiritualiste.
+Bienvenue aux activités du CESF! Toutes nos réunions sont **gratuites et ouvertes au public**.
 
-Horaire : 19h00 à 21h30
+## 📅 Réunions d'Étude et Mini-Conférences
 
-Samedis (en français) : étude systématique de la philosophie spiritualiste et passes magnétiques pour ceux qui les désirent.
+Rencontres ouvertes au public pour les personnes de tous âges qui souhaitent découvrir ou approfondir leurs connaissances sur le spiritisme.
 
-Horaire : 11h00 à 12h45
+### Mercredis (en Portugais)
+- 🕐 **Horaire:** 19h00 à 21h30
+- 📍 En présentiel et en ligne via Zoom
+- ✨ Mini-conférences, passes magnétiques et étude systématique de la philosophie spirite
 
-Atelier pour enfants et jeunes (en français et portugais)
-Rencontres / activités programmées pour les enfants et les jeunes (3 à 13 ans), orientées selon les enseignements moraux de la philosophie spiritualiste. Ces réunions se tiennent les samedis, une semaine sur deux, de 14h00 à 15h00. Parallèlement, une Réunion de Parents est organisée, dans le but de discuter de sujets liés aux pratiques parentales, au développement de l'enfant, aux relations familiales, entre autres. Consultez l'agenda pour connaître la date du prochain Atelier pour enfants et jeunes, ainsi que de la prochaine Réunion de Parents.
+### Samedis (en Français)
+- 🕐 **Horaire:** 11h00 à 12h45
+- 📍 En présentiel
+- ✨ Étude systématique de la philosophie spirite et passes magnétiques
 
-Rencontre de jeunes (en français et portugais)
-Rencontres / activités programmées pour les adolescents (14 à 18 ans), orientées selon les enseignements moraux de la philosophie spiritualiste. Ces réunions se tiennent les samedis, une semaine sur deux, de 14h00 à 15h00. Parallèlement, les parents peuvent participer à la Réunion de Parents, dans le but de discuter de sujets liés aux pratiques parentales, aux relations familiales, entre autres. Consultez l'agenda pour connaître la date de la prochaine réunion.
+## 👨‍👩‍👧‍👦 Activités pour Enfants et Jeunes
+
+### Atelier pour Enfants (3 à 13 ans)
+- 🕐 **Horaire:** Samedis alternés, 14h00 à 15h00
+- 🌍 **Langues:** Français et Portugais
+- 📚 Activités orientées selon les enseignements moraux de la philosophie spirite
+- 👪 **Réunion de Parents** simultanée pour discussion des pratiques parentales et du développement infantile
+
+### Rencontre de Jeunes (14 à 18 ans)
+- 🕐 **Horaire:** Samedis alternés, 14h00 à 15h00
+- 🌍 **Langues:** Français et Portugais
+- 📚 Activités orientées selon les enseignements moraux de la philosophie spirite
+- 👪 **Réunion de Parents** simultanée disponible
+
+## 📧 Plus d'Informations
+
+Pour les horaires spécifiques et la confirmation des réunions, contactez-nous:  
+**Email:** atendimentofraterno.cesf@gmail.com
+
+[**Voir Autres Activités →**](/fr/outrasatividades/)  
+[**Réunions Publiques →**](/fr/Nossas-Reuniões-Públicas/)

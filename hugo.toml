@@ -3,6 +3,7 @@ languageCode = 'pt-br'
 title = "CESF - Centre d'Études Spirites Fraternité"
 defaultContentLanguage = 'pt'
 theme = 'ananke'
+defaultContentLanguageInSubdir = false
 
 [params]
 social = [
@@ -10,6 +11,8 @@ social = [
   { name = "YouTube", url = "https://www.youtube.com/cesf" },
   { name = "Instagram", url = "https://www.instagram.com/cesf" }
 ]
+featured_image = ""
+description = "FILOSOFIA ESPÍRITA EM MONTREAL - Para compreender a razão da vida"
 
 [languages.pt]
 title = "CESF - Centre d'Études Spirites Fraternité"
@@ -37,18 +40,80 @@ description = "To understand the reason for life"
 
 ignoreLogs = ["warning-goldmark-raw-html"]
 
-[menu]
-[[menu.main]]
-name = "Português"
+# Portuguese Menu
+[[languages.pt.menu.main]]
+name = "Bem-vindo"
 url = "/pt/"
 weight = 1
 
-[[menu.main]]
-name = "Français"
-url = "/fr/"
+[[languages.pt.menu.main]]
+name = "Atividades"
+url = "/pt/atividades/"
 weight = 2
 
-[[menu.main]]
-name = "English"
-url = "/en/"
+[[languages.pt.menu.main]]
+name = "História"
+url = "/pt/historia/"
 weight = 3
+
+[[languages.pt.menu.main]]
+name = "Ensinamentos"
+url = "/pt/ensinamentos-fundamentais/"
+weight = 4
+
+[[languages.pt.menu.main]]
+name = "Contato"
+url = "/pt/contact/"
+weight = 5
+
+# French Menu
+[[languages.fr.menu.main]]
+name = "Bienvenue"
+url = "/fr/"
+weight = 1
+
+[[languages.fr.menu.main]]
+name = "Activités"
+url = "/fr/atividades/"
+weight = 2
+
+[[languages.fr.menu.main]]
+name = "Histoire"
+url = "/fr/historia/"
+weight = 3
+
+[[languages.fr.menu.main]]
+name = "Enseignements"
+url = "/fr/ensinamentos-fundamentais/"
+weight = 4
+
+[[languages.fr.menu.main]]
+name = "Contact"
+url = "/fr/contact/"
+weight = 5
+
+# English Menu
+[[languages.en.menu.main]]
+name = "Welcome"
+url = "/en/"
+weight = 1
+
+[[languages.en.menu.main]]
+name = "Activities"
+url = "/en/atividades/"
+weight = 2
+
+[[languages.en.menu.main]]
+name = "History"
+url = "/en/historia/"
+weight = 3
+
+[[languages.en.menu.main]]
+name = "Teachings"
+url = "/en/ensinamentos-fundamentais/"
+weight = 4
+
+[[languages.en.menu.main]]
+name = "Contact"
+url = "/en/contact/"
+weight = 5

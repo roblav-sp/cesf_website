@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=/pt/">
+    <link rel="canonical" href="/pt/">
+    <script>
+        // Detect browser language and redirect accordingly
+        const userLang = navigator.language || navigator.userLanguage;
+        if (userLang.startsWith('fr')) {
+            window.location.href = '/fr/';
+        } else if (userLang.startsWith('en')) {
+            window.location.href = '/en/';
+        } else {
+            window.location.href = '/pt/';
+        }
+    </script>
+</head>
+<body>
+    <p>Redirecting to <a href="/pt/">Portuguese site</a>...</p>
+</body>
+</html>

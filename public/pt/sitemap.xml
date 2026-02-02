@@ -14,13 +14,23 @@
   </url><url>
     <loc>http://localhost:1313/pt/atividades/</loc>
   </url><url>
+    <loc>http://localhost:1313/fr/outrasatividades/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/livrosbasicos/</loc>
+  </url><url>
     <loc>http://localhost:1313/pt/</loc>
   </url><url>
     <loc>http://localhost:1313/pt/bem-vindo/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/</loc>
   </url><url>
+    <loc>http://localhost:1313/fr/bem-vindo/</loc>
+  </url><url>
     <loc>http://localhost:1313/pt/biografias/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/biografias/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fr/biografias/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
@@ -64,6 +74,10 @@
   </url><url>
     <loc>http://localhost:1313/pt/contact/</loc>
   </url><url>
+    <loc>http://localhost:1313/en/doacoes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fr/doacoes/</loc>
+  </url><url>
     <loc>http://localhost:1313/fr/ensinamentos-fundamentais/</loc>
   </url><url>
     <loc>http://localhost:1313/pt/espiritismoeciencia/</loc>
@@ -78,13 +92,25 @@
   </url><url>
     <loc>http://localhost:1313/pt/livrosbasicos/</loc>
   </url><url>
+    <loc>http://localhost:1313/en/espiritismoereligiao/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fr/espiritismoereligiao/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fr/livrosbasicos/</loc>
+  </url><url>
     <loc>http://localhost:1313/fr/mediunidade/</loc>
   </url><url>
     <loc>http://localhost:1313/en/mediunidade/</loc>
   </url><url>
     <loc>http://localhost:1313/pt/mediunidade/</loc>
   </url><url>
+    <loc>http://localhost:1313/fr/nossas-reuni%C3%B5es-p%C3%BAblicas/</loc>
+  </url><url>
     <loc>http://localhost:1313/pt/nossas-reuni%C3%B5es-p%C3%BAblicas/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/outrasatividades/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/nossas-reuni%C3%B5es-p%C3%BAblicas/</loc>
   </url><url>
     <loc>http://localhost:1313/pt/outrasatividades/</loc>
   </url><url>
@@ -93,6 +119,10 @@
     <loc>http://localhost:1313/fr/praticaespirita/</loc>
   </url><url>
     <loc>http://localhost:1313/en/atividades/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/espiritismoeciencia/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fr/espiritismoeciencia/</loc>
   </url><url>
     <loc>http://localhost:1313/en/praticaespirita/</loc>
   </url><url>
@@ -116,5 +146,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/bem-vindo/</loc>
   </url>
 </urlset>
