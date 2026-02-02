@@ -1,4 +1,4 @@
-# CESF Website - Centro Espírita São Francisco
+# CESF Website - Centre d'Études Spirites Fraternité
 
 A modern, multi-language static website for the CESF Spiritist center in Montreal, built with Hugo and hosted on AWS.
 

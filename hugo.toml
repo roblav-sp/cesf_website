@@ -12,7 +12,7 @@ social = [
 ]
 
 [languages.pt]
-title = "CESF - Centre d'Études Spirites Fraternité"
+title = "CESF - Centro Espírita São Francisco"
 languageCode = "pt-br"
 weight = 1
 
@@ -22,7 +22,7 @@ languageCode = "fr-ca"
 weight = 2
 
 [languages.en]
-title = "CESF - Centre d'Études Spirites Fraternité"
+title = "CESF - Spiritist Study Center Fraternity"
 languageCode = "en-ca"
 weight = 3
 

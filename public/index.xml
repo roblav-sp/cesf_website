@@ -1,116 +1,214 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CESF - Centre d&#39;Études Spirites Fraternité</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on CESF - Centre d&#39;Études Spirites Fraternité</description>
+    <title>CESF - Centro Espírita São Francisco</title>
+    <link>http://localhost:33791/</link>
+    <description>Recent content on CESF - Centro Espírita São Francisco</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:33791/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/pt/doacoes/</link>
+      <link>http://localhost:33791/pt/doacoes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt/doacoes/</guid>
+      <guid>http://localhost:33791/pt/doacoes/</guid>
       <description>&lt;p&gt;Suas doações ao CESF são bem-vindas!&#xA;Ficaríamos gratos em receber doações em dinheiro de qualquer valor, de quem se sente solidário com o ideal espiritualista.&lt;/p&gt;&#xA;&lt;p&gt;Os recursos assim obtidos suportarão parte das despesas mensais da CESF.&lt;/p&gt;&#xA;&lt;p&gt;A CESF agradece sinceramente.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/pt/ensinamentos-fundamentais/</link>
+      <link>http://localhost:33791/pt/ensinamentos-fundamentais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt/ensinamentos-fundamentais/</guid>
+      <guid>http://localhost:33791/pt/ensinamentos-fundamentais/</guid>
       <description>&lt;p&gt;Ensinamentos fundamentais&#xA;Deus é a inteligência suprema, a causa primeira de todas as coisas. Ele é eterno, imutável, imaterial, único, todo-poderoso, supremamente justo e bom.&lt;/p&gt;&#xA;&lt;p&gt;Deus criou o universo, que inclui todos os seres racionais e irracionais, animados e inanimados, materiais e imateriais.&lt;/p&gt;&#xA;&lt;p&gt;Além do mundo corporal, onde vivem os Espíritos encarnados que são homens, existe um mundo espiritual, a casa dos Espíritos desencarnados.&lt;/p&gt;&#xA;&lt;p&gt;No universo, existem outros mundos habitados por seres em diferentes níveis de evolução: iguais, mais evoluídos ou menos evoluídos que os homens.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Assistência espiritual</title>
-      <link>http://localhost:1313/pt/assistenciaespiritual/</link>
+      <title>Activités Publiques</title>
+      <link>http://localhost:33791/fr/atividades/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt/assistenciaespiritual/</guid>
+      <guid>http://localhost:33791/fr/atividades/</guid>
+      <description>&lt;p&gt;Réunions d&amp;rsquo;étude et mini-conférences&#xA;Rencontres ouvertes au public pour les personnes de tous les âges qui souhaitent découvrir ou approfondir leurs connaissances sur le spiritualisme.&lt;/p&gt;&#xA;&lt;p&gt;Mercredis (en français) : mini-conférences, activité de passes magnétiques pour ceux qui le souhaitent et l&amp;rsquo;étude systématique de la philosophie spiritualiste.&lt;/p&gt;&#xA;&lt;p&gt;Horaire : 19h00 à 21h30&lt;/p&gt;&#xA;&lt;p&gt;Samedis (en français) : étude systématique de la philosophie spiritualiste et passes magnétiques pour ceux qui les désirent.&lt;/p&gt;&#xA;&lt;p&gt;Horaire : 11h00 à 12h45&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Assistance Spirituelle</title>
+      <link>http://localhost:33791/fr/assistenciaespiritual/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33791/fr/assistenciaespiritual/</guid>
+      <description>&lt;p&gt;Les centres spirites sont fréquemment sollicités par des personnes ayant besoin d&amp;rsquo;aide pour résoudre diverses problèmes personnels. Certaines personnes ne peuvent pas surmonter la perte d&amp;rsquo;un être cher ; d&amp;rsquo;autres souffrent et sont affectées par la dépression ; beaucoup d&amp;rsquo;autres cherchent à comprendre le sens de leur vie, se sentent déprimées et sans espoir, et d&amp;rsquo;autres encore ont des problèmes physiques dont les causes n&amp;rsquo;ont pas été trouvées.&lt;/p&gt;&#xA;&lt;p&gt;Le CESF maintient un service d&amp;rsquo;assistance spirituelle gratuit pour écouter ces personnes avec attention et chercher à les aider selon la philosophie spirite. En tentant de découvrir les principales raisons de leurs problèmes, nous finissons par les soulager. De nombreuses situations de cette nature peuvent être mieux comprises en appliquant l&amp;rsquo;enseignement spiritualiste selon lequel « tout effet a une cause » et, par conséquent, quand elle est trouvée, les problèmes peuvent être surmontés.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Assistência espiritual</title>
+      <link>http://localhost:33791/pt/assistenciaespiritual/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33791/pt/assistenciaespiritual/</guid>
       <description>&lt;p&gt;Os centros espíritas são freqüentemente procurados por pessoas que precisam de ajuda para resolver uma variedade de problemas pessoais. Algumas pessoas não conseguem superar a perda de um ente querido; outros sofrem e sofrem de depressão; muitos outros procuram entender o significado de suas vidas, estão deprimidos e sem esperança, e ainda outros têm problemas físicos cujas causas não foram encontradas.&lt;/p&gt;&#xA;&lt;p&gt;O CESF mantém um serviço de assistência espiritual gratuito para ouvir essas pessoas com atenção e procurar ajudá-las de acordo com a filosofia espírita. Ao tentar descobrir os principais motivos dos seus problemas, acabamos por os aliviar. Muitas situações dessa natureza podem ser melhor compreendidas aplicando-se o ensino espiritualista de que “todo efeito tem uma causa” e, portanto, quando é encontrado, os problemas podem ser superados.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Atividades públicas</title>
-      <link>http://localhost:1313/pt/atividades/</link>
+      <link>http://localhost:33791/pt/atividades/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt/atividades/</guid>
+      <guid>http://localhost:33791/pt/atividades/</guid>
       <description>&lt;p&gt;Reuniões de estudo e mini-conferências&#xA;Encontros abertos ao público para pessoas de todas as idades que desejam conhecer ou aprofundar seus conhecimentos sobre o espiritualismo.&lt;/p&gt;&#xA;&lt;p&gt;Quartas-feiras (em português): miniconferências, atividade de passes magnéticos para quem quiser e o estudo sistemático da filosofia espiritualista.&lt;/p&gt;&#xA;&lt;p&gt;Horário: 19h00 às 21h30&lt;/p&gt;&#xA;&lt;p&gt;​&lt;/p&gt;&#xA;&lt;p&gt;Sábados (em francês): o estudo sistemático da filosofia espiritualista e passes magnéticos para quem os deseja.&lt;/p&gt;&#xA;&lt;p&gt;Horário: 11h00 às 12h45&lt;/p&gt;&#xA;&lt;p&gt;​&lt;/p&gt;&#xA;&lt;p&gt;Workshop para crianças e jovens (em francês e português)&#xA;Encontros / atividades programadas para crianças e jovens (dos 3 aos 13 anos), orientadas de acordo com os ensinamentos morais da filosofia espiritualista. Estas reuniões realizam-se aos sábados , semana sim , semana não, das 14h00 às 15h00. Paralelamente, é realizada uma Reunião de Pais , com o objetivo de discutir temas relacionados às práticas parentais, ao desenvolvimento infantil, às relações familiares, entre outros. Consulte a agenda aqui à direita para saber a data do próximo Workshop para crianças e jovens, bem como do próximo Encontro de Pais.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bem-vindo ao site da CESF!</title>
-      <link>http://localhost:1313/pt/bem-vindo/</link>
+      <link>http://localhost:33791/pt/bem-vindo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt/bem-vindo/</guid>
+      <guid>http://localhost:33791/pt/bem-vindo/</guid>
       <description>&lt;p&gt;O Centre d&amp;rsquo;Études Spirites Fraternité (CESF) é um centro espírita que visa ajudar todos aqueles que desejam iniciar o estudo e a prática da filosofia espírita, que desejam saber quais são as vantagens que esta filosofia pode trazer em sua vida, ou que desejam aprofundar seus conhecimentos e estudos sobre o espiritismo.&lt;/p&gt;&#xA;&lt;p&gt;No CESF desenvolvemos atividades de estudo básico e aprofundado sobre espiritismo, cuidado espiritual, passes de equilíbrio para os centros de força, tratamento e desenvolvimento espiritual e atividades para o desenvolvimento da mediunidade espírita.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Biografias</title>
-      <link>http://localhost:1313/pt/biografias/</link>
+      <link>http://localhost:33791/pt/biografias/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt/biografias/</guid>
+      <guid>http://localhost:33791/pt/biografias/</guid>
       <description>&lt;p&gt;Para mais informações sobre a biografia dos principais autores da Filosofia do Espiritismo, consulte os seguintes links:&lt;/p&gt;&#xA;&lt;p&gt;Allan Kardec&lt;/p&gt;&#xA;&lt;p&gt;Leon denis&lt;/p&gt;&#xA;&lt;p&gt;Gabriel Delanne&lt;/p&gt;&#xA;&lt;p&gt;Camile Flamarion&lt;/p&gt;&#xA;&lt;p&gt;Francisco Candido Xavier&lt;/p&gt;&#xA;&lt;p&gt;Outros autores importantes:&lt;/p&gt;&#xA;&lt;p&gt;Alexander N. Aksakof&lt;/p&gt;&#xA;&lt;p&gt;Amalia Domingo Soler&lt;/p&gt;&#xA;&lt;p&gt;Andrew Jackson Davis&lt;/p&gt;&#xA;&lt;p&gt;Arthur conam doyle&lt;/p&gt;&#xA;&lt;p&gt;Bezerra de Menezes&lt;/p&gt;&#xA;&lt;p&gt;César Lombroso&lt;/p&gt;&#xA;&lt;p&gt;Charles Richet&lt;/p&gt;&#xA;&lt;p&gt;Daniel Dunglas Home&lt;/p&gt;&#xA;&lt;p&gt;Divaldo Pereira Franco&lt;/p&gt;&#xA;&lt;p&gt;Ernest Bozzano&lt;/p&gt;&#xA;&lt;p&gt;Emmanuel Swedenborg&lt;/p&gt;&#xA;&lt;p&gt;William Crookes&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Contato</title>
-      <link>http://localhost:1313/pt/contact/</link>
+      <title>CESF History</title>
+      <link>http://localhost:33791/en/historia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt/contact/</guid>
+      <guid>http://localhost:33791/en/historia/</guid>
+      <description>&lt;p&gt;Most spiritist centers began with simple study meetings held in family homes, with the participation of relatives and friends. It was from this union and harmony of ideas that many spiritist centers were founded throughout the world. It was no different for the Spiritist Study Center Fraternity. After a period of gatherings of a group of friends that took place every week around a table in the living room of a small apartment, the moment came when they decided to found a spiritist center. The main ideal of this group at that time, and which remains so today, was to promote Spiritism in Montreal, in order to bring to Québécois and immigrants the message of love and charity of spiritist philosophy. Founded on August 9, 2005, CESF began operating at 797 Gordon Street, in Verdun, Montreal, in facilities donated by the couple Roberto Lavoie and Isabelle Norris, active members of the center&amp;rsquo;s work.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:33791/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33791/en/contact/</guid>
+      <description>&lt;p&gt;Get in touch with us.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Email:&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Message:&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Send&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:33791/fr/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33791/fr/contact/</guid>
+      <description>&lt;p&gt;Contactez-nous.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Email:&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Message:&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Envoyer&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>Contato</title>
+      <link>http://localhost:33791/pt/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33791/pt/contact/</guid>
       <description>&lt;p&gt;Entre em contato conosco.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Email:&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Mensagem:&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Enviar&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
-      <title>Espiritismo e Ciência</title>
-      <link>http://localhost:1313/pt/espiritismoeciencia/</link>
+      <title>Enseignements Fondamentaux</title>
+      <link>http://localhost:33791/fr/ensinamentos-fundamentais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt/espiritismoeciencia/</guid>
+      <guid>http://localhost:33791/fr/ensinamentos-fundamentais/</guid>
+      <description>&lt;p&gt;Dieu est l&amp;rsquo;intelligence suprême, la cause première de toutes choses. Il est éternel, immuable, immatériel, unique, tout-puissant, souverainement juste et bon.&lt;/p&gt;&#xA;&lt;p&gt;Dieu a créé l&amp;rsquo;univers, qui comprend tous les êtres rationnels et irrationnels, animés et inanimés, matériels et immatériels.&lt;/p&gt;&#xA;&lt;p&gt;Au-delà du monde corporel, où vivent les Esprits incarnés qui sont les hommes, existe un monde spirituel, la demeure des Esprits désincarnés.&lt;/p&gt;&#xA;&lt;p&gt;Dans l&amp;rsquo;univers, il existe d&amp;rsquo;autres mondes habités par des êtres à différents niveaux d&amp;rsquo;évolution : égaux, plus évolués ou moins évolués que les hommes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Espiritismo e Ciência</title>
+      <link>http://localhost:33791/pt/espiritismoeciencia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33791/pt/espiritismoeciencia/</guid>
       <description>&lt;p&gt;Espiritismo é uma ciência?&lt;/p&gt;&#xA;&lt;p&gt;Por Charles Kempf&lt;/p&gt;&#xA;&lt;p&gt;As palavras espiritualismo e espiritualista têm um significado muito geral: quem pensa que tem algo diferente de matéria nele é um espiritualista. Por outro lado, os termos ESPIRITISMO e ESPIRITA são neologismos, ou seja, palavras inventadas por seu codificador, Allan Kardec.&lt;/p&gt;&#xA;&lt;p&gt;Allan Kardec define o Espiritismo como “uma ciência que trata da natureza, origem e destino dos Espíritos e sua relação com o mundo corporal. O Espiritismo é, portanto, bem definido como ciência. Mas difere das disciplinas científicas já estabelecidas e estudadas nas academias pelo objeto de seus estudos: o elemento espiritual.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Espiritismo é religião?</title>
-      <link>http://localhost:1313/pt/espiritismoereligiao/</link>
+      <link>http://localhost:33791/pt/espiritismoereligiao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt/espiritismoereligiao/</guid>
+      <guid>http://localhost:33791/pt/espiritismoereligiao/</guid>
       <description>&lt;p&gt;O Espiritismo é em si apenas uma doutrina filosófica construída sobre fatos exatos e leis naturais ainda desconhecidas; em sua essência, esta doutrina, ao modificar profundamente as idéias, toca todas as questões sociais e, conseqüentemente, a questão religiosa, como todas as outras. Todas as filosofias não cuidam disso? Já que comentam os fundamentos de todas as religiões, ou seja, Deus, a origem e a natureza da alma? A filosofia materialista não se preocupa também com isso do ponto de vista da negação? É até impossível que uma filosofia não trate dessas questões em uma direção ou outra. O Espiritismo poderia, portanto, tratá-lo paralelamente com a ajuda dos novos elementos que o precede; mas não é isso que constitui uma religião, caso contrário, todas as filosofias seriam religiões.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>História da CESF</title>
-      <link>http://localhost:1313/pt/historia/</link>
+      <title>Fundamental Teachings</title>
+      <link>http://localhost:33791/en/ensinamentos-fundamentais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt/historia/</guid>
+      <guid>http://localhost:33791/en/ensinamentos-fundamentais/</guid>
+      <description>&lt;p&gt;God is the supreme intelligence, the first cause of all things. He is eternal, immutable, immaterial, unique, all-powerful, supremely just and good.&lt;/p&gt;&#xA;&lt;p&gt;God created the universe, which includes all rational and irrational beings, animate and inanimate, material and immaterial.&lt;/p&gt;&#xA;&lt;p&gt;Beyond the corporeal world, where incarnate Spirits who are men live, there exists a spiritual world, the home of disembodied Spirits.&lt;/p&gt;&#xA;&lt;p&gt;In the universe, there are other worlds inhabited by beings at different levels of evolution: equal, more evolved, or less evolved than men.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Histoire du CESF</title>
+      <link>http://localhost:33791/fr/historia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33791/fr/historia/</guid>
+      <description>&lt;p&gt;La plupart des centres spirites ont commencé par de simples réunions d&amp;rsquo;études organisées dans des maisons familiales, avec la participation de parents et d&amp;rsquo;amis. C&amp;rsquo;est de cette union et de cette harmonie d&amp;rsquo;idées que de nombreux centres spirites ont été fondés dans le monde entier. Il en a été de même pour le Centre d&amp;rsquo;Études Spirites Fraternité. Après une période de rencontres d&amp;rsquo;un groupe d&amp;rsquo;amis qui se déroulaient chaque semaine autour d&amp;rsquo;une table dans le salon d&amp;rsquo;un petit appartement, est venu le moment où ils ont décidé de fonder un centre spirite. Le principal idéal de ce groupe à l&amp;rsquo;époque, et qui l&amp;rsquo;est toujours aujourd&amp;rsquo;hui, était de promouvoir le Spiritisme à Montréal, afin d&amp;rsquo;apporter aux Québécois et aux immigrants le message d&amp;rsquo;amour et de charité de la philosophie spirite. Fondé le 9 août 2005, le CESF a commencé ses opérations au 797 rue Gordon, à Verdun, Montréal, dans des locaux donnés par le couple Roberto Lavoie et Isabelle Norris, membres actifs de l&amp;rsquo;œuvre du centre.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>História da CESF</title>
+      <link>http://localhost:33791/pt/historia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33791/pt/historia/</guid>
       <description>&lt;p&gt;A maioria dos centros espíritas começou com reuniões de estudo simples realizadas em casas de famílias, com a participação de parentes e amigos. É a partir dessa união e dessa harmonia de ideias que muitos centros espíritas foram fundados em todo o mundo. Não foi diferente com o Centre d&amp;rsquo;Études Spirites Fraternité. Após um período de encontros de um grupo de amigos que se realizavam todas as semanas em torno de uma mesa na sala de um pequeno apartamento, chegou o momento em que decidiram fundar um centro espírita. O principal ideal desse grupo na época e que ainda é hoje, era divulgar o Espiritismo em Montreal, a fim de levar aos quebequenses e imigrantes a mensagem de amor e caridade da filosofia espírita. Fundado em 9 de agosto de 2005, o CESF começou a operar na rue Gordon 797, em Verdun, Montreal, em instalações doadas pelo casal Roberto Lavoie e Isabelle Norris, membros ativos da obra do centro.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ir para o conteúdo principal</title>
-      <link>http://localhost:1313/pt/livrosbasicos/</link>
+      <link>http://localhost:33791/pt/livrosbasicos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt/livrosbasicos/</guid>
+      <guid>http://localhost:33791/pt/livrosbasicos/</guid>
       <description>&lt;p&gt;Centre d&amp;rsquo;Études Spirites Fraternité à Montréal&#xA;Centre d&amp;rsquo;Études Spirites Fraternité&#xA;FILOSOFIA ESPIRITA EM MONTREAL&#xA;Para entender a razão da vida&#xA;Facebook - White Circle&#xA;YouTube - White Circle&#xA;Portuguese&#xA;PT&#xA;HOME&#xA;Sobre&lt;/p&gt;&#xA;&lt;p&gt;Atividades&lt;/p&gt;&#xA;&lt;p&gt;Assistência Espiritual&#xA;Conheça o Espiritismo&lt;/p&gt;&#xA;&lt;p&gt;Doações&#xA;Contate-Nos&#xA;Blog&#xA;Livros Básicos&#xA;O Livro dos Espíritos&#xA;​&#xA;Publicado por Allan Kardec em 1857, é o principal livro da filosofia espírita. Podemos chamá-lo de sua espinha dorsal porque apoia todas as outras obras do espiritismo. Está dividido em quatro partes: &amp;ldquo;Causas primárias&amp;rdquo;; “O mundo espiritual ou os Espíritos”; &amp;ldquo;Leis morais&amp;rdquo;; e “Esperanças e Consolação”. É composto por 1.018 perguntas feitas por Kardec aos Espíritos superiores responsáveis ​​pela chegada do Espiritismo entre os homens. O que é Deus? De onde nós viemos ? Onde estamos indo ? O que estamos fazendo na Terra? Estas são algumas das perguntas respondidas pela falange do Espírito da Verdade.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Mediunidade</title>
-      <link>http://localhost:1313/pt/mediunidade/</link>
+      <title>Médiumnité</title>
+      <link>http://localhost:33791/fr/mediunidade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt/mediunidade/</guid>
+      <guid>http://localhost:33791/fr/mediunidade/</guid>
+      <description>&lt;p&gt;De Leon Denis, dans le livre: Dans l&amp;rsquo;invisible&lt;/p&gt;&#xA;&lt;p&gt;Toutes les manifestations de la nature et de la vie se résument en vibrations, plus ou moins rapides et étendues, selon les causes qui les produisent. Tout vibre dans l&amp;rsquo;univers : le son, la lumière, la chaleur, l&amp;rsquo;électricité, le magnétisme, les rayons chimiques, les rayons cathodiques, les ondes radio, etc., ne sont que les différents modes d&amp;rsquo;ondulation, vibration de la force universelle et de la substance, les degrés successifs qui constituent, dans l&amp;rsquo;ensemble, l&amp;rsquo;échelle ascendante des manifestations d&amp;rsquo;énergie.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mediumship</title>
+      <link>http://localhost:33791/en/mediunidade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33791/en/mediunidade/</guid>
+      <description>&lt;p&gt;From Leon Denis, in the book: In the Invisible&lt;/p&gt;&#xA;&lt;p&gt;All manifestations of nature and life can be summarized in vibrations, more or less rapid and extensive, according to the causes that produce them. Everything vibrates in the universe: sound, light, heat, electricity, magnetism, chemical rays, cathode rays, radio waves, etc., are only the various modes of undulation, vibration of universal force and substance, the successive degrees that constitute, as a whole, the ascending scale of energy manifestations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mediunidade</title>
+      <link>http://localhost:33791/pt/mediunidade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33791/pt/mediunidade/</guid>
       <description>&lt;p&gt;De Leon Denis, no livro: No invisível&lt;/p&gt;&#xA;&lt;p&gt;Todas as manifestações da natureza e da vida se resumem em vibrações, mais ou menos rápidas e extensas, de acordo com as causas que as produzem. Tudo vibra no universo: som, luz, calor, eletricidade, magnetismo, raios químicos, raios catódicos, ondas de rádio, etc., são apenas os vários modos de ondulação, vibração da força universal e da substância, os graus sucessivos que constituem, como um todo, a escala ascendente das manifestações de energia.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nossas Reuniões Públicas</title>
-      <link>http://localhost:1313/pt/nossas-reuni%C3%B5es-p%C3%BAblicas/</link>
+      <link>http://localhost:33791/pt/nossas-reuni%C3%B5es-p%C3%BAblicas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt/nossas-reuni%C3%B5es-p%C3%BAblicas/</guid>
+      <guid>http://localhost:33791/pt/nossas-reuni%C3%B5es-p%C3%BAblicas/</guid>
       <description>&lt;p&gt;Reuniões híbridas (presencial e via zoom):&lt;/p&gt;&#xA;&lt;p&gt;Quarta-feira: Conferência e estudos com passes presenciais em português: 19h00 - 20h20 e/ou 20h30 - 21h00&lt;/p&gt;&#xA;&lt;p&gt;Atendimento Fraterno: Se precisar de ajuda ou sentir necessidade de falar com alguém, escreva para:​​atendimentofraterno.cesf@gmail.com&lt;/p&gt;&#xA;&lt;p&gt;Reuniões somente presenciais:&lt;/p&gt;&#xA;&lt;p&gt;A cada dois Sábados: Evangelização Infantil (3 a 18 anos) e grupo de pais: 15h - 16h&lt;/p&gt;&#xA;&lt;p&gt;​​&lt;/p&gt;&#xA;&lt;p&gt;Reuniões somente online, através do Zoom:&lt;/p&gt;&#xA;&lt;p&gt;Terça-feira: Assistência Espiritual: 20h00 - 21h00 (uma semana em francês e uma semana em inglês com slides em português e em francês/inglês)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Outras atividades</title>
-      <link>http://localhost:1313/pt/outrasatividades/</link>
+      <link>http://localhost:33791/pt/outrasatividades/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt/outrasatividades/</guid>
+      <guid>http://localhost:33791/pt/outrasatividades/</guid>
       <description>&lt;p&gt;Reuniões mediúnicas&#xA;Destina-se ao atendimento de espíritos desencarnados que necessitam de orientação e esclarecimento e também aos encarnados que necessitam de auxílio espiritual e que se encontram em estado de obsessão .&lt;/p&gt;&#xA;&lt;p&gt;Reuniões de estudo e educação mediúnica *&#xA;Tendo como base os princípios e os objetivos espíritas com o objetivo de esclarecer e direcionar, bem como preparar os trabalhadores para as atividades mediúnicas.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;As reuniões de mediunidade não são abertas ao público, mas se desejar um horário para falar sobre mediunidade, por favor, entre em contato conosco.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Prática espírita</title>
-      <link>http://localhost:1313/pt/praticaespirita/</link>
+      <link>http://localhost:33791/pt/praticaespirita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt/praticaespirita/</guid>
+      <guid>http://localhost:33791/pt/praticaespirita/</guid>
       <description>&lt;p&gt;Toda prática espiritualista é gratuita, segundo o princípio do Evangelho: &amp;ldquo;Dê de graça o que você recebeu de graça&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;A prática espiritualista não tem adoração externa, de acordo com o princípio cristão de que Deus deve ser adorado em espírito e em verdade.&lt;/p&gt;&#xA;&lt;p&gt;O Espiritismo não tem sacerdócio, guru e afins. Ele não adota nem usa em suas reuniões e práticas: facings, bebidas alcoólicas, incenso, fumaça, altares, ícones, macas, velas, procissões, talismãs, amuletos, sacramentos, concessão de indulgências, horóscopos, adivinhação, pirâmides, cristais , búzios, rituais ou qualquer outra forma de culto externo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pratique Spirite</title>
+      <link>http://localhost:33791/fr/praticaespirita/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33791/fr/praticaespirita/</guid>
+      <description>&lt;p&gt;Toute pratique spiritualiste est gratuite, selon le principe de l&amp;rsquo;Evangile : « Donnez gratuitement ce que vous avez reçu gratuitement ».&lt;/p&gt;&#xA;&lt;p&gt;La pratique spiritualiste n&amp;rsquo;a pas de culte externe, selon le principe chrétien selon lequel Dieu doit être adoré en esprit et en vérité.&lt;/p&gt;&#xA;&lt;p&gt;Le Spiritisme n&amp;rsquo;a pas de sacerdoce, de gourou et similaires. Il n&amp;rsquo;adopte ni n&amp;rsquo;utilise dans ses réunions et pratiques : faces, boissons alcoolisées, encens, fumée, autels, icônes, civières, bougies, processions, talismans, amulettes, sacrements, concession d&amp;rsquo;indulgences, horoscopes, divination, pyramides, cristaux, coquillages, rituels ou toute autre forme de culte externe.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Public Activities</title>
+      <link>http://localhost:33791/en/atividades/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33791/en/atividades/</guid>
+      <description>&lt;p&gt;Study Meetings and Mini-Lectures&#xA;Open meetings for people of all ages who wish to discover or deepen their knowledge about spiritualism.&lt;/p&gt;&#xA;&lt;p&gt;Wednesdays (in French): mini-lectures, magnetic passes activity for those who wish and systematic study of spiritualist philosophy.&lt;/p&gt;&#xA;&lt;p&gt;Time: 7:00 PM to 9:30 PM&lt;/p&gt;&#xA;&lt;p&gt;Saturdays (in French): systematic study of spiritualist philosophy and magnetic passes for those who desire them.&lt;/p&gt;&#xA;&lt;p&gt;Time: 11:00 AM to 12:45 PM&lt;/p&gt;&#xA;&lt;p&gt;Workshop for Children and Young People (in French and Portuguese)&#xA;Meetings / activities scheduled for children and young people (3 to 13 years old), guided according to the moral teachings of spiritualist philosophy. These meetings take place on Saturdays, every other week, from 2:00 PM to 3:00 PM. In parallel, a Parents&amp;rsquo; Meeting is held, aimed at discussing topics related to parenting practices, child development, family relationships, among others. Check the calendar to find the date of the next Workshop for children and young people, as well as the next Parents&amp;rsquo; Meeting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spiritist Practice</title>
+      <link>http://localhost:33791/en/praticaespirita/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33791/en/praticaespirita/</guid>
+      <description>&lt;p&gt;All spiritualist practice is free, according to the Gospel principle: &amp;ldquo;Give freely what you have received freely&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Spiritualist practice has no external worship, according to the Christian principle that God should be worshipped in spirit and in truth.&lt;/p&gt;&#xA;&lt;p&gt;Spiritism has no priesthood, gurus, and the like. It does not adopt or use in its meetings and practices: facings, alcoholic beverages, incense, smoke, altars, icons, stretchers, candles, processions, talismans, amulets, sacraments, granting of indulgences, horoscopes, divination, pyramids, crystals, seashells, rituals, or any other form of external worship.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spiritual Assistance</title>
+      <link>http://localhost:33791/en/assistenciaespiritual/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33791/en/assistenciaespiritual/</guid>
+      <description>&lt;p&gt;Spiritist centers are frequently sought by people who need help to resolve a variety of personal problems. Some people cannot overcome the loss of a loved one; others suffer and suffer from depression; many others seek to understand the meaning of their lives, are depressed and hopeless, and still others have physical problems whose causes have not been found.&lt;/p&gt;&#xA;&lt;p&gt;CESF maintains a free spiritual assistance service to listen to these people with attention and seek to help them according to spiritist philosophy. By attempting to discover the main reasons for their problems, we end up relieving them. Many situations of this nature can be better understood by applying the spiritualist teaching that &amp;ldquo;every effect has a cause&amp;rdquo; and, therefore, when it is found, problems can be overcome.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
