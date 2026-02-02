@@ -110,7 +110,21 @@ table tbody tr:hover {
   background-color: var(--cesf-light-gray);
 }
 
-/* Logo Styling */
+/* Banner and Logo Styling */
+.cesf-banner {
+  max-height: 120px;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.cesf-logo-fallback {
+  max-height: 80px;
+  width: auto;
+  margin-right: 1rem;
+}
+
 .site-logo img {
   max-height: 80px;
   width: auto;
@@ -142,9 +156,23 @@ input[type="submit"]:hover {
   color: var(--cesf-white);
 }
 
-/* Responsive Logo */
+/* Responsive Banner and Logo */
 @media screen and (max-width: 768px) {
+  .cesf-banner {
+    max-height: 80px;
+  }
+  
+  .cesf-logo-fallback {
+    max-height: 60px;
+  }
+  
   .site-logo img {
+    max-height: 60px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .cesf-banner {
     max-height: 60px;
   }
 }

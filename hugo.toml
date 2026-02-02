@@ -6,6 +6,7 @@ theme = 'ananke'
 defaultContentLanguageInSubdir = false
 
 [params]
+banner_image = "/images/banner.png"
 site_logo = "/images/logo.png"
 favicon = "/images/logo.png"
 custom_css = ["custom.css"]
