@@ -23,13 +23,7 @@
     <div class="pb3-m pb6-l bg-black">
       {{ partials.Include "site-navigation.html" . }}
 
-      {{ if .Site.Params.banner_image }}
-        <div class="cesf-banner-wrapper">
-          <a href="{{ .Site.Home.RelPermalink }}" class="db">
-            <img src="{{ urls.RelURL .Site.Params.banner_image }}" class="cesf-banner w-100" alt="{{ .Site.Title }}" onerror="this.onerror=null; this.src='{{ urls.RelURL .Site.Params.site_logo }}'; this.className='cesf-logo-fallback';" />
-          </a>
-        </div>
-      {{ else }}
+      {{ if not .Site.Params.banner_image }}
         <div class="tc-l pv3 ph3 ph4-ns">
           <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
             {{ .Title | compare.Default .Site.Title }}
