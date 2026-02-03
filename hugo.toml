@@ -3,7 +3,7 @@ languageCode = 'pt-br'
 title = "CESF - Centre d'Études Spirites Fraternité"
 defaultContentLanguage = 'pt'
 theme = 'ananke'
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 
 [params]
 banner_image = "/images/banner.png"
