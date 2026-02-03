@@ -47,6 +47,9 @@ header .bg-black {
   margin-bottom: 0;
   padding: 0;
   overflow: hidden;
+  display: flex;
+  justify-content: center;
+  background-color: var(--cesf-dark-blue); /* Match header background */
 }
 
 /* Navigation Bar Below Banner */
@@ -152,11 +155,11 @@ table tbody tr:hover {
 .cesf-banner {
   width: 100%;
   height: auto;
-  min-height: auto; /* Allow height to shrink proportionally */
-  max-width: 100%;
-  object-fit: contain; /* Ensure full image is visible */
+  min-height: auto;
+  max-width: 1611px; /* Locked to image intrinsic width */
+  object-fit: contain;
   display: block;
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
 }
 
