@@ -55,6 +55,12 @@ header .bg-black {
   width: 100%;
 }
 
+/* Hide the page/site title when the banner is present (banner is rendered in .cesf-header-container) */
+.cesf-header-container + .tc-l,
+.cesf-banner-wrapper + .tc-l {
+  display: none;
+}
+
 /* Links */
 a {
   color: var(--cesf-primary-blue);
