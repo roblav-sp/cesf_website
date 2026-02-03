@@ -152,9 +152,9 @@ table tbody tr:hover {
 .cesf-banner {
   width: 100%;
   height: auto;
-  max-height: 300px;
-  object-fit: cover;
-  object-position: center;
+  min-height: auto; /* Allow height to shrink proportionally */
+  max-width: 100%;
+  object-fit: contain; /* Ensure full image is visible */
   display: block;
   margin: 0;
   padding: 0;
@@ -198,17 +198,9 @@ input[type="submit"]:hover {
 }
 
 /* Responsive Banner and Logo */
-@media screen and (max-width: 1024px) {
-  .cesf-banner {
-    max-height: 250px;
-  }
-}
+/* Removed fixed max-heights to allow proportional scaling */
 
 @media screen and (max-width: 768px) {
-  .cesf-banner {
-    max-height: 180px;
-  }
-  
   .cesf-logo-fallback {
     max-height: 60px;
   }
@@ -218,8 +210,3 @@ input[type="submit"]:hover {
   }
 }
 
-@media screen and (max-width: 480px) {
-  .cesf-banner {
-    max-height: 120px;
-  }
-}
