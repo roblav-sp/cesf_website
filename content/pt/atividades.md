@@ -3,42 +3,70 @@ title: "Atividades Públicas"
 description: "Confira nossas reuniões, estudos e atividades espíritas"
 ---
 
-# Nossas Atividades
+# 📅 Horário das Atividades
 
-Bem-vindo às atividades do CESF! Todas as nossas reuniões são **gratuitas e abertas ao público**.
+## Quarta-feira (🇵🇹 Português) 📍+ 💻
 
-## 📅 Reuniões de Estudo e Mini-Conferências
+### 🎙️ 18h45 - 20h00
+**Palestras sobre o espiritismo**  
+(Público em Geral)  
+📍 + 💻 Reuniões Híbridas (Presencial e Zoom)
 
-Encontros abertos ao público para pessoas de todas as idades que desejam conhecer ou aprofundar seus conhecimentos sobre o espiritualismo.
+### 🙌 20h00 - 20h20
+**Passes magnéticos**  
+📍 Presencial
 
-### Quartas-feiras (em Português)
-- 🕐 **Horário:** 19h00 às 21h30
-- 📍 Presencial e online via Zoom
-- ✨ Miniconferências, passes magnéticos e estudo sistemático da filosofia espiritualista
+### 📖 20h30 - 21h00
+**Estudo do Livro dos Espíritos de Allan Kardec**  
+📍 + 💻 Reuniões Híbridas (Presencial e Zoom)
 
-### Sábados (em Francês)
-- 🕐 **Horário:** 11h00 às 12h45
-- 📍 Presencial
-- ✨ Estudo sistemático da filosofia espiritualista e passes magnéticos
+### 🧑‍🎓 19h00 - 20h00 : NOVO
+**Estudos para Jovens (18 a 35 anos)**  
+📍 Somente presencial (Simultaneamente à palestra pública)
 
-## 👨‍👩‍👧‍👦 Atividades para Crianças e Jovens
+**📅 Datas**  
+Fev: 04 e 18 | Mar: 04 e 18 | Abr: 01, 15 e 29 | Mai: 13 e 27 | Jun: 10 e 24
 
-### Workshop para Crianças (3 a 13 anos)
-- 🕐 **Horário:** Sábados alternados, 14h00 às 15h00
-- 🌍 **Idiomas:** Francês e Português
-- 📚 Atividades orientadas segundo os ensinamentos morais da filosofia espiritualista
-- 👪 **Reunião de Pais** simultânea para discussão de práticas parentais e desenvolvimento infantil
+---
 
-### Encontro de Jovens (14 a 18 anos)
-- 🕐 **Horário:** Sábados alternados, 14h00 às 15h00
-- 🌍 **Idiomas:** Francês e Português
-- 📚 Atividades orientadas segundo os ensinamentos morais da filosofia espiritualista
-- 👪 **Reunião de Pais** simultânea disponível
+## 💻 Somente via Zoom
 
-## 📧 Mais Informações
+### Terça-feira (🇫🇷 Francês / 🇬🇧 Inglês) 💻
 
-Para horários específicos e confirmação das reuniões, entre em contato:  
-**Email:** atendimentofraterno.cesf@gmail.com
+**🕊️ 19h30 - 21h30**  
+Atendimento Espiritual (Alternância semanal FR/EN com slides multilíngues)
+
+### Quinta-feira (🇵🇹 Português) 💻
+
+**📚 19h00 - 20h00 (🇵🇹)**  
+Estudo dos livros do médium Divaldo Franco e do espírito Joana de Ângelis
+
+**🌍 20h15 - 21h00 (🇵🇹 / 🇫🇷)**  
+Vibrações coletivas pelo planeta (Alternância semanal)
+
+### Sábado (🇫🇷 Francês) 💻
+
+**🎙️ 10h30 às 11h30 (🇫🇷 Francês)**  
+Palestras e estudo sistematizado da filosofia espírita através do estudo de livros de Allan Kardec e outras fontes.
+
+---
+
+## 🤝 Apoio e Fraternidade
+
+### ❤️ Atendimento Fraterno
+Precisa ser ouvido ou de ajuda?  
+📩 Escreva para nós: [atendimentofraterno.cesf@gmail.com](mailto:atendimentofraterno.cesf@gmail.com)
+
+---
+
+## 🔗 Acesso e Contato
+
+🎥 **Link Zoom:** [Clique aqui para entrar](https://zoom.us/j/7478764062?pwd=cesf)  
+🆔 **ID:** 7478 764 062 | 🔑 **Senha:** cesf
+
+📱 **WhatsApp:** Participe do nosso grupo para artigos e avisos  
+👍 **Facebook:** [Siga-nos aqui](https://www.facebook.com/cesf)  
+📧 **Informações gerais:** cesfraternite@gmail.com ou cesf@cesf.com
 
 [**Ver Outras Atividades →**](/pt/outrasatividades/)  
 [**Reuniões Públicas →**](/pt/Nossas-Reuniões-Públicas/)

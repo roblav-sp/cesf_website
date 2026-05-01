@@ -1,0 +1,61 @@
+baseURL = 'https://cesf.ca/'
+languageCode = 'pt-br'
+title = "CESF - Centre d'Études Spirites Fraternité"
+defaultContentLanguage = 'pt'
+theme = 'ananke'
+defaultContentLanguageInSubdir = true
+
+[params]
+site_logo = "/images/logo.png"
+favicon = "/images/logo_small.png"
+banner_image = "/images/banner.png"
+custom_css = ["custom.css"]
+social = [
+  { name = "Facebook", url = "https://www.facebook.com/cesf" },
+  { name = "YouTube", url = "https://www.youtube.com/cesf" },
+  { name = "Instagram", url = "https://www.instagram.com/cesf" }
+]
+featured_image = "/images/banner.png"
+description = "FILOSOFIA ESPÍRITA EM MONTREAL - Para compreender a razão da vida"
+
+[languages.pt]
+title = "CESF - Centre d'Études Spirites Fraternité"
+languageCode = "pt-br"
+weight = 1
+contentDir = "content/pt"
+[languages.pt.params]
+subtitle = "FILOSOFIA ESPÍRITA EM MONTREAL"
+description = "Para compreender a razão da vida"
+
+ignoreLogs = ["warning-goldmark-raw-html"]
+
+# Portuguese Menu
+[[languages.pt.menu.main]]
+name = "Bem-vindo"
+pageRef = "/bem-vindo"
+weight = 1
+identifier = "home"
+
+[[languages.pt.menu.main]]
+name = "Atividades"
+pageRef = "/atividades"
+weight = 2
+identifier = "atividades"
+
+[[languages.pt.menu.main]]
+name = "História"
+pageRef = "/historia"
+weight = 3
+identifier = "historia"
+
+[[languages.pt.menu.main]]
+name = "Ensinamentos"
+pageRef = "/ensinamentos-fundamentais"
+weight = 4
+identifier = "ensinamentos"
+
+[[languages.pt.menu.main]]
+name = "Contato"
+pageRef = "/contact"
+weight = 5
+identifier = "contact"

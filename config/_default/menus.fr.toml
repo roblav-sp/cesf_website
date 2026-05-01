@@ -1,0 +1,24 @@
+[[main]]
+  name = "Bienvenue"
+  pageRef = "bem-vindo"
+  weight = 1
+
+[[main]]
+  name = "Activités"
+  pageRef = "atividades"
+  weight = 2
+
+[[main]]
+  name = "Histoire"
+  pageRef = "historia"
+  weight = 3
+
+[[main]]
+  name = "Enseignements"
+  pageRef = "ensinamentos-fundamentais"
+  weight = 4
+
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 5

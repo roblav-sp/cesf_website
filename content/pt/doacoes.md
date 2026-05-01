@@ -1,22 +1,26 @@
 ---
-title: ""
+title: "Doações"
 ---
-Suas doações ao CESF são bem-vindas!
+
+Suas doações ao CESF são bem-vindas! 
 Ficaríamos gratos em receber doações em dinheiro de qualquer valor, de quem se sente solidário com o ideal espiritualista.
 
 Os recursos assim obtidos suportarão parte das despesas mensais da CESF.
 
 A CESF agradece sinceramente.
 
-
+### Doação Única
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="UPBBPGGH56KBS">
-<input type="image" src="https://www.paypalobjects.com/fr_CA/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - la solution de paiement en ligne la plus simple et la plus sécurisée !">
+<input type="image" src="https://www.paypalobjects.com/fr_CA/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+---
 
+### Contribuição Mensal (Assinatura)
+Selecione o valor mensal desejado:
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="PPUJK82V2G2HN">
@@ -35,6 +39,6 @@ A CESF agradece sinceramente.
 </select> </td></tr>
 </tbody></table>
 <input type="hidden" name="currency_code" value="CAD">
-<input type="image" src="https://www.paypalobjects.com/fr_CA/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - la solution de paiement en ligne la plus simple et la plus sécurisée !">
+<input type="image" src="https://www.paypalobjects.com/fr_CA/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>

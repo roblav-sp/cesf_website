@@ -1,0 +1,22 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 2
+contentDir = "content/en"
+
+title = "CESF - Centre d'Études Spirites Fraternité"
+
+[params]
+  dateFormat = "January 2, 2006"
+  description = "SPIRITIST PHILOSOPHY IN MONTREAL - To understand the reason for life"
+
+[params.author]
+  name = "CESF"
+  headline = "Centre d'Études Spirites Fraternité"
+  bio = "A spiritist center in Montreal dedicated to the study and practice of spiritist philosophy."
+  links = [
+    { email = "mailto:atendimentofraterno.cesf@gmail.com" },
+    { facebook = "https://www.facebook.com/cesf" },
+    { youtube = "https://www.youtube.com/cesf" },
+    { instagram = "https://www.instagram.com/cesf" }
+  ]

@@ -1,0 +1,22 @@
+languageCode = "fr"
+languageName = "Français"
+languageDirection = "ltr"
+weight = 3
+contentDir = "content/fr"
+
+title = "CESF - Centre d'Études Spirites Fraternité"
+
+[params]
+  dateFormat = "2 January 2006"
+  description = "PHILOSOPHIE SPIRITE À MONTRÉAL - Pour comprendre la raison de la vie"
+
+[params.author]
+  name = "CESF"
+  headline = "Centre d'Études Spirites Fraternité"
+  bio = "Un centre spirite à Montréal dédié à l'étude et à la pratique de la philosophie spirite."
+  links = [
+    { email = "mailto:atendimentofraterno.cesf@gmail.com" },
+    { facebook = "https://www.facebook.com/cesf" },
+    { youtube = "https://www.youtube.com/cesf" },
+    { instagram = "https://www.instagram.com/cesf" }
+  ]

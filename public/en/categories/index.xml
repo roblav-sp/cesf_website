@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on CESF - Centre d&#39;Études Spirites Fraternité</title>
-    <link>http://localhost:1313/en/categories/</link>
+    <link>http://localhost:45197/en/categories/</link>
     <description>Recent content in Categories on CESF - Centre d&#39;Études Spirites Fraternité</description>
     <generator>Hugo</generator>
-    <language>en-ca</language>
-    <atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="http://localhost:45197/en/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

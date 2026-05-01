@@ -1,56 +1,377 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://localhost:1313/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-ca"
-                href="http://localhost:1313/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-ca"
-                href="http://localhost:1313/en/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-ca"
-                href="http://localhost:1313/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-ca"
-                href="http://localhost:1313/en/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-ca"
-                href="http://localhost:1313/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-ca"
-                href="http://localhost:1313/en/tags/"
-                />
-  </url>
+  
+    
+      <url>
+            <loc>http://localhost:45197/en/livrosbasicos/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt"
+              href="http://localhost:45197/pt/livrosbasicos/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="http://localhost:45197/fr/livrosbasicos/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:45197/en/livrosbasicos/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:45197/en/biografias/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt"
+              href="http://localhost:45197/pt/biografias/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="http://localhost:45197/fr/biografias/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:45197/en/biografias/"
+              />
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:45197/en/historia/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt"
+              href="http://localhost:45197/pt/historia/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="http://localhost:45197/fr/historia/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:45197/en/historia/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:45197/en/contact/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt"
+              href="http://localhost:45197/pt/contact/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="http://localhost:45197/fr/contact/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:45197/en/contact/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:45197/en/doacoes/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt"
+              href="http://localhost:45197/pt/doacoes/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="http://localhost:45197/fr/doacoes/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:45197/en/doacoes/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:45197/en/ensinamentos-fundamentais/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt"
+              href="http://localhost:45197/pt/ensinamentos-fundamentais/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="http://localhost:45197/fr/ensinamentos-fundamentais/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:45197/en/ensinamentos-fundamentais/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:45197/en/espiritismoereligiao/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt"
+              href="http://localhost:45197/pt/espiritismoereligiao/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="http://localhost:45197/fr/espiritismoereligiao/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:45197/en/espiritismoereligiao/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:45197/en/mediunidade/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt"
+              href="http://localhost:45197/pt/mediunidade/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="http://localhost:45197/fr/mediunidade/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:45197/en/mediunidade/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:45197/en/outrasatividades/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt"
+              href="http://localhost:45197/pt/outrasatividades/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="http://localhost:45197/fr/outrasatividades/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:45197/en/outrasatividades/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:45197/en/nossas-reuni%C3%B5es-p%C3%BAblicas/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt"
+              href="http://localhost:45197/pt/nossas-reuni%C3%B5es-p%C3%BAblicas/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="http://localhost:45197/fr/nossas-reuni%C3%B5es-p%C3%BAblicas/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:45197/en/nossas-reuni%C3%B5es-p%C3%BAblicas/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:45197/en/atividades/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt"
+              href="http://localhost:45197/pt/atividades/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="http://localhost:45197/fr/atividades/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:45197/en/atividades/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:45197/en/espiritismoeciencia/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt"
+              href="http://localhost:45197/pt/espiritismoeciencia/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="http://localhost:45197/fr/espiritismoeciencia/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:45197/en/espiritismoeciencia/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:45197/en/praticaespirita/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt"
+              href="http://localhost:45197/pt/praticaespirita/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="http://localhost:45197/fr/praticaespirita/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:45197/en/praticaespirita/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:45197/en/assistenciaespiritual/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt"
+              href="http://localhost:45197/pt/assistenciaespiritual/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="http://localhost:45197/fr/assistenciaespiritual/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:45197/en/assistenciaespiritual/"
+              />
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:45197/en/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt"
+              href="http://localhost:45197/pt/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="http://localhost:45197/fr/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:45197/en/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:45197/en/bem-vindo/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="pt"
+              href="http://localhost:45197/pt/bem-vindo/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="fr"
+              href="http://localhost:45197/fr/bem-vindo/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:45197/en/bem-vindo/"
+              />
+          </url>
+    
+  
 </urlset>

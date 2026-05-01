@@ -22,18 +22,7 @@ Nous vous invitons à découvrir notre site, à consulter nos activités et à o
 Nous sommes certains que vous apprécierez une visite à notre maison spirite!
 
 [**Voir Nos Activités →**](/fr/atividades/)
+
 ### 📧 Contactez-nous
 **Email:** atendimentofraterno.cesf@gmail.com  
 **Adresse:** 5573 rue Verdun, Montréal, QC
-
-
-### Visitez-nous
-
-Si vous recherchez un centre spirite pour approfondir vos études, partager vos connaissances, chercher de l'aide ou même vous porter volontaire pour aider les autres, le CESF est prêt à vous accueillir de manière sincère, avec beaucoup de soin et de respect.
-
-📍 **Adresse :** 5573 rue Verdun, Montréal  
-📧 **Courriel :** atendimentofraterno.cesf@gmail.com
-
-[**Voir Nos Activités →**](/fr/atividades/)
-
-Nous sommes certains que vous apprécierez une visite à notre maison spirite!
