@@ -1,6 +1,6 @@
-languageCode = "pt-br"
-languageName = "Português"
-languageDirection = "ltr"
+locale = "pt-br"
+label = "Português"
+direction = "ltr"
 weight = 1
 contentDir = "content/pt"
 
