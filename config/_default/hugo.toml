@@ -1,4 +1,4 @@
-baseURL = 'https://cesf.ca/'
+baseURL = 'https://www.cesf.ca/'
 defaultContentLanguage = 'pt'
 defaultContentLanguageInSubdir = true
 theme = 'congo'
