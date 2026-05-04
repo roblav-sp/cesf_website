@@ -38,7 +38,7 @@ Rencontres ouvertes au public pour les personnes de tous âges qui souhaitent d�
 ## 📧 Plus d'Informations
 
 Pour les horaires spécifiques et la confirmation des réunions, contactez-nous:  
-**Email:** atendimentofraterno.cesf@gmail.com
+**Email:** cesfraternite@gmail.com
 
 [**Voir Autres Activités →**](/fr/outrasatividades/)  
 [**Réunions Publiques →**](/fr/Nossas-Reuniões-Públicas/)

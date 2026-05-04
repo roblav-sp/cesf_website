@@ -38,7 +38,7 @@ Open meetings for people of all ages who wish to discover or deepen their knowle
 ## 📧 More Information
 
 For specific schedules and meeting confirmation, please contact:  
-**Email:** atendimentofraterno.cesf@gmail.com
+**Email:** cesfraternite@gmail.com
 
 [**See Other Activities →**](/en/outrasatividades/)  
 [**Public Meetings →**](/en/Nossas-Reuniões-Públicas/)

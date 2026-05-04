@@ -33,7 +33,7 @@ Para participar, você deve primeiro instalar o ZOOM (gratuito) e depois clicar 
 
 ​
 
-Se você tiver alguma dúvida, também pode se comunicar conosco enviando um e-mail para cesfraternite@gmail.com ou cesf@cesf.com  e entraremos em contato com você o mais breve possível. Muitos voluntários estão lá para ajudá-lo e apoiá-lo nesses tempos difíceis.
+Se você tiver alguma dúvida, também pode se comunicar conosco enviando um e-mail para cesfraternite@gmail.com e entraremos em contato com você o mais breve possível. Muitos voluntários estão lá para ajudá-lo e apoiá-lo nesses tempos difíceis.
 
 Também temos um grupo no Whatsapp onde, além de compartilhar artigos relacionados aos nossos estudos, comunicamos opiniões relacionadas às atividades. Todos são bem vindos a participar do grupo.
 

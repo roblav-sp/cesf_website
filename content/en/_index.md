@@ -23,4 +23,4 @@ CESF is a spiritist center that aims to help everyone who wishes to begin the st
 If you seek a spiritist center to deepen your studies, share your knowledge, seek help, or even volunteer to help others, CESF is ready to welcome you genuinely, with great care and respect.
 
 📍 **Address:** 5569 Rue de Verdun, Montreal, QC H4H 1L2  
-📧 **Email:** atendimentofraterno.cesf@gmail.com
+📧 **Email:** cesfraternite@gmail.com

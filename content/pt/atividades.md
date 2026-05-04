@@ -65,8 +65,8 @@ Precisa ser ouvido ou de ajuda?
 🆔 **ID:** 7478 764 062 | 🔑 **Senha:** cesf
 
 📱 **WhatsApp:** Participe do nosso grupo para artigos e avisos  
-👍 **Facebook:** [Siga-nos aqui](https://www.facebook.com/cesf)  
-📧 **Informações gerais:** cesfraternite@gmail.com ou cesf@cesf.com
+👍 **Facebook:** [Siga-nos aqui](https://www.facebook.com/cesfraternite)  
+📧 **Informações gerais:** cesfraternite@gmail.com
 
 [**Ver Outras Atividades →**](/pt/outrasatividades/)  
 [**Reuniões Públicas →**](/pt/Nossas-Reuniões-Públicas/)

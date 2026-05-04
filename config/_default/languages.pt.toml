@@ -17,8 +17,8 @@ title = "CESF - Centre d'Études Spirites Fraternité"
   headline = "Centre d'Études Spirites Fraternité"
   bio = "Um centro espírita em Montreal dedicado ao estudo e prática da filosofia espírita."
   links = [
-    { email = "mailto:atendimentofraterno.cesf@gmail.com" },
-    { facebook = "https://www.facebook.com/cesf" },
+    { email = "mailto:cesfraternite@gmail.com" },
+    { facebook = "https://www.facebook.com/cesfraternite" },
     { youtube = "https://www.youtube.com/cesf" },
     { instagram = "https://www.instagram.com/cesf" }
   ]

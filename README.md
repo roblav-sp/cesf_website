@@ -213,7 +213,7 @@ Add to a page:
 Update `hugo.toml` with social media URLs, and add links to pages:
 
 ```markdown
-[Follow us on Facebook](https://facebook.com/cesf)
+[Follow us on Facebook](https://www.facebook.com/cesfraternite)
 [Follow us on Instagram](https://instagram.com/cesf)
 ```
 
