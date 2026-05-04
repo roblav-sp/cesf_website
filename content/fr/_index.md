@@ -22,5 +22,5 @@ Le Centre d'Études Spirites Fraternité (CESF) est un centre spirite qui vise �
 
 Si vous recherchez un centre spirite pour approfondir vos études, partager vos connaissances, chercher de l'aide ou même vous porter volontaire pour aider les autres, le CESF est prêt à vous accueillir de manière sincère, avec beaucoup de soin et de respect.
 
-📍 **Adresse:** 5573 rue Verdun, Montréal  
+📍 **Adresse:** 5569 Rue de Verdun, Montréal, QC H4H 1L2  
 📧 **Email:** atendimentofraterno.cesf@gmail.com
