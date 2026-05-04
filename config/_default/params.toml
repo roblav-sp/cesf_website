@@ -1,21 +1,18 @@
-# Theme Options
-colorScheme = "peacock"
+colorScheme = "slate"
 defaultAppearance = "light"
 autoSwitchAppearance = true
 
-defaultThemeColor = "#FFFFFF"
-
 enableSearch = true
 enableCodeCopy = true
-enableImageLazyLoading = true
-enableImageWebp = true
+disableImageOptimization = false
+highlightCurrentMenuArea = true
 
 fingerprintAlgorithm = "sha256"
 
+defaultBackgroundImage = "img/banner.png"
+
 [header]
-  layout = "basic"
-  logo = "img/logo.png"
-  showTitle = true
+  layout = "fixed"
 
 [footer]
   showCopyright = true
@@ -26,24 +23,25 @@ fingerprintAlgorithm = "sha256"
 [homepage]
   layout = "background"
   homepageImage = "img/banner.png"
-  showRecent = true
-  recentLimit = 5
+  showRecent = false
+  layoutBackgroundBlur = true
 
 [article]
   showDate = false
   showDateUpdated = false
   showAuthor = false
+  showHero = true
+  heroStyle = "background"
+  layoutBackgroundBlur = true
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
-  showReadingTime = true
+  showReadingTime = false
   showTableOfContents = true
   showTaxonomies = false
-  showWordCount = false
-  showComments = false
 
 [list]
   showBreadcrumbs = true
@@ -51,7 +49,6 @@ fingerprintAlgorithm = "sha256"
   showTableOfContents = false
   showTaxonomies = false
   groupByYear = false
-  paginationWidth = 1
 
 [taxonomy]
   showTermCount = true

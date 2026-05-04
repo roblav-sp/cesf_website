@@ -1,24 +1,19 @@
 ---
 title: "Welcome to CESF"
-description: "To understand the reason for life"
+description: "Spiritist Philosophy in Montreal — To understand the reason for life"
 ---
 
-{{< figure src="/images/banner.png" alt="CESF Banner" class="rounded-lg" >}}
+{{< button href="/en/atividades/" target="_self" >}}
+View Our Activities →
+{{< /button >}}
 
-{{< lead >}}
-**SPIRITIST PHILOSOPHY IN MONTREAL** — To understand the reason for life
-{{< /lead >}}
-
-# Welcome to the Spiritist Study Center Fraternity!
-## To understand the reason for life
-
-### Welcome to the Spiritist Study Center Fraternity!
+## Welcome to the Spiritist Study Center Fraternity!
 
 CESF is a spiritist center that aims to help everyone who wishes to begin the study and practice of spiritist philosophy, who wish to know the advantages that this philosophy can bring to their life, or who wish to deepen their knowledge and studies about Spiritism.
 
-#### What we offer:
+### What we offer
 
-- **Study activities** - basic and in-depth on Spiritism
+- **Study activities** — basic and in-depth on Spiritism
 - **Spiritual care** and balance passes for the centers of force
 - **Spiritual treatment and development**
 - **Activities for the development of spiritist mediumship**
@@ -29,7 +24,3 @@ If you seek a spiritist center to deepen your studies, share your knowledge, see
 
 📍 **Address:** 5573 rue Verdun, Montreal  
 📧 **Email:** atendimentofraterno.cesf@gmail.com
-
-[**View Our Activities →**](/en/atividades/)
-
-We are sure you will enjoy a visit to our spiritist center!

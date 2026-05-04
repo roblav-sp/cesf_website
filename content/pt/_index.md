@@ -1,19 +1,17 @@
 ---
 title: "Bem-vindo ao CESF"
-description: "Para compreender a razão da vida"
+description: "Filosofia Espírita em Montreal — Para compreender a razão da vida"
 ---
 
-{{< figure src="/images/banner.png" alt="CESF Banner" class="rounded-lg" >}}
-
-{{< lead >}}
-**FILOSOFIA ESPÍRITA EM MONTREAL** — Para compreender a razão da vida
-{{< /lead >}}
+{{< button href="/pt/atividades/" target="_self" >}}
+Ver Nossas Atividades →
+{{< /button >}}
 
 ## Bem-vindo ao Centre d'Études Spirites Fraternité!
 
 O CESF é um centro espírita que visa ajudar todos aqueles que desejam iniciar o estudo e a prática da filosofia espírita, que desejam saber quais são as vantagens que esta filosofia pode trazer em sua vida, ou que desejam aprofundar seus conhecimentos e estudos sobre o espiritismo.
 
-### O que oferecemos:
+### O que oferecemos
 
 - **Atividades de estudo** básico e aprofundado sobre espiritismo
 - **Cuidado espiritual** e passes de equilíbrio para os centros de força
@@ -26,7 +24,3 @@ Se você busca um centro espírita para aprofundar seus estudos, compartilhar se
 
 📍 **Endereço:** 5573 rue Verdun, Montreal  
 📧 **Email:** atendimentofraterno.cesf@gmail.com
-
-[**Ver Nossas Atividades →**](/pt/atividades/)
-
-Temos certeza de que você poderá desfrutar de uma visita à nossa casa espírita!

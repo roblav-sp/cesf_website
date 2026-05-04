@@ -1,7 +1,7 @@
 baseURL = 'https://www.cesf.ca/'
 defaultContentLanguage = 'pt'
 defaultContentLanguageInSubdir = true
-theme = 'congo'
+theme = 'blowfish'
 
 enableRobotsTXT = true
 summaryLength = 30
