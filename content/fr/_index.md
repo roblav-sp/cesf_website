@@ -3,6 +3,12 @@ title: "Bienvenue au CESF - Centre d'Études Spirites Fraternité"
 description: "Pour comprendre la raison de la vie"
 ---
 
+{{< figure src="/images/banner.png" alt="CESF Banner" class="rounded-lg" >}}
+
+{{< lead >}}
+**PHILOSOPHIE SPIRITE À MONTRÉAL** — Pour comprendre la raison de la vie
+{{< /lead >}}
+
 # Bienvenue sur le site du CESF!
 
 Le Centre d'Études Spirites Fraternité (CESF) est un centre spirite qui vise à aider tous ceux qui souhaitent commencer l'étude et la pratique de la philosophie spirite, qui souhaitent connaître les avantages que cette philosophie peut apporter à leur vie, ou qui souhaitent approfondir leurs connaissances et leurs études sur le spiritisme.

@@ -3,7 +3,13 @@ title: "Welcome to CESF"
 description: "To understand the reason for life"
 ---
 
-# SPIRITIST PHILOSOPHY IN MONTREAL
+{{< figure src="/images/banner.png" alt="CESF Banner" class="rounded-lg" >}}
+
+{{< lead >}}
+**SPIRITIST PHILOSOPHY IN MONTREAL** — To understand the reason for life
+{{< /lead >}}
+
+# Welcome to the Spiritist Study Center Fraternity!
 ## To understand the reason for life
 
 ### Welcome to the Spiritist Study Center Fraternity!
