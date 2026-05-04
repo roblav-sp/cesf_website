@@ -1,7 +1,6 @@
 ---
 title: "Bienvenue au CESF - Centre d'Études Spirites Fraternité"
 description: "Pour comprendre la raison de la vie"
-featured_image: ""
 ---
 
 # Bienvenue sur le site du CESF!

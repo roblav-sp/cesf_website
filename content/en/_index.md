@@ -1,7 +1,6 @@
 ---
 title: "Welcome to CESF"
 description: "To understand the reason for life"
-featured_image: ""
 ---
 
 # SPIRITIST PHILOSOPHY IN MONTREAL
