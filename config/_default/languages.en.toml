@@ -7,6 +7,8 @@ contentDir = "content/en"
 title = "CESF - Centre d'Études Spirites Fraternité"
 
 [params]
+  displayName = "🇨🇦 English"
+  isoCode = "en"
   dateFormat = "January 2, 2006"
   description = "SPIRITIST PHILOSOPHY IN MONTREAL - To understand the reason for life"
 

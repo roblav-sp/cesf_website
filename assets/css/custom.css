@@ -18,3 +18,20 @@
     padding-top: 4rem;
   }
 }
+
+/* Language switcher: always expand the list inside the mobile fullscreen overlay
+   (touch devices have no hover, so .menuhide stays permanently hidden otherwise) */
+[role="dialog"] .translation .menuhide {
+  opacity: 1;
+  visibility: visible;
+  position: static;
+  white-space: normal;
+  box-shadow: none;
+  padding: 0;
+}
+
+/* Desktop: add a small grace area so the dropdown doesn't vanish on slow mouse moves */
+.nested-menu .menuhide {
+  padding-top: 0.5rem;
+  top: calc(100% - 0.5rem);
+}
