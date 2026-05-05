@@ -1,29 +1,98 @@
+## Participate
 [[main]]
-  name = "Welcome"
-  pageRef = "bem-vindo"
+  name = "Participate"
+  identifier = "participate"
+  pageRef = "atividades"
   weight = 1
 
 [[main]]
   name = "Activities"
+  parent = "participate"
   pageRef = "atividades"
+  weight = 1
+
+[[main]]
+  name = "Spiritual Assistance"
+  parent = "participate"
+  pageRef = "assistenciaespiritual"
+  weight = 2
+
+## Learn
+[[main]]
+  name = "Learn"
+  identifier = "learn"
+  pageRef = "ensinamentos-fundamentais"
   weight = 2
 
 [[main]]
-  name = "History"
-  pageRef = "historia"
+  name = "Fundamental Teachings"
+  parent = "learn"
+  pageRef = "ensinamentos-fundamentais"
+  weight = 1
+
+[[main]]
+  name = "Spiritism and Science"
+  parent = "learn"
+  pageRef = "espiritismoeciencia"
+  weight = 2
+
+[[main]]
+  name = "Is Spiritism a Religion?"
+  parent = "learn"
+  pageRef = "espiritismoereligiao"
   weight = 3
 
 [[main]]
-  name = "Teachings"
-  pageRef = "ensinamentos-fundamentais"
+  name = "Mediumship"
+  parent = "learn"
+  pageRef = "mediunidade"
   weight = 4
 
 [[main]]
-  name = "Donations"
-  pageRef = "doacoes"
+  name = "Spiritist Practice"
+  parent = "learn"
+  pageRef = "praticaespirita"
   weight = 5
 
 [[main]]
-  name = "Contact"
-  pageRef = "contact"
+  name = "Basic Books"
+  parent = "learn"
+  pageRef = "livrosbasicos"
   weight = 6
+
+[[main]]
+  name = "Biographies"
+  parent = "learn"
+  pageRef = "biografias"
+  weight = 7
+
+## Events
+[[main]]
+  name = "Events"
+  pageRef = "eventos"
+  weight = 3
+
+## About CESF
+[[main]]
+  name = "About CESF"
+  identifier = "aboutcesf"
+  pageRef = "historia"
+  weight = 4
+
+[[main]]
+  name = "History"
+  parent = "aboutcesf"
+  pageRef = "historia"
+  weight = 1
+
+[[main]]
+  name = "Contact"
+  parent = "aboutcesf"
+  pageRef = "contact"
+  weight = 2
+
+## Support
+[[main]]
+  name = "Support"
+  pageRef = "doacoes"
+  weight = 5

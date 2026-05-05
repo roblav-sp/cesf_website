@@ -1,0 +1,39 @@
+<script>
+(function () {
+  var KEY = 'cesf_lang';
+  var LANGS = ['pt', 'fr', 'en'];
+
+  function langFromPath(path) {
+    var m = path.match(/^\/(pt|fr|en)(\/|$)/);
+    return m ? m[1] : null;
+  }
+
+  var currentLang = langFromPath(location.pathname) || 'pt';
+  var saved = localStorage.getItem(KEY);
+
+  // Save preference when the user clicks a language-switcher link
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest('a[href]');
+    if (!a) return;
+    var tl = langFromPath(a.getAttribute('href'));
+    if (tl && tl !== currentLang) {
+      localStorage.setItem(KEY, tl);
+    }
+  }, true);
+
+  if (saved && LANGS.indexOf(saved) !== -1) {
+    // Honour saved preference
+    if (saved !== currentLang) {
+      location.replace(location.pathname.replace(/^\/(pt|fr|en)/, '/' + saved));
+    }
+  } else {
+    // First visit — detect browser language
+    var bl = (navigator.language || navigator.userLanguage || 'pt').slice(0, 2).toLowerCase();
+    var target = LANGS.indexOf(bl) !== -1 ? bl : 'pt';
+    localStorage.setItem(KEY, target);
+    if (target !== currentLang) {
+      location.replace(location.pathname.replace(/^\/(pt|fr|en)/, '/' + target));
+    }
+  }
+}());
+</script>

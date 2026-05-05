@@ -2,115 +2,172 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to CESF on CESF - Centre d&#39;Études Spirites Fraternité</title>
-    <link>http://localhost:45197/en/</link>
+    <link>http://localhost:1313/en/</link>
     <description>Recent content in Welcome to CESF on CESF - Centre d&#39;Études Spirites Fraternité</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://localhost:45197/en/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 CESF</copyright>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Basic Books</title>
-      <link>http://localhost:45197/en/livrosbasicos/</link>
+      <link>http://localhost:1313/en/livrosbasicos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/en/livrosbasicos/</guid>
-      <description>&lt;p&gt;The Spirits&amp;rsquo; Book&lt;/p&gt;&#xA;&lt;p&gt;Published by Allan Kardec in 1857, it is the main book of spiritist philosophy. We can call it its backbone because it supports all other works of Spiritism. It is divided into four parts: &amp;ldquo;Primary Causes&amp;rdquo;; &amp;ldquo;The Spiritual World or Spirits&amp;rdquo;; &amp;ldquo;Moral Laws&amp;rdquo;; and &amp;ldquo;Hope and Consolation&amp;rdquo;. It is composed of 1,018 questions asked by Kardec to the superior Spirits responsible for the arrival of Spiritism among men. What is God? Where do we come from? Where are we going? What are we doing on Earth? These are some of the questions answered by the phalanx of the Spirit of Truth.&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/en/livrosbasicos/</guid>
+      <description>&lt;p&gt;The five books codified by Allan Kardec form the foundation of the Spiritist Doctrine. All are available for free PDF download.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;The Spirits&amp;rsquo; Book&#xA;    &lt;div id=&#34;the-spirits-book&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#the-spirits-book&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://cei-spiritistcouncil.com/wp-content/uploads/2020/07/2-The-Spirits-Book.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;The Spirits&amp;rsquo; Book&#34;&#xA;    src=&#34;http://localhost:1313/images/livros/en-spirits-book.png&#34;&#xA;    &gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Biographies</title>
-      <link>http://localhost:45197/en/biografias/</link>
+      <link>http://localhost:1313/en/biografias/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/en/biografias/</guid>
-      <description>&lt;p&gt;For more information on the biographies of the main authors of Spiritist Philosophy, consult the following links:&lt;/p&gt;&#xA;&lt;p&gt;Allan Kardec&lt;/p&gt;&#xA;&lt;p&gt;Leon Denis&lt;/p&gt;&#xA;&lt;p&gt;Gabriel Delanne&lt;/p&gt;&#xA;&lt;p&gt;Camille Flammarion&lt;/p&gt;&#xA;&lt;p&gt;Francisco Cândido Xavier&lt;/p&gt;&#xA;&lt;p&gt;Other important authors:&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/en/biografias/</guid>
+      <description>&lt;p&gt;Meet the main authors and figures who contributed to the building and spreading of Spiritist Philosophy.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Allan Kardec (1804–1869)&#xA;    &lt;div id=&#34;allan-kardec-18041869&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#allan-kardec-18041869&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&#xA;&lt;figure&gt;&#xA;      &lt;img class=&#34;my-0 rounded-md biography-photo&#34; src=&#34;http://localhost:1313/images/biografias/allan-kardec.jpg&#34; alt=&#34;Allan Kardec&#34; /&gt;&#xA;  &#xA;  &#xA;  &lt;/figure&gt;&#xA;&lt;p&gt;Hippolyte Léon Denizard Rivail was born in Lyon, France, on 3 October 1804. A trained educator and disciple of the renowned pedagogue Pestalozzi, he distinguished himself from an early age as a teacher and author of educational works widely adopted in French schools. His rigorous intellectual background prepared him for the mission he would only discover in maturity: to be the codifier of the Spiritist Doctrine.&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>CESF History</title>
-      <link>http://localhost:45197/en/historia/</link>
+      <link>http://localhost:1313/en/historia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/en/historia/</guid>
+      
+      <guid>http://localhost:1313/en/historia/</guid>
       <description>&lt;p&gt;Most spiritist centers began with simple study meetings held in family homes, with the participation of relatives and friends. It was from this union and harmony of ideas that many spiritist centers were founded throughout the world. It was no different for the Spiritist Study Center Fraternity. After a period of gatherings of a group of friends that took place every week around a table in the living room of a small apartment, the moment came when they decided to found a spiritist center. The main ideal of this group at that time, and which remains so today, was to promote Spiritism in Montreal, in order to bring to Québécois and immigrants the message of love and charity of spiritist philosophy. Founded on August 9, 2005, CESF began operating at 797 Gordon Street, in Verdun, Montreal, in facilities donated by the couple Roberto Lavoie and Isabelle Norris, active members of the center&amp;rsquo;s work.&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Contact</title>
-      <link>http://localhost:45197/en/contact/</link>
+      <link>http://localhost:1313/en/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/en/contact/</guid>
+      
+      <guid>http://localhost:1313/en/contact/</guid>
       <description>&lt;p&gt;Get in touch with us.&lt;/p&gt;&#xA;&lt;form id=&#34;contact-form&#34;&gt;&#xA;  &lt;label for=&#34;name&#34;&gt;Name:&lt;/label&gt;&#xA;  &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; required&gt;&lt;br&gt;&#xA;&lt;p&gt;&lt;label for=&#34;email&#34;&gt;Email:&lt;/label&gt;&#xA;&lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; required&gt;&lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;label for=&#34;message&#34;&gt;Message:&lt;/label&gt;&lt;/p&gt;&#xA;  &lt;textarea id=&#34;message&#34; name=&#34;message&#34; required&gt;&lt;/textarea&gt;&lt;br&gt;&#xA;&lt;p&gt;&lt;button type=&#34;submit&#34;&gt;Send&lt;/button&gt;&lt;/p&gt;&#xA;&lt;/form&gt;&#xA;&lt;script&gt;&#xA;document.getElementById(&#39;contact-form&#39;).addEventListener(&#39;submit&#39;, function(e) {&#xA;  e.preventDefault();&#xA;  // Code to send to Lambda API&#xA;  alert(&#39;Form submitted!&#39;); // Placeholder&#xA;});&#xA;&lt;/script&gt;</description>
+      
     </item>
+    
     <item>
       <title>Donations</title>
-      <link>http://localhost:45197/en/doacoes/</link>
+      <link>http://localhost:1313/en/doacoes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/en/doacoes/</guid>
-      <description>&lt;p&gt;Your donations to CESF are welcome!&#xA;We would be grateful to receive monetary donations of any amount from those who feel supportive of the spiritualist ideal.&lt;/p&gt;&#xA;&lt;p&gt;The resources thus obtained will support part of CESF&amp;rsquo;s monthly expenses.&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/en/doacoes/</guid>
+      <description>&lt;p&gt;Your donations to CESF are welcome!&#xA;We would be grateful to receive monetary donations of any amount from those who feel in solidarity with the spiritualist ideal.&lt;/p&gt;&#xA;&lt;p&gt;The resources thus obtained will support part of CESF&amp;rsquo;s monthly expenses.&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Fundamental Teachings</title>
-      <link>http://localhost:45197/en/ensinamentos-fundamentais/</link>
+      <link>http://localhost:1313/en/ensinamentos-fundamentais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/en/ensinamentos-fundamentais/</guid>
+      
+      <guid>http://localhost:1313/en/ensinamentos-fundamentais/</guid>
       <description>&lt;p&gt;God is the supreme intelligence, the first cause of all things. He is eternal, immutable, immaterial, unique, all-powerful, supremely just and good.&lt;/p&gt;&#xA;&lt;p&gt;God created the universe, which includes all rational and irrational beings, animate and inanimate, material and immaterial.&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Is Spiritism a religion?</title>
-      <link>http://localhost:45197/en/espiritismoereligiao/</link>
+      <link>http://localhost:1313/en/espiritismoereligiao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/en/espiritismoereligiao/</guid>
+      
+      <guid>http://localhost:1313/en/espiritismoereligiao/</guid>
       <description>&lt;p&gt;Spiritism is in itself only a philosophical doctrine built on exact facts and natural laws still unknown; in its essence, this doctrine, by profoundly modifying ideas, touches all social questions and, consequently, the religious question, like all others. Don&amp;rsquo;t all philosophies deal with this? Since they comment on the foundations of all religions, that is, God, the origin and nature of the soul? Doesn&amp;rsquo;t materialist philosophy also concern itself with this from the point of view of negation? It is even impossible for a philosophy not to deal with these questions in one direction or another. Spiritism could therefore deal with it in parallel with the help of the new elements that precede it; but that is not what constitutes a religion, otherwise all philosophies would be religions.&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Mediumship</title>
-      <link>http://localhost:45197/en/mediunidade/</link>
+      <link>http://localhost:1313/en/mediunidade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/en/mediunidade/</guid>
+      
+      <guid>http://localhost:1313/en/mediunidade/</guid>
       <description>&lt;p&gt;From Leon Denis, in the book: In the Invisible&lt;/p&gt;&#xA;&lt;p&gt;All manifestations of nature and life can be summarized in vibrations, more or less rapid and extensive, according to the causes that produce them. Everything vibrates in the universe: sound, light, heat, electricity, magnetism, chemical rays, cathode rays, radio waves, etc., are only the various modes of undulation, vibration of universal force and substance, the successive degrees that constitute, as a whole, the ascending scale of energy manifestations.&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Other Activities</title>
-      <link>http://localhost:45197/en/outrasatividades/</link>
+      <link>http://localhost:1313/en/outrasatividades/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/en/outrasatividades/</guid>
+      
+      <guid>http://localhost:1313/en/outrasatividades/</guid>
       <description>&lt;p&gt;Mediumistic meetings&lt;/p&gt;&#xA;&lt;p&gt;Intended to assist disembodied spirits who need guidance and clarification, as well as embodied ones who need spiritual help and who are in a state of obsession.&lt;/p&gt;&#xA;&lt;p&gt;Mediumship study and education meetings *&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Our Public Meetings</title>
-      <link>http://localhost:45197/en/nossas-reuni%C3%B5es-p%C3%BAblicas/</link>
+      <link>http://localhost:1313/en/nossas-reuni%C3%B5es-p%C3%BAblicas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/en/nossas-reuni%C3%B5es-p%C3%BAblicas/</guid>
-      <description>&lt;p&gt;Hybrid meetings (in-person and via zoom):&lt;/p&gt;&#xA;&lt;p&gt;Wednesday: Conference and studies with in-person passes in Portuguese: 7:00 PM - 8:20 PM and/or 8:30 PM - 9:00 PM&lt;/p&gt;&#xA;&lt;p&gt;Fraternal Assistance: If you need help or feel the need to talk to someone, write to: &lt;a href=&#34;mailto:atendimentofraterno.cesf@gmail.com&#34;&gt;atendimentofraterno.cesf@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/en/nossas-reuni%C3%B5es-p%C3%BAblicas/</guid>
+      <description>&lt;p&gt;Hybrid meetings (in-person and via zoom):&lt;/p&gt;&#xA;&lt;p&gt;Wednesday: Conference and studies with in-person passes in Portuguese: 7:00 PM - 8:20 PM and/or 8:30 PM - 9:00 PM&lt;/p&gt;&#xA;&lt;p&gt;Fraternal Assistance: If you need help or feel the need to talk to someone, write to: &lt;a href=&#34;mailto:atendimentofraterno.cesf@gmail.com&#34; &gt;atendimentofraterno.cesf@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Public Activities</title>
-      <link>http://localhost:45197/en/atividades/</link>
+      <link>http://localhost:1313/en/atividades/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/en/atividades/</guid>
-      <description>&lt;h1 id=&#34;our-activities&#34; class=&#34;relative group&#34;&gt;Our Activities &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#our-activities&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;Welcome to CESF activities! All our meetings are &lt;strong&gt;free and open to the public&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-study-meetings-and-mini-lectures&#34; class=&#34;relative group&#34;&gt;📅 Study Meetings and Mini-Lectures &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#-study-meetings-and-mini-lectures&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;Open meetings for people of all ages who wish to discover or deepen their knowledge about Spiritism.&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/en/atividades/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;📅 Activity Schedule&#xA;    &lt;div id=&#34;-activity-schedule&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#-activity-schedule&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h1&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Wednesday (🇵🇹 Portuguese) 📍+ 💻&#xA;    &lt;div id=&#34;wednesday--portuguese--&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#wednesday--portuguese--&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;🎙️ 6:45 PM - 8:00 PM&#xA;    &lt;div id=&#34;-645-pm---800-pm&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#-645-pm---800-pm&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lectures on Spiritism&lt;/strong&gt;&lt;br&gt;&#xA;(General Public)&lt;br&gt;&#xA;📍 + 💻 Hybrid meetings (In-person and Zoom)&lt;/p&gt;</description>
+      
     </item>
+    
+    <item>
+      <title>Special Events</title>
+      <link>http://localhost:1313/en/eventos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/eventos/</guid>
+      <description>&lt;p&gt;Coming soon — we will publish here the upcoming special events at CESF: open conferences, seminars, guest lectures, and commemorative celebrations.&lt;/p&gt;&#xA;&lt;p&gt;📧 For information: &lt;a href=&#34;mailto:cesfraternite@gmail.com&#34; &gt;cesfraternite@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Spiritism and Science</title>
-      <link>http://localhost:45197/en/espiritismoeciencia/</link>
+      <link>http://localhost:1313/en/espiritismoeciencia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/en/espiritismoeciencia/</guid>
+      
+      <guid>http://localhost:1313/en/espiritismoeciencia/</guid>
       <description>&lt;p&gt;Is Spiritism a science?&lt;/p&gt;&#xA;&lt;p&gt;By Charles Kempf&lt;/p&gt;&#xA;&lt;p&gt;The words spiritualism and spiritualist have a very general meaning: anyone who thinks there is something different from matter in them is a spiritualist. On the other hand, the terms SPIRITISM and SPIRITIST are neologisms, that is, words invented by its codifier, Allan Kardec.&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Spiritist Practice</title>
-      <link>http://localhost:45197/en/praticaespirita/</link>
+      <link>http://localhost:1313/en/praticaespirita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/en/praticaespirita/</guid>
+      
+      <guid>http://localhost:1313/en/praticaespirita/</guid>
       <description>&lt;p&gt;All spiritualist practice is free, according to the Gospel principle: &amp;ldquo;Give freely what you have received freely&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Spiritualist practice has no external worship, according to the Christian principle that God should be worshipped in spirit and in truth.&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Spiritual Assistance</title>
-      <link>http://localhost:45197/en/assistenciaespiritual/</link>
+      <link>http://localhost:1313/en/assistenciaespiritual/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/en/assistenciaespiritual/</guid>
+      
+      <guid>http://localhost:1313/en/assistenciaespiritual/</guid>
       <description>&lt;p&gt;Spiritist centers are frequently sought by people who need help to resolve a variety of personal problems. Some people cannot overcome the loss of a loved one; others suffer and suffer from depression; many others seek to understand the meaning of their lives, are depressed and hopeless, and still others have physical problems whose causes have not been found.&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Welcome to the CESF website!</title>
-      <link>http://localhost:45197/en/bem-vindo/</link>
+      <link>http://localhost:1313/en/bem-vindo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/en/bem-vindo/</guid>
+      
+      <guid>http://localhost:1313/en/bem-vindo/</guid>
       <description>&lt;p&gt;The Spiritist Study Center Fraternity (CESF) is a spiritist center that aims to help everyone who wishes to begin the study and practice of spiritist philosophy, who wish to know the advantages that this philosophy can bring to their life, or who wish to deepen their knowledge and studies about Spiritism.&lt;/p&gt;</description>
+      
     </item>
+    
   </channel>
 </rss>

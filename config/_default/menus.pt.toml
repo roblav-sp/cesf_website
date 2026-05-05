@@ -1,29 +1,104 @@
+## Participe
 [[main]]
-  name = "Bem-vindo"
-  pageRef = "bem-vindo"
+  name = "Participe"
+  identifier = "participe"
+  pageRef = "atividades"
   weight = 1
 
 [[main]]
   name = "Atividades"
+  parent = "participe"
   pageRef = "atividades"
+  weight = 1
+
+[[main]]
+  name = "Assistência Espiritual"
+  parent = "participe"
+  pageRef = "assistenciaespiritual"
+  weight = 2
+
+## Aprenda
+[[main]]
+  name = "Aprenda"
+  identifier = "aprenda"
+  pageRef = "ensinamentos-fundamentais"
   weight = 2
 
 [[main]]
-  name = "História"
-  pageRef = "historia"
+  name = "Ensinamentos Fundamentais"
+  parent = "aprenda"
+  pageRef = "ensinamentos-fundamentais"
+  weight = 1
+
+[[main]]
+  name = "O que é Espiritismo?"
+  parent = "aprenda"
+  pageRef = "oqueeespiritismo"
+  weight = 2
+
+[[main]]
+  name = "Espiritismo e Ciência"
+  parent = "aprenda"
+  pageRef = "espiritismoeciencia"
   weight = 3
 
 [[main]]
-  name = "Ensinamentos"
-  pageRef = "ensinamentos-fundamentais"
+  name = "Espiritismo é Religião?"
+  parent = "aprenda"
+  pageRef = "espiritismoereligiao"
   weight = 4
 
 [[main]]
-  name = "Doações"
-  pageRef = "doacoes"
+  name = "Mediunidade"
+  parent = "aprenda"
+  pageRef = "mediunidade"
   weight = 5
 
 [[main]]
-  name = "Contato"
-  pageRef = "contact"
+  name = "Prática Espírita"
+  parent = "aprenda"
+  pageRef = "praticaespirita"
   weight = 6
+
+[[main]]
+  name = "Livros Básicos"
+  parent = "aprenda"
+  pageRef = "livrosbasicos"
+  weight = 7
+
+[[main]]
+  name = "Biografias"
+  parent = "aprenda"
+  pageRef = "biografias"
+  weight = 8
+
+## Eventos
+[[main]]
+  name = "Eventos"
+  pageRef = "eventos"
+  weight = 3
+
+## O CESF
+[[main]]
+  name = "O CESF"
+  identifier = "ocesf"
+  pageRef = "historia"
+  weight = 4
+
+[[main]]
+  name = "História"
+  parent = "ocesf"
+  pageRef = "historia"
+  weight = 1
+
+[[main]]
+  name = "Contato"
+  parent = "ocesf"
+  pageRef = "contact"
+  weight = 2
+
+## Apoie
+[[main]]
+  name = "Apoie"
+  pageRef = "doacoes"
+  weight = 5

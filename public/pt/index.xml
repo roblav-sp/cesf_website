@@ -2,115 +2,162 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bem-vindo ao CESF on CESF - Centre d&#39;Études Spirites Fraternité</title>
-    <link>http://localhost:45197/pt/</link>
+    <link>http://localhost:1313/pt/</link>
     <description>Recent content in Bem-vindo ao CESF on CESF - Centre d&#39;Études Spirites Fraternité</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <atom:link href="http://localhost:45197/pt/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 CESF</copyright>
+    <atom:link href="http://localhost:1313/pt/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title></title>
-      <link>http://localhost:45197/pt/doacoes/</link>
+      <link>http://localhost:1313/pt/ensinamentos-fundamentais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/pt/doacoes/</guid>
-      <description>&lt;p&gt;Suas doações ao CESF são bem-vindas!&#xA;Ficaríamos gratos em receber doações em dinheiro de qualquer valor, de quem se sente solidário com o ideal espiritualista.&lt;/p&gt;&#xA;&lt;p&gt;Os recursos assim obtidos suportarão parte das despesas mensais da CESF.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:45197/pt/ensinamentos-fundamentais/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/pt/ensinamentos-fundamentais/</guid>
+      
+      <guid>http://localhost:1313/pt/ensinamentos-fundamentais/</guid>
       <description>&lt;p&gt;Ensinamentos fundamentais&#xA;Deus é a inteligência suprema, a causa primeira de todas as coisas. Ele é eterno, imutável, imaterial, único, todo-poderoso, supremamente justo e bom.&lt;/p&gt;&#xA;&lt;p&gt;Deus criou o universo, que inclui todos os seres racionais e irracionais, animados e inanimados, materiais e imateriais.&lt;/p&gt;</description>
+      
     </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pt/oqueeespiritismo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt/oqueeespiritismo/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;O que é o Espiritismo?&#xA;    &lt;div id=&#34;o-que-é-o-espiritismo&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#o-que-%c3%a9-o-espiritismo&#34; aria-label=&#34;Âncora&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;É um conjunto de princípios e leis, revelados pelos Espíritos superiores, contidos nas obras de Allan Kardec e que constituem a Codificação Espírita: O Livro dos Espíritos, O Livro dos Médiuns, O Evangelho segundo o Espiritismo, O Céu e o Inferno, e Genesis.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Assistência espiritual</title>
-      <link>http://localhost:45197/pt/assistenciaespiritual/</link>
+      <link>http://localhost:1313/pt/assistenciaespiritual/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/pt/assistenciaespiritual/</guid>
+      
+      <guid>http://localhost:1313/pt/assistenciaespiritual/</guid>
       <description>&lt;p&gt;Os centros espíritas são freqüentemente procurados por pessoas que precisam de ajuda para resolver uma variedade de problemas pessoais. Algumas pessoas não conseguem superar a perda de um ente querido; outros sofrem e sofrem de depressão; muitos outros procuram entender o significado de suas vidas, estão deprimidos e sem esperança, e ainda outros têm problemas físicos cujas causas não foram encontradas.&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Atividades Públicas</title>
-      <link>http://localhost:45197/pt/atividades/</link>
+      <link>http://localhost:1313/pt/atividades/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/pt/atividades/</guid>
-      <description>&lt;h1 id=&#34;-horário-das-atividades&#34; class=&#34;relative group&#34;&gt;📅 Horário das Atividades &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#-hor%c3%a1rio-das-atividades&#34; aria-label=&#34;&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h2 id=&#34;quarta-feira--português--&#34; class=&#34;relative group&#34;&gt;Quarta-feira (🇵🇹 Português) 📍+ 💻 &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#quarta-feira--portugu%c3%aas--&#34; aria-label=&#34;&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;h3 id=&#34;-18h45---20h00&#34; class=&#34;relative group&#34;&gt;🎙️ 18h45 - 20h00 &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#-18h45---20h00&#34; aria-label=&#34;&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Palestras sobre o espiritismo&lt;/strong&gt;&lt;br&gt;&#xA;(Público em Geral)&lt;br&gt;&#xA;📍 + 💻 Reuniões Híbridas (Presencial e Zoom)&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/pt/atividades/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;📅 Horário das Atividades&#xA;    &lt;div id=&#34;-horário-das-atividades&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#-hor%c3%a1rio-das-atividades&#34; aria-label=&#34;Âncora&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h1&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Quarta-feira (🇵🇹 Português) 📍+ 💻&#xA;    &lt;div id=&#34;quarta-feira--português--&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#quarta-feira--portugu%c3%aas--&#34; aria-label=&#34;Âncora&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;🎙️ 18h45 - 20h00&#xA;    &lt;div id=&#34;-18h45---20h00&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#-18h45---20h00&#34; aria-label=&#34;Âncora&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Palestras sobre o espiritismo&lt;/strong&gt;&lt;br&gt;&#xA;(Público em Geral)&lt;br&gt;&#xA;📍 + 💻 Reuniões Híbridas (Presencial e Zoom)&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Bem-vindo ao site da CESF!</title>
-      <link>http://localhost:45197/pt/bem-vindo/</link>
+      <link>http://localhost:1313/pt/bem-vindo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/pt/bem-vindo/</guid>
+      
+      <guid>http://localhost:1313/pt/bem-vindo/</guid>
       <description>&lt;p&gt;O Centre d&amp;rsquo;Études Spirites Fraternité (CESF) é um centro espírita que visa ajudar todos aqueles que desejam iniciar o estudo e a prática da filosofia espírita, que desejam saber quais são as vantagens que esta filosofia pode trazer em sua vida, ou que desejam aprofundar seus conhecimentos e estudos sobre o espiritismo.&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Biografias</title>
-      <link>http://localhost:45197/pt/biografias/</link>
+      <link>http://localhost:1313/pt/biografias/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/pt/biografias/</guid>
-      <description>&lt;p&gt;Para mais informações sobre a biografia dos principais autores da Filosofia do Espiritismo, consulte os seguintes links:&lt;/p&gt;&#xA;&lt;p&gt;Allan Kardec&lt;/p&gt;&#xA;&lt;p&gt;Leon denis&lt;/p&gt;&#xA;&lt;p&gt;Gabriel Delanne&lt;/p&gt;&#xA;&lt;p&gt;Camile Flamarion&lt;/p&gt;&#xA;&lt;p&gt;Francisco Candido Xavier&lt;/p&gt;&#xA;&lt;p&gt;Outros autores importantes:&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/pt/biografias/</guid>
+      <description>&lt;p&gt;Conheça os principais autores e figuras que contribuíram para a construção e difusão da Filosofia Espírita.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Allan Kardec (1804–1869)&#xA;    &lt;div id=&#34;allan-kardec-18041869&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#allan-kardec-18041869&#34; aria-label=&#34;Âncora&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&#xA;&lt;figure&gt;&#xA;      &lt;img class=&#34;my-0 rounded-md biography-photo&#34; src=&#34;http://localhost:1313/images/biografias/allan-kardec.jpg&#34; alt=&#34;Allan Kardec&#34; /&gt;&#xA;  &#xA;  &#xA;  &lt;/figure&gt;&#xA;&lt;p&gt;Hippolyte Léon Denizard Rivail nasceu em Lyon, França, em 3 de outubro de 1804. Educador de formação, foi discípulo do renomado pedagogo Pestalozzi e se destacou desde jovem como professor e escritor de obras didáticas amplamente adotadas nas escolas francesas. Sua trajetória intelectual rigorosa o preparou para a missão que só descobriria na maturidade: ser o codificador da Doutrina Espírita.&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Contato</title>
-      <link>http://localhost:45197/pt/contact/</link>
+      <link>http://localhost:1313/pt/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/pt/contact/</guid>
+      
+      <guid>http://localhost:1313/pt/contact/</guid>
       <description>&lt;p&gt;Entre em contato conosco.&lt;/p&gt;&#xA;&lt;form id=&#34;contact-form&#34;&gt;&#xA;  &lt;label for=&#34;name&#34;&gt;Nome:&lt;/label&gt;&#xA;  &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; required&gt;&lt;br&gt;&#xA;&lt;p&gt;&lt;label for=&#34;email&#34;&gt;Email:&lt;/label&gt;&#xA;&lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; required&gt;&lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;label for=&#34;message&#34;&gt;Mensagem:&lt;/label&gt;&lt;/p&gt;&#xA;  &lt;textarea id=&#34;message&#34; name=&#34;message&#34; required&gt;&lt;/textarea&gt;&lt;br&gt;&#xA;&lt;p&gt;&lt;button type=&#34;submit&#34;&gt;Enviar&lt;/button&gt;&lt;/p&gt;&#xA;&lt;/form&gt;&#xA;&lt;script&gt;&#xA;document.getElementById(&#39;contact-form&#39;).addEventListener(&#39;submit&#39;, function(e) {&#xA;  e.preventDefault();&#xA;  // Code to send to Lambda API&#xA;  alert(&#39;Form submitted!&#39;); // Placeholder&#xA;});&#xA;&lt;/script&gt;</description>
+      
     </item>
+    
+    <item>
+      <title>Doações</title>
+      <link>http://localhost:1313/pt/doacoes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt/doacoes/</guid>
+      <description>&lt;p&gt;Suas doações ao CESF são bem-vindas!&#xA;Ficaríamos gratos em receber doações em dinheiro de qualquer valor, de quem se sente solidário com o ideal espiritualista.&lt;/p&gt;&#xA;&lt;p&gt;Os recursos assim obtidos suportarão parte das despesas mensais da CESF.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Espiritismo e Ciência</title>
-      <link>http://localhost:45197/pt/espiritismoeciencia/</link>
+      <link>http://localhost:1313/pt/espiritismoeciencia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/pt/espiritismoeciencia/</guid>
+      
+      <guid>http://localhost:1313/pt/espiritismoeciencia/</guid>
       <description>&lt;p&gt;Espiritismo é uma ciência?&lt;/p&gt;&#xA;&lt;p&gt;Por Charles Kempf&lt;/p&gt;&#xA;&lt;p&gt;As palavras espiritualismo e espiritualista têm um significado muito geral: quem pensa que tem algo diferente de matéria nele é um espiritualista. Por outro lado, os termos ESPIRITISMO e ESPIRITA são neologismos, ou seja, palavras inventadas por seu codificador, Allan Kardec.&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Espiritismo é religião?</title>
-      <link>http://localhost:45197/pt/espiritismoereligiao/</link>
+      <link>http://localhost:1313/pt/espiritismoereligiao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/pt/espiritismoereligiao/</guid>
+      
+      <guid>http://localhost:1313/pt/espiritismoereligiao/</guid>
       <description>&lt;p&gt;O Espiritismo é em si apenas uma doutrina filosófica construída sobre fatos exatos e leis naturais ainda desconhecidas; em sua essência, esta doutrina, ao modificar profundamente as idéias, toca todas as questões sociais e, conseqüentemente, a questão religiosa, como todas as outras. Todas as filosofias não cuidam disso? Já que comentam os fundamentos de todas as religiões, ou seja, Deus, a origem e a natureza da alma? A filosofia materialista não se preocupa também com isso do ponto de vista da negação? É até impossível que uma filosofia não trate dessas questões em uma direção ou outra. O Espiritismo poderia, portanto, tratá-lo paralelamente com a ajuda dos novos elementos que o precede; mas não é isso que constitui uma religião, caso contrário, todas as filosofias seriam religiões.&lt;/p&gt;</description>
+      
     </item>
+    
+    <item>
+      <title>Eventos Especiais</title>
+      <link>http://localhost:1313/pt/eventos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt/eventos/</guid>
+      <description>&lt;p&gt;Em breve publicaremos aqui os próximos eventos especiais do CESF: conferências abertas, seminários, palestras com convidados e celebrações comemorativas.&lt;/p&gt;&#xA;&lt;p&gt;📧 Para informações: &lt;a href=&#34;mailto:cesfraternite@gmail.com&#34; &gt;cesfraternite@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>História da CESF</title>
-      <link>http://localhost:45197/pt/historia/</link>
+      <link>http://localhost:1313/pt/historia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/pt/historia/</guid>
-      <description>&lt;p&gt;A maioria dos centros espíritas começou com reuniões de estudo simples realizadas em casas de famílias, com a participação de parentes e amigos. É a partir dessa união e dessa harmonia de ideias que muitos centros espíritas foram fundados em todo o mundo. Não foi diferente com o Centre d&amp;rsquo;Études Spirites Fraternité. Após um período de encontros de um grupo de amigos que se realizavam todas as semanas em torno de uma mesa na sala de um pequeno apartamento, chegou o momento em que decidiram fundar um centro espírita. O principal ideal desse grupo na época e que ainda é hoje, era divulgar o Espiritismo em Montreal, a fim de levar aos quebequenses e imigrantes a mensagem de amor e caridade da filosofia espírita. Fundado em 9 de agosto de 2005, o CESF começou a operar na rue Gordon 797, em Verdun, Montreal, em instalações doadas pelo casal Roberto Lavoie e Isabelle Norris, membros ativos da obra do centro.&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/pt/historia/</guid>
+      <description>&lt;p&gt;A maioria dos centros espíritas começou com reuniões de estudo simples realizadas em casas de famílias, com a participação de parentes e amigos. É a partir dessa união e dessa harmonia de ideias que muitos centros espíritas foram fundados em todo o mundo. Não foi diferente com o Centre d&amp;rsquo;Études Spirites Fraternité. Após um período de encontros de um grupo de amigos que se realizavam todas as semanas em torno de uma mesa na sala de um pequeno apartamento, chegou o momento em que decidiram fundar um centro espírita. O principal ideal desse grupo na época e que ainda é hoje, era divulgar o Espiritismo em Montreal, a fim de levar aos quebequenses e imigrantes a mensagem de amor e caridade da filosofia espírita. Fundado em 9 de agosto de 2005, o CESF começou a operar na rue Gordon 797, em Verdun, Montreal.&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
-      <title>Ir para o conteúdo principal</title>
-      <link>http://localhost:45197/pt/livrosbasicos/</link>
+      <title>Livros Básicos</title>
+      <link>http://localhost:1313/pt/livrosbasicos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/pt/livrosbasicos/</guid>
-      <description>&lt;p&gt;Centre d&amp;rsquo;Études Spirites Fraternité à Montréal&#xA;Centre d&amp;rsquo;Études Spirites Fraternité&#xA;FILOSOFIA ESPIRITA EM MONTREAL&#xA;Para entender a razão da vida&#xA;Facebook - White Circle&#xA;YouTube - White Circle&#xA;Portuguese&#xA;PT&#xA;HOME&#xA;Sobre&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/pt/livrosbasicos/</guid>
+      <description>&lt;p&gt;Os cinco livros codificados por Allan Kardec formam a base da Doutrina Espírita. Todos estão disponíveis gratuitamente para download em PDF.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;O Livro dos Espíritos&#xA;    &lt;div id=&#34;o-livro-dos-espíritos&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#o-livro-dos-esp%c3%adritos&#34; aria-label=&#34;Âncora&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://cei-spiritistcouncil.com/wp-content/uploads/2024/02/Livro-dos-Espiritos-Guillon_CEI.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;O Livro dos Espíritos&#34;&#xA;    src=&#34;http://localhost:1313/images/livros/pt-livro-dos-espiritos.jpg&#34;&#xA;    &gt;&lt;/figure&gt;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Mediunidade</title>
-      <link>http://localhost:45197/pt/mediunidade/</link>
+      <link>http://localhost:1313/pt/mediunidade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/pt/mediunidade/</guid>
+      
+      <guid>http://localhost:1313/pt/mediunidade/</guid>
       <description>&lt;p&gt;De Leon Denis, no livro: No invisível&lt;/p&gt;&#xA;&lt;p&gt;Todas as manifestações da natureza e da vida se resumem em vibrações, mais ou menos rápidas e extensas, de acordo com as causas que as produzem. Tudo vibra no universo: som, luz, calor, eletricidade, magnetismo, raios químicos, raios catódicos, ondas de rádio, etc., são apenas os vários modos de ondulação, vibração da força universal e da substância, os graus sucessivos que constituem, como um todo, a escala ascendente das manifestações de energia.&lt;/p&gt;</description>
+      
     </item>
-    <item>
-      <title>Nossas Reuniões Públicas</title>
-      <link>http://localhost:45197/pt/nossas-reuni%C3%B5es-p%C3%BAblicas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/pt/nossas-reuni%C3%B5es-p%C3%BAblicas/</guid>
-      <description>&lt;p&gt;Reuniões híbridas (presencial e via zoom):&lt;/p&gt;&#xA;&lt;p&gt;Quarta-feira: Conferência e estudos com passes presenciais em português: 19h00 - 20h20 e/ou 20h30 - 21h00&lt;/p&gt;&#xA;&lt;p&gt;Atendimento Fraterno: Se precisar de ajuda ou sentir necessidade de falar com alguém, escreva para:​​atendimentofraterno.cesf@gmail.com&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Outras atividades</title>
-      <link>http://localhost:45197/pt/outrasatividades/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/pt/outrasatividades/</guid>
-      <description>&lt;p&gt;Reuniões mediúnicas&#xA;Destina-se ao atendimento de espíritos desencarnados que necessitam de orientação e esclarecimento e também aos encarnados que necessitam de auxílio espiritual e que se encontram em estado de obsessão .&lt;/p&gt;</description>
-    </item>
+    
     <item>
       <title>Prática espírita</title>
-      <link>http://localhost:45197/pt/praticaespirita/</link>
+      <link>http://localhost:1313/pt/praticaespirita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:45197/pt/praticaespirita/</guid>
+      
+      <guid>http://localhost:1313/pt/praticaespirita/</guid>
       <description>&lt;p&gt;Toda prática espiritualista é gratuita, segundo o princípio do Evangelho: &amp;ldquo;Dê de graça o que você recebeu de graça&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;A prática espiritualista não tem adoração externa, de acordo com o princípio cristão de que Deus deve ser adorado em espírito e em verdade.&lt;/p&gt;</description>
+      
     </item>
+    
   </channel>
 </rss>

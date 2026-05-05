@@ -1,29 +1,98 @@
+## Participer
 [[main]]
-  name = "Bienvenue"
-  pageRef = "bem-vindo"
+  name = "Participer"
+  identifier = "participer"
+  pageRef = "atividades"
   weight = 1
 
 [[main]]
   name = "Activités"
+  parent = "participer"
   pageRef = "atividades"
+  weight = 1
+
+[[main]]
+  name = "Assistance Spirituelle"
+  parent = "participer"
+  pageRef = "assistenciaespiritual"
+  weight = 2
+
+## Apprendre
+[[main]]
+  name = "Apprendre"
+  identifier = "apprendre"
+  pageRef = "ensinamentos-fundamentais"
   weight = 2
 
 [[main]]
-  name = "Histoire"
-  pageRef = "historia"
+  name = "Enseignements Fondamentaux"
+  parent = "apprendre"
+  pageRef = "ensinamentos-fundamentais"
+  weight = 1
+
+[[main]]
+  name = "Spiritisme et Science"
+  parent = "apprendre"
+  pageRef = "espiritismoeciencia"
+  weight = 2
+
+[[main]]
+  name = "Le Spiritisme est-il une Religion ?"
+  parent = "apprendre"
+  pageRef = "espiritismoereligiao"
   weight = 3
 
 [[main]]
-  name = "Enseignements"
-  pageRef = "ensinamentos-fundamentais"
+  name = "Médiumnité"
+  parent = "apprendre"
+  pageRef = "mediunidade"
   weight = 4
 
 [[main]]
-  name = "Dons"
-  pageRef = "doacoes"
+  name = "Pratique Spirite"
+  parent = "apprendre"
+  pageRef = "praticaespirita"
   weight = 5
 
 [[main]]
-  name = "Contact"
-  pageRef = "contact"
+  name = "Livres de Base"
+  parent = "apprendre"
+  pageRef = "livrosbasicos"
   weight = 6
+
+[[main]]
+  name = "Biographies"
+  parent = "apprendre"
+  pageRef = "biografias"
+  weight = 7
+
+## Événements
+[[main]]
+  name = "Événements"
+  pageRef = "eventos"
+  weight = 3
+
+## Le CESF
+[[main]]
+  name = "Le CESF"
+  identifier = "lecesf"
+  pageRef = "historia"
+  weight = 4
+
+[[main]]
+  name = "Histoire"
+  parent = "lecesf"
+  pageRef = "historia"
+  weight = 1
+
+[[main]]
+  name = "Contact"
+  parent = "lecesf"
+  pageRef = "contact"
+  weight = 2
+
+## Soutenir
+[[main]]
+  name = "Soutenir"
+  pageRef = "doacoes"
+  weight = 5

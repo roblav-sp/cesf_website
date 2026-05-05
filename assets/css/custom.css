@@ -36,6 +36,48 @@
   top: calc(100% - 0.5rem);
 }
 
+/* Book covers on livrosbasicos page */
+.book-cover, article img[src*="/images/livros/"] {
+  float: left;
+  margin: 0 1.5rem 1rem 0;
+  max-width: 140px;
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+}
+
+@media (max-width: 480px) {
+  article img[src*="/images/livros/"] {
+    float: none;
+    display: block;
+    margin: 0 auto 1rem;
+    max-width: 120px;
+  }
+}
+
+/* Biography portrait photos */
+.biography-photo {
+  float: right;
+  margin: 0 0 1rem 1.5rem;
+  max-width: 160px;
+  border-radius: 0.5rem;
+}
+
+.biography-photo img {
+  width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+  object-fit: cover;
+}
+
+@media (max-width: 480px) {
+  .biography-photo {
+    float: none;
+    margin: 0 auto 1rem;
+    max-width: 120px;
+    display: block;
+  }
+}
+
 /* Donation page: styled cards matching the slate theme */
 .donation-card {
   border: 1px solid rgb(71, 85, 105);
