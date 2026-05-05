@@ -5,12 +5,38 @@ backend:
 media_folder: static/images
 public_folder: /images
 
+i18n:
+  structure: multiple_folders
+  locales: [pt, fr, en]
+  default_locale: pt
+
 collections:
-  - name: "pages"
-    label: "Pages"
+  - name: "pages-pt"
+    label: "Pages (Português)"
     folder: "content/pt"
     create: true
     slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "pages-fr"
+    label: "Pages (Français)"
+    folder: "content/fr"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "pages-en"
+    label: "Pages (English)"
+    folder: "content/en"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
