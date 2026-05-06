@@ -12,8 +12,10 @@
     CMS.init({
       config: {
         backend: {
-          name: "git-gateway",
-          branch: "main"
+          name: "github",
+          repo: "roblav-sp/cesf_website",
+          branch: "main",
+          base_url: "https://lh33y25cvc.execute-api.us-east-1.amazonaws.com"
         },
         media_folder: "static/images",
         public_folder: "/images",

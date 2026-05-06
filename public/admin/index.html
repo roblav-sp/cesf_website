@@ -3,10 +3,62 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Content Manager</title>
+  <title>Content Manager — CESF</title>
+  <script>window.CMS_MANUAL_INIT = true;</script>
 </head>
 <body>
-  <!-- Include the script that builds the page and powers Netlify CMS -->
-  <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+  <script>
+    CMS.init({
+      config: {
+        backend: {
+          name: "github",
+          repo: "roblav-sp/cesf_website",
+          branch: "main",
+          base_url: "https://lh33y25cvc.execute-api.us-east-1.amazonaws.com"
+        },
+        media_folder: "static/images",
+        public_folder: "/images",
+        collections: [
+          {
+            name: "pages-pt",
+            label: "Pages (Português)",
+            folder: "content/pt",
+            create: true,
+            slug: "{{slug}}",
+            fields: [
+              { label: "Title", name: "title", widget: "string" },
+              { label: "Description", name: "description", widget: "string", required: false },
+              { label: "Body", name: "body", widget: "markdown" }
+            ]
+          },
+          {
+            name: "pages-fr",
+            label: "Pages (Français)",
+            folder: "content/fr",
+            create: true,
+            slug: "{{slug}}",
+            fields: [
+              { label: "Title", name: "title", widget: "string" },
+              { label: "Description", name: "description", widget: "string", required: false },
+              { label: "Body", name: "body", widget: "markdown" }
+            ]
+          },
+          {
+            name: "pages-en",
+            label: "Pages (English)",
+            folder: "content/en",
+            create: true,
+            slug: "{{slug}}",
+            fields: [
+              { label: "Title", name: "title", widget: "string" },
+              { label: "Description", name: "description", widget: "string", required: false },
+              { label: "Body", name: "body", widget: "markdown" }
+            ]
+          }
+        ]
+      }
+    });
+  </script>
 </body>
 </html>
