@@ -1,3 +1,6 @@
+---
+title: O que é o Espiritismo?
+---
 
 ## O que é o Espiritismo?
 
