@@ -29,6 +29,23 @@ Feb: 04 & 18 | Mar: 04 & 18 | Apr: 01, 15 & 29 | May: 13 & 27 | Jun: 10 & 24
 
 ---
 
+## 📍 Saturday (In-person) — every two weeks
+
+### 👨‍👩‍👧 3:00 PM - 4:15 PM
+**Children's Evangelization, Youth and Parents' Group**  
+📍 In-person
+
+**Children's Evangelization** *(Ages 0 to 12)*  
+A space dedicated to children, with age-appropriate activities, stories, conversations and group dynamics inspired by spiritist teachings and values such as respect, empathy, friendship and solidarity.
+
+**Spiritist Youth** *(Ages 13 to 17)*  
+A group for teenagers and young people, with gatherings for exchange, reflection and discussion on topics of everyday life, spirituality, relationships, emotions and personal development, in light of the spiritist worldview.
+
+**Parents' Group**  
+A gathering for parents and guardians, offering a space for support, conversation and reflection on the challenges of parenting, raising children and family life.
+
+---
+
 ## 💻 Zoom Only
 
 ### Tuesday (🇫🇷 French / 🇬🇧 English) 💻

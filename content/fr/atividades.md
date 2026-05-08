@@ -29,6 +29,23 @@ Fév : 04 et 18 | Mar : 04 et 18 | Avr : 01, 15 et 29 | Mai : 13 et 27 | Juin : 
 
 ---
 
+## 📍 Samedi (Présentiel) — toutes les deux semaines
+
+### 👨‍👩‍👧 15h00 - 16h15
+**Évangélisation Enfantine, Jeunesse et Groupe de Parents**  
+📍 Présentiel
+
+**Évangélisation Enfantine** *(0 à 12 ans)*  
+Espace dédié aux enfants, avec des activités adaptées à l'âge, des histoires, des échanges et des dynamiques inspirés des enseignements spirites et de valeurs telles que le respect, l'empathie, l'amitié et la solidarité.
+
+**Jeunesse Spirite** *(13 à 17 ans)*  
+Groupe pour adolescents et jeunes, avec des rencontres d'échange, de réflexion et de discussion sur des thèmes de la vie quotidienne, la spiritualité, les relations, les émotions et le développement personnel, à la lumière de la vision spirite.
+
+**Groupe de Parents**  
+Rencontre destinée aux parents et tuteurs, offrant un espace de soutien, de conversation et de réflexion sur les défis de la parentalité, l'éducation des enfants et la vie familiale.
+
+---
+
 ## 💻 Seulement via Zoom
 
 ### Mardi (🇫🇷 Français / 🇬🇧 Anglais) 💻

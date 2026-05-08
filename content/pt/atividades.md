@@ -29,6 +29,23 @@ Fev: 04 e 18 | Mar: 04 e 18 | Abr: 01, 15 e 29 | Mai: 13 e 27 | Jun: 10 e 24
 
 ---
 
+## 📍 Sábado (Presencial) — a cada duas semanas
+
+### 👨‍👩‍👧 15h00 - 16h15
+**Evangelização Infantil, Mocidade e Grupo de Pais**  
+📍 Presencial
+
+**Evangelização Infantil** *(0 a 12 anos)*  
+Espaço dedicado às crianças, com atividades adaptadas à idade, histórias, conversas e dinâmicas inspiradas nos ensinamentos espíritas e em valores como respeito, empatia, amizade e solidariedade.
+
+**Mocidade Espírita** *(13 a 17 anos)*  
+Grupo para adolescentes e jovens, com encontros de troca, reflexão e discussão sobre temas da vida cotidiana, espiritualidade, relações, emoções e desenvolvimento pessoal, à luz da visão espírita.
+
+**Grupo de Pais**  
+Encontro voltado aos pais e responsáveis, oferecendo espaço de apoio, conversa e reflexão sobre desafios da parentalidade, educação dos filhos e vivência familiar.
+
+---
+
 ## 💻 Somente via Zoom
 
 ### Terça-feira (🇫🇷 Francês / 🇬🇧 Inglês) 💻
