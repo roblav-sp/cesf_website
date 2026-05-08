@@ -1,51 +1,55 @@
 ---
-title: Sumario da doutrina espirita
+title: Ensinamentos fundamentais
 ---
-# Ensinamentos fundamentais
-## DEUS
-Deus é a inteligência suprema, a causa primeira de todas as coisas. Ele é eterno, imutável, imaterial, único, todo-poderoso, supremamente justo e bom.
-## Universo
-Deus criou o universo, que inclui todos os seres racionais e irracionais, animados e inanimados, materiais e imateriais.
+# ✨ Ensinamentos Fundamentais do Espiritismo
 
-Além do mundo corporal, onde vivem os Espíritos encarnados que são homens, existe um mundo espiritual, a casa dos Espíritos desencarnados.
+### 🌌 DEUS
+**Deus é a inteligência suprema, a causa primeira de todas as coisas.** Ele é eterno, imutável, imaterial, único, todo-poderoso, supremamente justo e bom. ⚖️🙏
 
-## Mundos Habitados 
-No universo, existem outros mundos habitados por seres em diferentes níveis de evolução: iguais, mais evoluídos ou menos evoluídos que os homens.
+---
 
-Todas as leis da natureza são leis divinas, uma vez que Deus é seu autor. Eles cobrem as leis físicas e morais.
+### 🪐 Universo
+Deus criou o universo, que inclui todos os seres racionais e irracionais, animados e inanimados, materiais e imateriais. ⚛️
+* **Mundo Corporal:** Onde vivem os homens (Espíritos encarnados). 🌍
+* **Mundo Espiritual:** A morada dos Espíritos desencarnados. 🕊️
 
-## Espirito
-O homem é um Espírito corporificado em um corpo material. O perispírito é o corpo semimaterial que une o Espírito ao corpo material.
+---
 
-Os espíritos são os seres inteligentes da criação. Eles constituem o mundo espiritual, que preexiste e sobrevive a tudo.
+### 🚀 Mundos Habitados
+No universo, existem outros mundos habitados por seres em diferentes níveis de evolução. 🌠
+* **Leis Divinas:** Abrangem as leis físicas e as leis morais. 📜
 
-## Evolução
-Os espíritos são criados simples e ignorantes. Eles evoluem intelectual e moralmente, passando de uma ordem inferior para uma ordem superior, para a perfeição, onde desfrutam de felicidade inalterável.
+---
 
-Os Espíritos conservam sua individualidade, antes, durante e depois de cada encarnação.
+### 👤 Espírito
+O homem é um **Espírito** corporificado em um corpo material. 🧘‍♂️
+* **Perispírito:** O laço semimaterial que une o Espírito ao corpo físico. 🌫️
 
-## Reencarnação
-Os Espíritos reencarnam quantas vezes forem necessárias para seu próprio aperfeiçoamento.
+---
 
-Os espíritos estão em constante evolução. Em suas múltiplas existências corporais, eles podem permanecer estacionários, mas nunca regredir. A velocidade de seu progresso intelectual e moral depende de seus esforços para alcançar a perfeição.
+### 📈 Evolução
+Os Espíritos evoluem intelectual e moralmente rumo à felicidade inalterável. 💡
+* **Individualidade:** Mantemos quem somos antes, durante e após a encarnação. 🆔
 
-Os Espíritos são de ordens diferentes, dependendo do grau de perfeição que alcançaram: Espíritos puros, que alcançaram o mais alto grau de perfeição; bons espíritos, nos quais predomina o desejo do bem; Espíritos imperfeitos, caracterizados pela ignorância, desejo pelo mal e paixões inferiores.
+---
 
-As relações entre os Espíritos e os homens são constantes e sempre existiram. Os bons Espíritos chamam-nos para fazer o bem, apoiam-nos nas provações da vida e ajudam-nos a suportá-las com coragem e resignação. Os bandidos estão nos enganando.
+### 🔄 Reencarnação
+Reencarnamos para o nosso próprio aperfeiçoamento. ♻️
+* **Progresso:** Nunca regredimos, apenas avançamos conforme nosso esforço. 🏃‍♂️💨
+* **Hierarquia:** De Espíritos imperfeitos a Espíritos puros. ✨
 
-## Moralidade
-Jesus é o guia e o modelo de toda a Humanidade. E a filosofia que ele ensinou e praticou é a expressão mais pura da Lei de Deus.
+---
 
-A moral de Cristo, contida no Evangelho, é o caminho a seguir para a evolução segura de todos os homens, e sua prática é a solução para todos os problemas humanos, bem como o objetivo a ser alcançado pela Humanidade.
+### ⚖️ Moralidade
+**Jesus é o guia e o modelo de toda a Humanidade.** ✝️❤️
+* **O Evangelho:** A prática do amor é a solução para todos os problemas.
+* **Livre-Arbítrio:** Liberdade de ação com responsabilidade total. 🚩
 
-O homem tem livre arbítrio para agir, mas é responsável pelas consequências de suas ações.
+---
 
-A vida futura reserva para os homens as dores e os prazeres compatíveis com seu comportamento de acordo ou não com a Lei de Deus.
+### 🤲 Oração
+A oração é um ato de adoração e conexão com o Criador. 🛐
+* **Ajuda Divina:** Quem ora com fervor recebe o auxílio dos bons Espíritos. ✨🤝
 
-## Oração
-
-A oração é um ato de adorar a Deus. Está na lei natural e resulta de um sentimento inato no homem, assim como a ideia da existência do Criador é inata.
-
-A oração torna o homem melhor. Aquele que ora com fervor e confiança é mais forte contra as tentações do mal, e Deus lhe envia bons Espíritos para ajudá-lo. É uma ajuda que nunca lhe é recusada quando solicitada com sinceridade.
-
-Fonte: texto adaptado, Federação Espírita Brasileira - FEB
+---
+_**Fonte:** Texto adaptado, Federação Espírita Brasileira – FEB_
