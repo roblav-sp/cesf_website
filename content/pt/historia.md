@@ -1,8 +1,8 @@
 ---
-title: "História da CESF"
+title: História da CESF
 ---
 
-{{< figure src="/images/ESpiritizar-Seminario-CESF-JAC-01.png" alt="Seminário CESF" >}}
+{{< figure src="/images/banner.png" alt="banner" >}}
 
 # 🏠 História do Centre d'Études Spirites Fraternité
 
