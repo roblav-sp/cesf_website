@@ -23,4 +23,5 @@ O CESF é um centro espírita que visa ajudar todos aqueles que desejam iniciar 
 Se você busca um centro espírita para aprofundar seus estudos, compartilhar seus conhecimentos, buscar ajuda ou mesmo se voluntariar para ajudar os outros, o CESF está pronto para recebê-lo de forma genuína, com muito carinho e respeito.
 
 📍 **Endereço:** 5569 Rue de Verdun, Montreal, QC H4H 1L2  
-📧 **Email:** cesfraternite@gmail.com
+📧 **Email:** cesfraternite@gmail.com  
+📱 **WhatsApp:** [Clique aqui para entrar no nosso grupo](https://chat.whatsapp.com/5kV0suS9TLBIyrp5StJJFi?mode=gi_t)

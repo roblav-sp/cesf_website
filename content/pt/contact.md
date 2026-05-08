@@ -4,6 +4,10 @@ title: "Contato"
 
 Entre em contato conosco.
 
+📱 **WhatsApp:** [Clique aqui para entrar no nosso grupo](https://chat.whatsapp.com/5kV0suS9TLBIyrp5StJJFi?mode=gi_t)
+
+---
+
 <form id="contact-form">
   <label for="name">Nome:</label>
   <input type="text" id="name" name="name" required><br>
