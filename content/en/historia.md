@@ -2,10 +2,55 @@
 title: "CESF History"
 ---
 
-Most spiritist centers began with simple study meetings held in family homes, with the participation of relatives and friends. It was from this union and harmony of ideas that many spiritist centers were founded throughout the world. It was no different for the Spiritist Study Center Fraternity. After a period of gatherings of a group of friends that took place every week around a table in the living room of a small apartment, the moment came when they decided to found a spiritist center. The main ideal of this group at that time, and which remains so today, was to promote Spiritism in Montreal, in order to bring to Québécois and immigrants the message of love and charity of spiritist philosophy. Founded on August 9, 2005, CESF began operating at 797 Gordon Street, in Verdun, Montreal, in facilities donated by the couple Roberto Lavoie and Isabelle Norris, active members of the center's work.
+{{< figure src="/images/ESpiritizar-Seminario-CESF-JAC-01.png" alt="CESF Seminar" >}}
 
-Subsequently, the founding group developed the Bylaws and established a Board of Directors to oversee the center's activities, which was thus constituted under the name "Spiritist Study Center Fraternity". On March 23, 2006, the center received its letters patent - Societies Act, Part III, registration number 1163604623. Obtaining this document was necessary to regularize CESF's status as a legally constituted, non-profit entity. At that time, all Tuesdays and Wednesdays held study meetings; on Fridays, mediumistic meetings and mediumship development and education courses; and on Saturdays, study meetings of the Book of Spirits and the Gospel According to Spiritism.
+# 🏠 History of the Centre d'Études Spirites Fraternité
 
-By 2007, already 40 people attended the center every week and activities were conducted from Tuesday to Saturday. By 2010, activities took place at the center from Monday to Saturday; about 60 people attended each week and about 150 people were directly or indirectly connected to the center. Due to the growing number of people attending the center, our facilities became too cramped and therefore inadequate for the proper continuation of activities. The Board of Directors therefore decided to seek new facilities.
+---
 
-On August 20, 2011, CESF moved and our headquarters is now located at 5569 Rue de Verdun, Montreal, QC H4H 1L2. Thus, CESF, which initially began its activities around a table in the living room of a small apartment, now occupies an area of 2,400 square meters, with conference and meeting rooms for more than 100 people, study rooms and mediumistic meetings, a passage room, a library, and administrative offices. There is also a basement of the same area as the ground floor dedicated to moral education activities for children and adolescents. With the comfort of a larger space adapted to our needs, CESF now offers members and those who attend the center daily activities from Monday to Saturday.
+### 🌱 Origins
+
+Most spiritist centres began with simple study meetings held in family homes, with the participation of relatives and friends. It was from this union and harmony of ideas that many spiritist centres were founded throughout the world.
+
+It was no different for the **Centre d'Études Spirites Fraternité**. After a period of weekly gatherings of a group of friends around a table in the living room of a small apartment, the moment came to found a spiritist centre. The main ideal of this group — then and still today — was to promote Spiritism in Montreal, bringing to Québécois and immigrants the message of love and charity of spiritist philosophy.
+
+**Founded on August 9, 2005**, CESF began its activities at 797 Gordon Street, Verdun, Montreal, in premises made available by Roberto Lavoie and Isabelle Norris, active members of the centre.
+
+---
+
+### 📋 Formal Constitution
+
+The founding group developed the Bylaws and established a Board of Directors to oversee the centre's activities, which received the name *"Centre d'Études Spirites Fraternité"*.
+
+On **March 23, 2006**, the centre received its letters patent — Societies Act, Part III, registration number **1163604623** — formalising itself as a legally constituted non-profit entity.
+
+At that time, activities were distributed as follows:
+- **Tuesdays and Wednesdays:** study meetings
+- **Fridays:** mediumistic meetings and development courses
+- **Saturdays:** study of the Spirits' Book and the Gospel According to Spiritism
+
+---
+
+### 📈 Growth
+
+By **2007**, already 40 people attended the centre each week, with activities from Tuesday to Saturday.
+
+By **2010**, activities ran from Monday to Saturday; about 60 people attended each week and approximately 150 were directly or indirectly connected to the centre. Growth made the premises inadequate, prompting the Board of Directors to seek a new space.
+
+---
+
+### 🏢 New Headquarters
+
+On **August 20, 2011**, CESF moved to **5573 Rue de Verdun**. What had begun around a table in a small apartment now occupied an area of **2,400 m²**, including:
+
+- Conference and meeting rooms for over 100 people
+- Study rooms and mediumistic meeting rooms
+- Passes room
+- Library and administrative office
+- Basement dedicated to moral education for children and adolescents
+
+---
+
+### 🔧 Current Address
+
+In **2017**, we moved to **5569 rue de Verdun** — much work again: building back rooms, installing a kitchen, lots of painting and organising. With lower costs, we were able to focus on strengthening our spiritist activities, and many new workers joined us.

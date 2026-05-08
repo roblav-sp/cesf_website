@@ -2,20 +2,42 @@
 title: "Médiumnité"
 ---
 
-De Leon Denis, dans le livre: Dans l'invisible
+{{< figure src="/images/biografias/leon-denis.jpg" alt="Léon Denis" >}}
 
-Toutes les manifestations de la nature et de la vie se résument en vibrations, plus ou moins rapides et étendues, selon les causes qui les produisent. Tout vibre dans l'univers : le son, la lumière, la chaleur, l'électricité, le magnétisme, les rayons chimiques, les rayons cathodiques, les ondes radio, etc., ne sont que les différents modes d'ondulation, vibration de la force universelle et de la substance, les degrés successifs qui constituent, dans l'ensemble, l'échelle ascendante des manifestations d'énergie.
+# 🌊 L'Univers des Vibrations
 
-Ces degrés sont très éloignés les uns des autres. Le son se propage à 340 mètres par seconde ; la lumière, en même temps, parcourt 300 000 kilomètres ; l'électricité se propage avec une vitesse qui nous semble incalculable. Mais nos sens physiques ne nous permettent pas de percevoir tous les modes de vibration. Leur incapacité à nous donner une impression complète des forces de la nature est un fait bien connu dont nous n'avons pas besoin d'insister davantage.
+*De Léon Denis — Dans l'Invisible*
 
-Uniquement dans le domaine de l'optique, nous savons que les ondes lumineuses n'impressionnent notre rétine que dans les limites des sept couleurs du prisme, du rouge au violet. Au-delà ou en deçà de ces couleurs, les radiations solaires échappent à notre vue ; on les appelle alors rayons noirs.
+---
 
-Entre la limite des sons, dont les vibrations vont de 24 à 60 000 par seconde, et la sensation de chaleur, qui se mesure par des millions de vibrations, nous ne percevons rien. Il en est de même entre la sensation de chaleur et celle de lumière, qui correspond en moyenne à 500 millions de vibrations par seconde.
+### 🌌 Tout Vibre dans l'Univers
 
-Dans cette ascension stupéfiante, nos sens représentent des étages largement espacés, des stations placées à des distances considérables les unes des autres sur une route sans fin. Entre ces différents étages, par exemple, entre les sons aigus et les phénomènes de chaleur et de lumière, puis vers les zones vibratoires affectées par les rayons cathodiques, il y a pour nous comme des abîmes. Mais ces abîmes, vides et obscurs en apparence, ne seraient-ils pas remplis par des êtres dotés de sens plus subtils ou plus nombreux que les nôtres ? Entre les vibrations perçues par l'audition et celles qui impressionnent notre vision, n'y a-t-il rien d'autre qu'un néant dans le domaine des forces et de la vie universelle ?
+Toutes les manifestations de la nature et de la vie se résument en vibrations — plus ou moins rapides et étendues, selon les causes qui les produisent. Tout vibre dans l'univers : son, lumière, chaleur, électricité, magnétisme, rayons chimiques, rayons cathodiques, ondes radio... Ce ne sont que les différents modes d'ondulation et de vibration de la force universelle — les degrés successifs qui constituent, dans l'ensemble, l'échelle ascendante des manifestations d'énergie.
 
-Il serait peu logique de le croire, car tout dans la nature se suit, est lié et se déploie, d'un anneau à l'autre, par des transitions graduelles. Nulle part il n'y a un saut soudain, un vide, une lacune. Ce qui ressort de ces considérations est simplement l'insuffisance de notre organisme, trop pauvre pour percevoir tous les modes d'énergie.
+---
 
-Ce que nous disons sur les forces en action dans l'univers s'applique également à tous les êtres et à toutes les choses, dans leurs diverses formes, à leurs différents degrés de condensation ou de raréfaction.
+### 📏 L'Échelle des Vibrations
 
-Notre connaissance de l'univers est restreinte ou élargie, selon le nombre et la subtilité de nos sens. Notre organisme actuel ne nous permet de percevoir qu'un cercle très limité du domaine des choses. De nombreuses formes de vie nous échappent. Mais qu'un nouveau sens vienne s'ajouter à nos sens, et immédiatement l'invisible se révèle, le vide se peuple, l'insensibilité sombre prend vie.
+Ces degrés sont très éloignés les uns des autres. Le son se propage à 340 mètres par seconde ; la lumière, dans le même temps, parcourt 300 000 kilomètres ; l'électricité se propage avec une vitesse qui nous semble incalculable.
+
+Nos sens physiques, cependant, ne nous permettent pas de percevoir tous les modes de vibration. Dans le seul domaine de l'optique, nous savons que les ondes lumineuses n'impressionnent notre rétine que dans les limites des sept couleurs du prisme, du rouge au violet. Au-delà ou en deçà de ces couleurs, les radiations solaires échappent à notre vue — ce sont les *rayons noirs*.
+
+---
+
+### 🧠 L'Insuffisance des Sens
+
+Entre la limite des sons (de 24 à 60 000 vibrations par seconde) et la sensation de chaleur (mesurée par des milliards de vibrations), nous ne percevons rien. Il en est de même entre la chaleur et la lumière, qui correspond en moyenne à 500 billions de vibrations par seconde.¹
+
+Dans cette ascension stupéfiante, nos sens ne représentent que quelques étages espacés — des stations placées à de grandes distances les unes des autres sur une route sans fin. Entre ces différents étages, il y a pour nous de véritables abîmes. Mais ces abîmes, vides et obscurs en apparence, ne pourraient-ils pas être habités par des êtres dotés de sens plus subtils ou plus nombreux que les nôtres ?
+
+---
+
+### 🌿 La Continuité de la Vie
+
+Il serait peu logique de croire au vide, car tout dans la nature se suit, est lié et se déploie, d'anneau en anneau, par des transitions graduelles. Nulle part il n'y a de saut soudain, de hiatus. Ce qui ressort de ces considérations est simplement l'**insuffisance de notre organisme** — trop pauvre pour percevoir tous les modes d'énergie.
+
+Notre connaissance de l'univers est restreinte ou élargie selon le nombre et la subtilité de nos sens. De nombreuses formes de vie nous échappent. Mais qu'un nouveau sens vienne s'ajouter aux nôtres — et immédiatement l'invisible se révèle, le vide se peuple, la sombre insensibilité prend vie.
+
+---
+
+*¹ Le physicien W. Crookes a établi une classification selon laquelle les vibrations sonores se répartissent du 5ᵉ au 15ᵉ degré. L'électricité et le magnétisme varient du 20ᵉ au 35ᵉ degré. De 45 à 50, on trouve chaleur et lumière. Au-delà du 58ᵉ degré apparaissent les ondulations cathodiques. Dans les intervalles, de vastes régions d'énergie restent inexplorées, inaccessibles à nos sens.*

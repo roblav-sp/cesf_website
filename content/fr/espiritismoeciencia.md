@@ -2,14 +2,30 @@
 title: "Spiritisme et Science"
 ---
 
-Le spiritisme est-il une science ?
+{{< figure src="/images/biografias/allan-kardec.jpg" alt="Allan Kardec" >}}
 
-Par Charles Kempf
+# 🔬 Le Spiritisme est-il une Science ?
 
-Les mots spiritualisme et spiritualiste ont une signification très générale : quiconque pense qu'il y a quelque chose de différent de la matière en lui est un spiritualiste. En revanche, les termes SPIRITISME et SPIRITE sont des néologismes, c'est-à-dire des mots inventés par son codificateur, Allan Kardec.
+*Par Charles Kempf*
 
-Allan Kardec définit le Spiritisme comme « une science qui traite de la nature, de l'origine et de la destinée des Esprits et de leur relation avec le monde corporel ». Le Spiritisme est donc bien défini comme science. Mais il diffère des disciplines scientifiques déjà établies et étudiées dans les académies par l'objet de ses études : l'élément spirituel.
+---
 
-Pour illustrer ce point, nous essayerons d'abord d'identifier, dans un bref résumé historique, les éléments qui caractérisent le Spiritisme.
+### 📖 Définition et Spécificité
 
-Ensuite, nous ferons un parallèle avec certains concepts classiques et modernes de la science, pour montrer les liens et les différences par rapport au Spiritisme. Enfin, nous discuterons des divers aspects de la connaissance.
+Les mots *spiritualisme* et *spiritualiste* ont une signification très générale : quiconque croit qu'il y a quelque chose d'autre que la matière en lui est un spiritualiste. En revanche, les termes **SPIRITISME** et **SPIRITE** sont des néologismes — des mots créés par son codificateur, **Allan Kardec**.
+
+Allan Kardec définit le Spiritisme comme :
+
+> « Une science qui traite de la nature, de l'origine et de la destinée des Esprits, et de leur relation avec le monde corporel. »
+
+Le Spiritisme est donc clairement défini comme science. Mais il diffère des disciplines scientifiques déjà établies par l'objet de ses études : **l'élément spirituel**.
+
+---
+
+### 🗺️ Structure de cette Réflexion
+
+Pour illustrer ce point, nous examinerons :
+
+1. **Les éléments qui caractérisent le Spiritisme** — en bref résumé historique
+2. **Les parallèles avec les concepts scientifiques classiques et modernes** — liens et différences par rapport au Spiritisme
+3. **Les divers aspects de la connaissance** — comment le Spiritisme se situe dans le panorama du savoir humain

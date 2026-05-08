@@ -1,24 +1,31 @@
 ---
 title: "Espiritismo e Ciência"
 ---
- 
 
-Espiritismo é uma ciência?
+{{< figure src="/images/biografias/allan-kardec.jpg" alt="Allan Kardec" >}}
 
-Por Charles Kempf
+# 🔬 O Espiritismo é uma Ciência?
 
- 
+*Por Charles Kempf*
 
-As palavras espiritualismo e espiritualista têm um significado muito geral: quem pensa que tem algo diferente de matéria nele é um espiritualista. Por outro lado, os termos ESPIRITISMO e ESPIRITA são neologismos, ou seja, palavras inventadas por seu codificador, Allan Kardec.
+---
 
- 
+### 📖 Definição e Especificidade
 
-Allan Kardec define o Espiritismo como “uma ciência que trata da natureza, origem e destino dos Espíritos e sua relação com o mundo corporal. O Espiritismo é, portanto, bem definido como ciência. Mas difere das disciplinas científicas já estabelecidas e estudadas nas academias pelo objeto de seus estudos: o elemento espiritual.
+As palavras *espiritualismo* e *espiritualista* têm um significado muito geral: quem acredita que há algo além da matéria em si mesmo é um espiritualista. Por outro lado, os termos **ESPIRITISMO** e **ESPÍRITA** são neologismos — palavras criadas pelo seu codificador, **Allan Kardec**.
 
- 
+Allan Kardec define o Espiritismo como:
 
-Para ilustrar esse ponto, tentaremos primeiro identificar, em um breve resumo histórico, os elementos que caracterizam o Espiritismo.
+> "Uma ciência que trata da natureza, da origem e do destino dos Espíritos, e de sua relação com o mundo corporal."
 
- 
+O Espiritismo é, portanto, claramente definido como ciência. Mas difere das disciplinas científicas já estabelecidas pelo objeto de seus estudos: **o elemento espiritual**.
 
-Em seguida, faremos um paralelo com alguns conceitos clássicos e modernos da ciência, para mostrar os vínculos e as diferenças em relação ao Espiritismo. Finalmente, discutiremos os vários aspectos do conhecimento.
+---
+
+### 🗺️ Estrutura desta Reflexão
+
+Para ilustrar esse ponto, examinaremos:
+
+1. **Os elementos que caracterizam o Espiritismo** — em breve resumo histórico
+2. **Os paralelos com conceitos científicos clássicos e modernos** — vínculos e diferenças em relação ao Espiritismo
+3. **Os vários aspectos do conhecimento** — como o Espiritismo se situa no panorama do saber humano

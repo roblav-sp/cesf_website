@@ -1,22 +1,34 @@
 ---
 title: "Bem-vindo ao site da CESF!"
 ---
- 
 
-O Centre d'Études Spirites Fraternité (CESF) é um centro espírita que visa ajudar todos aqueles que desejam iniciar o estudo e a prática da filosofia espírita, que desejam saber quais são as vantagens que esta filosofia pode trazer em sua vida, ou que desejam aprofundar seus conhecimentos e estudos sobre o espiritismo.
+{{< figure src="/images/montreal-690737_1920.jpg" alt="Montreal" >}}
 
- 
+# 🌟 Bem-vindo ao CESF!
 
-No CESF desenvolvemos atividades de estudo básico e aprofundado sobre espiritismo, cuidado espiritual, passes de equilíbrio para os centros de força, tratamento e desenvolvimento espiritual e atividades para o desenvolvimento da mediunidade espírita.
+O **Centre d'Études Spirites Fraternité (CESF)** é um centro espírita em Montreal que acolhe todos aqueles que desejam:
 
- 
+- Iniciar o estudo e a prática da filosofia espírita
+- Descobrir as contribuições que o Espiritismo pode trazer para sua vida
+- Aprofundar seus conhecimentos sobre a doutrina espírita
 
-Se você busca um centro espírita para aprofundar seus estudos, compartilhar seus conhecimentos, buscar ajuda ou mesmo se voluntariar para ajudar os outros, o CESF está pronto para recebê-lo de forma genuína, com muito carinho e respeito.
+---
 
- 
+### 🤲 O Que Oferecemos
 
-Convidamos você a conhecer nosso site, consultar nossas atividades e obter mais informações sobre a CESF e a filosofia espírita em geral.
+No CESF desenvolvemos:
 
- 
+- **Estudos básicos e aprofundados** sobre o Espiritismo
+- **Cuidado espiritual** e passes de equilíbrio para os centros de força
+- **Tratamento e desenvolvimento espiritual**
+- **Atividades de desenvolvimento da mediunidade** espírita
 
-Temos certeza de que você poderá desfrutar de uma visita à nossa casa espírita!
+---
+
+### 💙 Venha nos Conhecer
+
+Se você busca um centro espírita para aprofundar seus estudos, compartilhar seus conhecimentos, buscar ajuda ou se voluntariar para ajudar os outros — o CESF está pronto para recebê-lo com muito carinho e respeito.
+
+Convidamos você a explorar nosso site, consultar nossas atividades e obter mais informações sobre a CESF e a filosofia espírita.
+
+> *Temos certeza de que você desfrutará de uma visita à nossa casa espírita!*

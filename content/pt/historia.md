@@ -1,13 +1,56 @@
 ---
 title: "História da CESF"
 ---
-A maioria dos centros espíritas começou com reuniões de estudo simples realizadas em casas de famílias, com a participação de parentes e amigos. É a partir dessa união e dessa harmonia de ideias que muitos centros espíritas foram fundados em todo o mundo. Não foi diferente com o Centre d'Études Spirites Fraternité. Após um período de encontros de um grupo de amigos que se realizavam todas as semanas em torno de uma mesa na sala de um pequeno apartamento, chegou o momento em que decidiram fundar um centro espírita. O principal ideal desse grupo na época e que ainda é hoje, era divulgar o Espiritismo em Montreal, a fim de levar aos quebequenses e imigrantes a mensagem de amor e caridade da filosofia espírita. Fundado em 9 de agosto de 2005, o CESF começou a operar na rue Gordon 797, em Verdun, Montreal.
 
-Em seguida, o grupo fundador elaborou os Estatutos e constituiu um Conselho de Administração para dirigir as atividades do centro, que foi assim constituído com o nome de “Centre d'Études Spirites Fraternité”. Em 23 de março de 2006, o centro recebeu suas cartas patentes - Lei das Sociedades, Parte III, registro número 1163604623. A obtenção desse documento foi necessária para regularizar a situação do CESF como entidade legalmente constituída sem fins lucrativos e formalizada. Naquela época, todas as terças e quartas-feiras eram realizadas reuniões de estudo; às sextas-feiras, encontros mediúnicos e cursos de desenvolvimento e educação mediúnica; e aos sábados, encontros de estudo do Livro dos Espíritos e do Evangelho segundo o Espiritismo.
+{{< figure src="/images/ESpiritizar-Seminario-CESF-JAC-01.png" alt="Seminário CESF" >}}
 
-Em 2007, já 40 pessoas frequentavam o centro todas as semanas e as atividades eram desenvolvidas de terça a sábado. Em 2010, ocorreram atividades no centro de segunda a sábado; cerca de 60 pessoas compareciam por semana e cerca de 150 pessoas estavam ligadas direta ou indiretamente ao centro. Devido ao número crescente de pessoas que frequentam o centro, nossas instalações tornaram-se muito apertadas e, portanto, inadequadas para a continuidade adequada das atividades. O Conselho de Administração decidiu, portanto, procurar novos.
+# 🏠 História do Centre d'Études Spirites Fraternité
 
-Em 20 de agosto de 2011, a CESF mudou e nossa sede agora está localizada na Rue de Verdun 5573. Assim, o CESF, que no início iniciava as suas atividades em torno de uma mesa na sala de um pequeno apartamento, hoje ocupa uma área de 2.400 metros quadrados, com salas de conferências e reuniões para mais de 100 pessoas, salas de estudo e reuniões mediúnicas, uma sala de passagem, uma biblioteca e um escritório administrativo. Há também um subsolo da mesma área do térreo destinado a atividades de educação moral para crianças e adolescentes. Com o conforto de um espaço maior adaptado às nossas necessidades, o CESF oferece hoje aos associados e a quem frequenta atividades diárias de segunda a sábado.
+---
 
-Em 2017 mudamos para 5569 rue de Verdun, muito trabalho de novo… de fazer sala nos fundos, instalar cozinha, muita pintura e arrumação.
-Com custos menores pudemos nos dedicar a organizar e reforçar nossas atividades espíritas e muitos novos trabalhadores se juntaram a nós.
+### 🌱 As Origens
+
+A maioria dos centros espíritas começou com reuniões de estudo simples realizadas em casas de famílias, com a participação de parentes e amigos. É a partir dessa união e dessa harmonia de ideias que muitos centros espíritas foram fundados em todo o mundo.
+
+Não foi diferente com o **Centre d'Études Spirites Fraternité**. Após um período de encontros semanais de um grupo de amigos ao redor de uma mesa na sala de um pequeno apartamento, chegou o momento de fundar um centro espírita. O principal ideal desse grupo — então e ainda hoje — era divulgar o Espiritismo em Montreal, levando aos quebequenses e imigrantes a mensagem de amor e caridade da filosofia espírita.
+
+**Fundado em 9 de agosto de 2005**, o CESF iniciou suas atividades na Rue Gordon 797, em Verdun, Montreal.
+
+---
+
+### 📋 Constituição Formal
+
+O grupo fundador elaborou os Estatutos e constituiu um Conselho de Administração para dirigir as atividades do centro, que recebeu o nome de *"Centre d'Études Spirites Fraternité"*.
+
+Em **23 de março de 2006**, o centro recebeu suas cartas patentes — Lei das Sociedades, Parte III, registro número **1163604623** — formalizando-se como entidade legalmente constituída sem fins lucrativos.
+
+Naquela época, as atividades se distribuíam assim:
+- **Terças e quartas-feiras:** reuniões de estudo
+- **Sextas-feiras:** encontros mediúnicos e cursos de desenvolvimento
+- **Sábados:** estudo do Livro dos Espíritos e do Evangelho segundo o Espiritismo
+
+---
+
+### 📈 Crescimento
+
+Em **2007**, já 40 pessoas frequentavam o centro semanalmente, com atividades de terça a sábado.
+
+Em **2010**, as atividades ocorriam de segunda a sábado; cerca de 60 pessoas compareciam por semana e aproximadamente 150 estavam ligadas direta ou indiretamente ao centro. O crescimento tornou as instalações inadequadas para a continuidade das atividades, levando o Conselho de Administração a buscar um novo espaço.
+
+---
+
+### 🏢 Nova Sede
+
+Em **20 de agosto de 2011**, o CESF mudou para a **Rue de Verdun 5573**. O que começou ao redor de uma mesa na sala de um pequeno apartamento passou a ocupar uma área de **2.400 m²**, com:
+
+- Salas de conferências e reuniões para mais de 100 pessoas
+- Salas de estudo e reuniões mediúnicas
+- Sala de passes
+- Biblioteca e escritório administrativo
+- Subsolo destinado à educação moral de crianças e adolescentes
+
+---
+
+### 🔧 Endereço Atual
+
+Em **2017**, mudamos para **5569 rue de Verdun** — mais trabalho: construção de salas nos fundos, instalação de cozinha, muita pintura e organização. Com custos menores, pudemos nos dedicar a fortalecer nossas atividades espíritas, e muitos novos trabalhadores se juntaram a nós.

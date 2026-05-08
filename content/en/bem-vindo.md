@@ -2,12 +2,33 @@
 title: "Welcome to the CESF website!"
 ---
 
-The Spiritist Study Center Fraternity (CESF) is a spiritist center that aims to help everyone who wishes to begin the study and practice of spiritist philosophy, who wish to know the advantages that this philosophy can bring to their life, or who wish to deepen their knowledge and studies about Spiritism.
+{{< figure src="/images/montreal-690737_1920.jpg" alt="Montreal" >}}
 
-At CESF, we develop basic and in-depth study activities on Spiritism, spiritual care, balance passes for the centers of force, spiritual treatment and development, and activities for the development of spiritist mediumship.
+# 🌟 Welcome to CESF!
 
-If you seek a spiritist center to deepen your studies, share your knowledge, seek help, or even volunteer to help others, CESF is ready to welcome you genuinely, with great care and respect.
+The **Centre d'Études Spirites Fraternité (CESF)** is a spiritist centre in Montreal that welcomes everyone who wishes to:
 
-We invite you to explore our site, consult our activities, and learn more about CESF and spiritist philosophy in general.
+- Begin the study and practice of spiritist philosophy
+- Discover what Spiritism can bring to their life
+- Deepen their knowledge of spiritist doctrine
 
-We are sure you will enjoy a visit to our spiritist center!
+---
+
+### 🤲 What We Offer
+
+At CESF we develop:
+
+- **Basic and in-depth studies** on Spiritism
+- **Spiritual care** and balance passes for the centres of force
+- **Spiritual treatment and development**
+- **Mediumship development activities**
+
+---
+
+### 💙 Come and Meet Us
+
+If you are looking for a spiritist centre to deepen your studies, share your knowledge, seek help or volunteer to help others — CESF is ready to welcome you with great care and respect.
+
+We invite you to explore our site, consult our activities and learn more about CESF and spiritist philosophy.
+
+> *We are sure you will enjoy a visit to our spiritist centre!*
