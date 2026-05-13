@@ -1,0 +1,134 @@
+activities:
+
+  # ── Quarta-feira (Presencial + Zoom) ─────────────────────────────────────
+
+  - id: quarta-palestra
+    title:
+      pt: "Palestras sobre o Espiritismo"
+      fr: "Conférences sur le Spiritisme"
+      en: "Lectures on Spiritism"
+    day: wednesday
+    time: "18h45"
+    format: hybrid
+    zoom_link: "https://zoom.us/j/7478764062?pwd=cesf"
+    language: pt
+    audience: public
+
+  - id: quarta-passes
+    title:
+      pt: "Passes Magnéticos"
+      fr: "Passes Magnétiques"
+      en: "Magnetic Passes"
+    day: wednesday
+    time: "20h00"
+    format: in-person
+    language: pt
+    audience: public
+
+  - id: quarta-livro-espiritos
+    title:
+      pt: "Estudo do Livro dos Espíritos (Allan Kardec)"
+      fr: "Étude du Livre des Esprits (Allan Kardec)"
+      en: "Study of the Spirits' Book (Allan Kardec)"
+    day: wednesday
+    time: "20h30"
+    format: hybrid
+    zoom_link: "https://zoom.us/j/7478764062?pwd=cesf"
+    language: pt
+    audience: public
+
+  - id: quarta-jovens
+    title:
+      pt: "Estudos para Jovens (18 a 35 anos)"
+      fr: "Études pour Jeunes (18 à 35 ans)"
+      en: "Youth Studies (Ages 18–35)"
+    day: wednesday
+    time: "19h00"
+    format: in-person
+    language: pt
+    audience: youth
+    # Bi-weekly — specific dates listed here; update each semester
+    dates:
+      - "2026-04-01"
+      - "2026-04-15"
+      - "2026-04-29"
+      - "2026-05-13"
+      - "2026-05-27"
+      - "2026-06-10"
+      - "2026-06-24"
+
+  # ── Sábado (Presencial, duas em duas semanas) ─────────────────────────────
+
+  - id: sabado-evangelizacao
+    title:
+      pt: "Evangelização Infantil, Mocidade e Grupo de Pais"
+      fr: "Évangélisation Enfants, Jeunesse et Groupe de Parents"
+      en: "Children's Evangelization, Youth & Parents' Group"
+    day: saturday
+    time: "15h00"
+    format: in-person
+    language: pt
+    audience: families
+    # Bi-weekly — update dates each semester
+    dates:
+      - "2026-04-04"
+      - "2026-04-18"
+      - "2026-05-02"
+      - "2026-05-16"
+      - "2026-05-30"
+      - "2026-06-13"
+      - "2026-06-27"
+
+  # ── Terça-feira (Zoom apenas) ─────────────────────────────────────────────
+
+  - id: terca-atendimento-espiritual
+    title:
+      pt: "Atendimento Espiritual (FR/EN alternado)"
+      fr: "Service Spirituel (alternance FR/EN)"
+      en: "Spiritual Service (alternating FR/EN)"
+    day: tuesday
+    time: "19h30"
+    format: online
+    zoom_link: "https://zoom.us/j/7478764062?pwd=cesf"
+    language: fr-en
+    audience: public
+
+  # ── Quinta-feira (Zoom apenas) ────────────────────────────────────────────
+
+  - id: quinta-divaldo
+    title:
+      pt: "Estudo dos Livros de Divaldo Franco e Joana de Ângelis"
+      fr: "Étude des Livres de Divaldo Franco et Joana de Ângelis"
+      en: "Study of Divaldo Franco & Joana de Ângelis Books"
+    day: thursday
+    time: "19h00"
+    format: online
+    zoom_link: "https://zoom.us/j/7478764062?pwd=cesf"
+    language: pt
+    audience: public
+
+  - id: quinta-vibracoes
+    title:
+      pt: "Vibrações Coletivas pelo Planeta (PT/FR alternado)"
+      fr: "Vibrations Collectives pour la Planète (PT/FR alternance)"
+      en: "Collective Vibrations for the Planet (PT/FR alternating)"
+    day: thursday
+    time: "20h15"
+    format: online
+    zoom_link: "https://zoom.us/j/7478764062?pwd=cesf"
+    language: pt-fr
+    audience: public
+
+  # ── Sábado (Zoom apenas — Francês) ────────────────────────────────────────
+
+  - id: sabado-palestras-fr
+    title:
+      pt: "Palestras e Estudo Sistematizado (Francês)"
+      fr: "Conférences et Étude Systématisée (Français)"
+      en: "Lectures & Systematic Study (French)"
+    day: saturday
+    time: "10h30"
+    format: online
+    zoom_link: "https://zoom.us/j/7478764062?pwd=cesf"
+    language: fr
+    audience: public

@@ -1,0 +1,28 @@
+{{ $video := .video }}
+{{ $lang := .lang }}
+{{ $titleKey := printf "title_%s" $lang }}
+{{ $title := index $video $titleKey | default (index $video "title_pt") | default $video.id }}
+<article class="relative overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600 hover:border-primary-400 dark:hover:border-primary-500 transition-colors">
+  <a href="https://www.youtube.com/watch?v={{ $video.id }}" target="_blank" rel="noopener noreferrer" class="block no-underline">
+    <div class="overflow-hidden" style="aspect-ratio:16/9; background:#000">
+      <img
+        src="https://img.youtube.com/vi/{{ $video.id }}/mqdefault.jpg"
+        alt="{{ $title }}"
+        loading="lazy"
+        decoding="async"
+        class="not-prose w-full h-full object-cover transition-transform duration-300 hover:scale-105">
+      <div class="absolute inset-0 flex items-center justify-center pointer-events-none">
+        <svg class="w-14 h-14 opacity-80" viewBox="0 0 68 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M66.5 7.8C65.7 5 63.5 2.8 61.2 2C55.8 0 34 0 34 0S12.2 0 6.8 2C4.4 2.8 2.3 5 1.5 7.8 0 13.2 0 24 0 24s0 10.8 1.5 16.2c.8 2.8 3 5 5.3 5.8C12.2 48 34 48 34 48s21.8 0 27.2-2c2.3-.8 4.5-3 5.3-5.8C68 34.8 68 24 68 24s0-10.8-1.5-16.2z" fill="#FF0000"/>
+          <path d="M27 34l18-10-18-10v20z" fill="#fff"/>
+        </svg>
+      </div>
+    </div>
+    <div class="p-4">
+      <h3 class="font-bold text-neutral-800 dark:text-neutral leading-snug line-clamp-2">{{ $title }}</h3>
+      {{ with $video.date }}
+        <p class="mt-1 text-sm text-neutral-500 dark:text-neutral-400">{{ . }}</p>
+      {{ end }}
+    </div>
+  </a>
+</article>

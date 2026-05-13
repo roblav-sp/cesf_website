@@ -1,0 +1,17 @@
+[home_latest_events]
+other = "Latest Events"
+
+[home_latest_videos]
+other = "Latest Videos"
+
+[home_see_all]
+other = "See all"
+
+[home_see_channel]
+other = "See YouTube channel"
+
+[home_no_events]
+other = "New events coming soon."
+
+[home_no_videos]
+other = "New videos coming soon."

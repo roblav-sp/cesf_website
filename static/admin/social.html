@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Publicar nas Redes Sociais — CESF</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      background: #f5f5f5;
+      color: #222;
+      min-height: 100vh;
+      display: flex;
+      align-items: flex-start;
+      justify-content: center;
+      padding: 2rem 1rem;
+    }
+
+    .card {
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 2px 12px rgba(0,0,0,.10);
+      padding: 2rem;
+      width: 100%;
+      max-width: 620px;
+    }
+
+    h1 {
+      font-size: 1.35rem;
+      font-weight: 700;
+      margin-bottom: 0.25rem;
+    }
+
+    .subtitle {
+      font-size: 0.875rem;
+      color: #666;
+      margin-bottom: 1.75rem;
+    }
+
+    label {
+      display: block;
+      font-size: 0.85rem;
+      font-weight: 600;
+      margin-bottom: 0.4rem;
+      color: #444;
+    }
+
+    .field { margin-bottom: 1.25rem; }
+
+    textarea {
+      width: 100%;
+      padding: 0.65rem 0.75rem;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      font-size: 0.95rem;
+      font-family: inherit;
+      resize: vertical;
+      min-height: 130px;
+      transition: border-color .15s;
+    }
+    textarea:focus { outline: none; border-color: #1877f2; }
+
+    input[type="password"] {
+      width: 100%;
+      padding: 0.55rem 0.75rem;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      font-size: 0.95rem;
+      font-family: inherit;
+      transition: border-color .15s;
+    }
+    input[type="password"]:focus { outline: none; border-color: #1877f2; }
+
+    .image-drop {
+      border: 2px dashed #ccc;
+      border-radius: 8px;
+      padding: 1.5rem;
+      text-align: center;
+      cursor: pointer;
+      transition: border-color .15s, background .15s;
+      position: relative;
+    }
+    .image-drop:hover, .image-drop.drag-over {
+      border-color: #1877f2;
+      background: #f0f6ff;
+    }
+    .image-drop input[type="file"] {
+      position: absolute;
+      inset: 0;
+      opacity: 0;
+      cursor: pointer;
+    }
+    .image-drop .drop-label {
+      font-size: 0.875rem;
+      color: #666;
+      pointer-events: none;
+    }
+    .image-drop .drop-label strong { color: #1877f2; }
+
+    #preview-wrap {
+      display: none;
+      margin-top: 0.75rem;
+      position: relative;
+    }
+    #preview-wrap img {
+      max-width: 100%;
+      max-height: 240px;
+      border-radius: 6px;
+      border: 1px solid #ddd;
+    }
+    #remove-image {
+      position: absolute;
+      top: 6px;
+      right: 6px;
+      background: rgba(0,0,0,.55);
+      color: #fff;
+      border: none;
+      border-radius: 50%;
+      width: 26px;
+      height: 26px;
+      font-size: 14px;
+      cursor: pointer;
+      line-height: 26px;
+      text-align: center;
+    }
+
+    .char-count {
+      font-size: 0.78rem;
+      color: #888;
+      text-align: right;
+      margin-top: 0.3rem;
+    }
+    .char-count.over { color: #d00; }
+
+    .hint {
+      font-size: 0.78rem;
+      color: #888;
+      margin-top: 0.3rem;
+    }
+
+    button[type="submit"] {
+      width: 100%;
+      padding: 0.75rem;
+      background: #1877f2;
+      color: #fff;
+      border: none;
+      border-radius: 7px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background .15s, opacity .15s;
+      margin-top: 0.5rem;
+    }
+    button[type="submit"]:hover { background: #145fcc; }
+    button[type="submit"]:disabled { opacity: 0.6; cursor: not-allowed; }
+
+    #status {
+      margin-top: 1rem;
+      padding: 0.75rem 1rem;
+      border-radius: 7px;
+      font-size: 0.9rem;
+      display: none;
+    }
+    #status.ok  { background: #e6f4ea; color: #1e6e2e; border: 1px solid #b6dcc0; }
+    #status.err { background: #fdecea; color: #a00; border: 1px solid #f5c6c2; }
+
+    .back-link {
+      display: inline-block;
+      margin-top: 1.25rem;
+      font-size: 0.85rem;
+      color: #1877f2;
+      text-decoration: none;
+    }
+    .back-link:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+<div class="card">
+  <h1>📢 Publicar nas Redes Sociais</h1>
+  <p class="subtitle">Publica no Facebook. O Instagram recebe automaticamente via Meta Business Suite.</p>
+
+  <form id="post-form" novalidate>
+
+    <div class="field">
+      <label for="api-key">Chave de acesso</label>
+      <input type="password" id="api-key" placeholder="••••••••" autocomplete="off" required />
+      <p class="hint">Obtida com o administrador do site.</p>
+    </div>
+
+    <div class="field">
+      <label for="text">Texto do post</label>
+      <textarea id="text" placeholder="Escreva o texto aqui…" maxlength="2000" required></textarea>
+      <p class="char-count"><span id="char-used">0</span> / 2000</p>
+    </div>
+
+    <div class="field">
+      <label>Imagem (opcional)</label>
+      <div class="image-drop" id="drop-zone">
+        <input type="file" id="image-input" accept="image/jpeg,image/png,image/webp,image/gif" />
+        <p class="drop-label">Clique ou arraste uma imagem aqui<br><strong>JPEG · PNG · WebP · GIF</strong></p>
+      </div>
+      <div id="preview-wrap">
+        <img id="preview" alt="Preview" />
+        <button type="button" id="remove-image" title="Remover imagem">✕</button>
+      </div>
+    </div>
+
+    <button type="submit" id="submit-btn">Publicar no Facebook</button>
+  </form>
+
+  <div id="status"></div>
+  <a class="back-link" href="/admin/">← Voltar ao CMS</a>
+</div>
+
+<script>
+  const API_ENDPOINT = 'https://lh33y25cvc.execute-api.us-east-1.amazonaws.com/social';
+  const FB_POST_LIMIT = 63206;
+
+  const form        = document.getElementById('post-form');
+  const textArea    = document.getElementById('text');
+  const charUsed    = document.getElementById('char-used');
+  const imageInput  = document.getElementById('image-input');
+  const dropZone    = document.getElementById('drop-zone');
+  const previewWrap = document.getElementById('preview-wrap');
+  const previewImg  = document.getElementById('preview');
+  const removeBtn   = document.getElementById('remove-image');
+  const submitBtn   = document.getElementById('submit-btn');
+  const statusEl    = document.getElementById('status');
+
+  let imageBase64 = null;
+  let imageMime   = null;
+
+  // Character counter
+  textArea.addEventListener('input', () => {
+    const n = textArea.value.length;
+    charUsed.textContent = n;
+    charUsed.parentElement.classList.toggle('over', n > FB_POST_LIMIT);
+  });
+
+  // Drag-and-drop highlights
+  dropZone.addEventListener('dragover',  e => { e.preventDefault(); dropZone.classList.add('drag-over'); });
+  dropZone.addEventListener('dragleave', () => dropZone.classList.remove('drag-over'));
+  dropZone.addEventListener('drop',      e => { e.preventDefault(); dropZone.classList.remove('drag-over'); handleFile(e.dataTransfer.files[0]); });
+
+  imageInput.addEventListener('change', () => handleFile(imageInput.files[0]));
+
+  removeBtn.addEventListener('click', () => {
+    imageBase64 = null;
+    imageMime   = null;
+    imageInput.value = '';
+    previewWrap.style.display = 'none';
+    previewImg.src = '';
+  });
+
+  function handleFile(file) {
+    if (!file || !file.type.startsWith('image/')) return;
+    const reader = new FileReader();
+    reader.onload = e => {
+      const dataUrl = e.target.result;
+      // strip the data URL prefix to get raw base64
+      imageBase64 = dataUrl.split(',')[1];
+      imageMime   = file.type;
+      previewImg.src = dataUrl;
+      previewWrap.style.display = 'block';
+    };
+    reader.readAsDataURL(file);
+  }
+
+  function showStatus(msg, isError) {
+    statusEl.textContent = msg;
+    statusEl.className = isError ? 'err' : 'ok';
+    statusEl.style.display = 'block';
+    statusEl.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  }
+
+  form.addEventListener('submit', async e => {
+    e.preventDefault();
+
+    const apiKey = document.getElementById('api-key').value.trim();
+    const text   = textArea.value.trim();
+
+    if (!apiKey) { showStatus('Chave de acesso obrigatória.', true); return; }
+    if (!text)   { showStatus('Texto do post é obrigatório.', true); return; }
+
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Publicando…';
+    statusEl.style.display = 'none';
+
+    const payload = { text };
+    if (imageBase64) {
+      payload.image_base64 = imageBase64;
+      payload.image_mime   = imageMime;
+    }
+
+    try {
+      const resp = await fetch(API_ENDPOINT, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'X-Api-Key': apiKey },
+        body: JSON.stringify(payload),
+      });
+
+      const data = await resp.json().catch(() => ({}));
+
+      if (resp.ok) {
+        showStatus('✅ Publicado com sucesso no Facebook!', false);
+        textArea.value = '';
+        charUsed.textContent = '0';
+        removeBtn.click();
+      } else {
+        const msg = data.error?.message || data.body || `Erro ${resp.status}`;
+        showStatus(`❌ ${msg}`, true);
+      }
+    } catch (err) {
+      showStatus(`❌ Erro de rede: ${err.message}`, true);
+    } finally {
+      submitBtn.disabled = false;
+      submitBtn.textContent = 'Publicar no Facebook';
+    }
+  });
+</script>
+</body>
+</html>

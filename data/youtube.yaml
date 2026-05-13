@@ -1,0 +1,14 @@
+# YouTube channel videos — add new entries at the top
+# id: YouTube video ID (from the URL: youtube.com/watch?v=ID)
+# title_pt / title_fr / title_en: translated titles
+# date: publication date YYYY-MM-DD
+
+videos: []
+
+# Example entry (uncomment and fill in when you have videos):
+# videos:
+#   - id: "dQw4w9WgXcQ"
+#     title_pt: "Palestra: O Que é Espiritismo?"
+#     title_fr: "Conférence : Qu'est-ce que le Spiritisme ?"
+#     title_en: "Lecture: What is Spiritism?"
+#     date: "2026-05-01"

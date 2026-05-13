@@ -20,16 +20,76 @@
         media_folder: "static/images",
         public_folder: "/images",
         collections: [
+
+          // ── Eventos / Posts ──────────────────────────────────────────────
+          {
+            name: "eventos-pt",
+            label: "Eventos (Português)",
+            folder: "content/pt/eventos",
+            create: true,
+            slug: "{{year}}-{{month}}-{{day}}-{{slug}}",
+            fields: [
+              { label: "Título", name: "title", widget: "string" },
+              { label: "Data", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false },
+              { label: "Descrição (resumo)", name: "description", widget: "string", required: false },
+              { label: "Imagem de destaque (URL)", name: "featureimage", widget: "string", required: false,
+                hint: "URL da imagem (ex: /social/2026-06-01-evento.jpg ou URL externa)" },
+              { label: "Vídeo YouTube (URL)", name: "youtube_url", widget: "string", required: false,
+                hint: "Ex: https://www.youtube.com/watch?v=ID" },
+              { label: "Post do Facebook (URL)", name: "facebook_url", widget: "string", required: false },
+              { label: "Mostrar data", name: "showDate", widget: "boolean", default: true },
+              { label: "Mostrar resumo", name: "showSummary", widget: "boolean", default: true },
+              { label: "Conteúdo", name: "body", widget: "markdown" }
+            ]
+          },
+          {
+            name: "eventos-fr",
+            label: "Événements (Français)",
+            folder: "content/fr/eventos",
+            create: true,
+            slug: "{{year}}-{{month}}-{{day}}-{{slug}}",
+            fields: [
+              { label: "Titre", name: "title", widget: "string" },
+              { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false },
+              { label: "Description (résumé)", name: "description", widget: "string", required: false },
+              { label: "Image mise en avant (URL)", name: "featureimage", widget: "string", required: false },
+              { label: "Vidéo YouTube (URL)", name: "youtube_url", widget: "string", required: false },
+              { label: "Post Facebook (URL)", name: "facebook_url", widget: "string", required: false },
+              { label: "Afficher la date", name: "showDate", widget: "boolean", default: true },
+              { label: "Afficher le résumé", name: "showSummary", widget: "boolean", default: true },
+              { label: "Contenu", name: "body", widget: "markdown" }
+            ]
+          },
+          {
+            name: "eventos-en",
+            label: "Events (English)",
+            folder: "content/en/eventos",
+            create: true,
+            slug: "{{year}}-{{month}}-{{day}}-{{slug}}",
+            fields: [
+              { label: "Title", name: "title", widget: "string" },
+              { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false },
+              { label: "Description (summary)", name: "description", widget: "string", required: false },
+              { label: "Feature image (URL)", name: "featureimage", widget: "string", required: false },
+              { label: "YouTube video (URL)", name: "youtube_url", widget: "string", required: false },
+              { label: "Facebook post (URL)", name: "facebook_url", widget: "string", required: false },
+              { label: "Show date", name: "showDate", widget: "boolean", default: true },
+              { label: "Show summary", name: "showSummary", widget: "boolean", default: true },
+              { label: "Body", name: "body", widget: "markdown" }
+            ]
+          },
+
+          // ── Páginas de conteúdo (existentes) ────────────────────────────
           {
             name: "pages-pt",
-            label: "Pages (Português)",
+            label: "Páginas (Português)",
             folder: "content/pt",
             create: true,
             slug: "{{slug}}",
             fields: [
-              { label: "Title", name: "title", widget: "string" },
-              { label: "Description", name: "description", widget: "string", required: false },
-              { label: "Body", name: "body", widget: "markdown" }
+              { label: "Título", name: "title", widget: "string" },
+              { label: "Descrição", name: "description", widget: "string", required: false },
+              { label: "Conteúdo", name: "body", widget: "markdown" }
             ]
           },
           {
@@ -39,9 +99,9 @@
             create: true,
             slug: "{{slug}}",
             fields: [
-              { label: "Title", name: "title", widget: "string" },
+              { label: "Titre", name: "title", widget: "string" },
               { label: "Description", name: "description", widget: "string", required: false },
-              { label: "Body", name: "body", widget: "markdown" }
+              { label: "Contenu", name: "body", widget: "markdown" }
             ]
           },
           {
@@ -54,6 +114,37 @@
               { label: "Title", name: "title", widget: "string" },
               { label: "Description", name: "description", widget: "string", required: false },
               { label: "Body", name: "body", widget: "markdown" }
+            ]
+          }
+        ],
+
+        // ── Arquivos de dados editáveis ─────────────────────────────────
+        files_collections: [
+          {
+            name: "data",
+            label: "Dados do Site",
+            files: [
+              {
+                name: "youtube",
+                label: "Vídeos YouTube",
+                file: "data/youtube.yaml",
+                fields: [
+                  {
+                    label: "Vídeos",
+                    name: "videos",
+                    widget: "list",
+                    fields: [
+                      { label: "ID do vídeo (YouTube)", name: "id", widget: "string",
+                        hint: "Ex: dQw4w9WgXcQ (da URL youtube.com/watch?v=ID)" },
+                      { label: "Título em Português", name: "title_pt", widget: "string" },
+                      { label: "Titre en Français", name: "title_fr", widget: "string", required: false },
+                      { label: "Title in English", name: "title_en", widget: "string", required: false },
+                      { label: "Data de publicação", name: "date", widget: "datetime",
+                        format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+                    ]
+                  }
+                ]
+              }
             ]
           }
         ]
