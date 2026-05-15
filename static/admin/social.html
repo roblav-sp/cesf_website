@@ -73,6 +73,20 @@
     }
     input[type="password"]:focus { outline: none; border-color: #1877f2; }
 
+    input[type="text"], input[type="url"], input[type="date"] {
+      width: 100%;
+      padding: 0.55rem 0.75rem;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      font-size: 0.95rem;
+      font-family: inherit;
+      transition: border-color .15s;
+    }
+    input[type="text"]:focus, input[type="url"]:focus, input[type="date"]:focus {
+      outline: none;
+      border-color: #1877f2;
+    }
+
     .image-drop {
       border: 2px dashed #ccc;
       border-radius: 8px;
@@ -166,6 +180,29 @@
     #status.ok  { background: #e6f4ea; color: #1e6e2e; border: 1px solid #b6dcc0; }
     #status.err { background: #fdecea; color: #a00; border: 1px solid #f5c6c2; }
 
+    .checkbox-group {
+      display: flex;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+      margin-bottom: 1.25rem;
+    }
+    .checkbox-group label {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      font-weight: 400;
+      cursor: pointer;
+      margin-bottom: 0;
+      font-size: 0.9rem;
+      font-weight: 400;
+      color: #444;
+    }
+    .checkbox-group input[type="checkbox"] {
+      cursor: pointer;
+      width: 18px;
+      height: 18px;
+    }
+
     .back-link {
       display: inline-block;
       margin-top: 1.25rem;
@@ -190,7 +227,22 @@
     </div>
 
     <div class="field">
-      <label for="text">Texto do post</label>
+      <label for="title">Título do evento</label>
+      <input type="text" id="title" placeholder="Título do evento…" />
+    </div>
+
+    <div class="field">
+      <label for="event-date">Data do evento</label>
+      <input type="date" id="event-date" />
+    </div>
+
+    <div class="field">
+      <label for="youtube-url">URL YouTube</label>
+      <input type="url" id="youtube-url" placeholder="https://youtube.com/watch?v=…" />
+    </div>
+
+    <div class="field">
+      <label for="text">Texto / Descrição do evento</label>
       <textarea id="text" placeholder="Escreva o texto aqui…" maxlength="2000" required></textarea>
       <p class="char-count"><span id="char-used">0</span> / 2000</p>
     </div>
@@ -207,7 +259,18 @@
       </div>
     </div>
 
-    <button type="submit" id="submit-btn">Publicar no Facebook</button>
+    <div class="checkbox-group">
+      <label>
+        <input type="checkbox" id="cb-site" checked />
+        Publicar no site
+      </label>
+      <label>
+        <input type="checkbox" id="cb-facebook" checked />
+        Postar no Facebook
+      </label>
+    </div>
+
+    <button type="submit" id="submit-btn">Publicar no site e no Facebook</button>
   </form>
 
   <div id="status"></div>
@@ -228,9 +291,36 @@
   const removeBtn   = document.getElementById('remove-image');
   const submitBtn   = document.getElementById('submit-btn');
   const statusEl    = document.getElementById('status');
+  const titleInput  = document.getElementById('title');
+  const dateInput   = document.getElementById('event-date');
+  const youtubeInput = document.getElementById('youtube-url');
+  const cbSite      = document.getElementById('cb-site');
+  const cbFacebook  = document.getElementById('cb-facebook');
 
   let imageBase64 = null;
   let imageMime   = null;
+
+  function updateSubmitButton() {
+    const hasSite = cbSite.checked;
+    const hasFacebook = cbFacebook.checked;
+    if (hasSite && hasFacebook) {
+      submitBtn.textContent = 'Publicar no site e no Facebook';
+    } else if (hasSite) {
+      submitBtn.textContent = 'Publicar no site';
+    } else if (hasFacebook) {
+      submitBtn.textContent = 'Postar no Facebook';
+    } else {
+      submitBtn.textContent = 'Publicar';
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    dateInput.value = new Date().toISOString().split('T')[0];
+    updateSubmitButton();
+  });
+
+  cbSite.addEventListener('change', updateSubmitButton);
+  cbFacebook.addEventListener('change', updateSubmitButton);
 
   // Character counter
   textArea.addEventListener('input', () => {
@@ -280,15 +370,31 @@
 
     const apiKey = document.getElementById('api-key').value.trim();
     const text   = textArea.value.trim();
+    const title  = titleInput.value.trim();
+    const date   = dateInput.value.trim();
+    const youtubeUrl = youtubeInput.value.trim();
+    const publishToSite = cbSite.checked;
+    const postToFacebook = cbFacebook.checked;
 
     if (!apiKey) { showStatus('Chave de acesso obrigatória.', true); return; }
     if (!text)   { showStatus('Texto do post é obrigatório.', true); return; }
+    if (publishToSite && !title) { showStatus('Título do evento é obrigatório quando "Publicar no site" está marcado.', true); return; }
+    if (publishToSite && !date) { showStatus('Data do evento é obrigatória quando "Publicar no site" está marcado.', true); return; }
 
     submitBtn.disabled = true;
     submitBtn.textContent = 'Publicando…';
     statusEl.style.display = 'none';
 
-    const payload = { text };
+    const payload = {
+      text,
+      title,
+      date,
+      publish_to_site: publishToSite,
+      post_to_facebook: postToFacebook,
+    };
+    if (youtubeUrl) {
+      payload.youtube_url = youtubeUrl;
+    }
     if (imageBase64) {
       payload.image_base64 = imageBase64;
       payload.image_mime   = imageMime;
@@ -304,8 +410,20 @@
       const data = await resp.json().catch(() => ({}));
 
       if (resp.ok) {
-        showStatus('✅ Publicado com sucesso no Facebook!', false);
+        let successMsg;
+        if (publishToSite && postToFacebook) {
+          successMsg = '✅ Publicado no site e no Facebook!';
+        } else if (publishToSite) {
+          successMsg = '✅ Publicado no site com sucesso!';
+        } else if (postToFacebook) {
+          successMsg = '✅ Publicado no Facebook com sucesso!';
+        } else {
+          successMsg = '✅ Publicado com sucesso!';
+        }
+        showStatus(successMsg, false);
         textArea.value = '';
+        titleInput.value = '';
+        youtubeInput.value = '';
         charUsed.textContent = '0';
         removeBtn.click();
       } else {
@@ -316,7 +434,7 @@
       showStatus(`❌ Erro de rede: ${err.message}`, true);
     } finally {
       submitBtn.disabled = false;
-      submitBtn.textContent = 'Publicar no Facebook';
+      updateSubmitButton();
     }
   });
 </script>
