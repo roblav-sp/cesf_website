@@ -176,28 +176,80 @@
       ]
     };
 
-    function initCMS(provider) {
-      document.getElementById('auth-overlay').style.display = 'none';
+    // Run our own OAuth popup, get token, fetch GitHub /user, store in
+    // decap-cms-user localStorage. Decap reads on init and skips its login UI.
+    function doOAuth(authUrl) {
+      return new Promise((resolve, reject) => {
+        const popup = window.open(authUrl, 'cms-auth', 'width=600,height=700');
+        if (!popup) return reject(new Error('Popup bloqueado pelo browser'));
+
+        const onMessage = (e) => {
+          if (e.origin !== API_BASE) return;
+          if (e.data === 'authorizing:github') {
+            e.source.postMessage('authorizing:github', e.origin);
+          } else if (typeof e.data === 'string' && e.data.startsWith('authorization:github:success:')) {
+            window.removeEventListener('message', onMessage);
+            try {
+              const payload = JSON.parse(e.data.slice('authorization:github:success:'.length));
+              popup.close();
+              resolve(payload.token);
+            } catch (err) { reject(err); }
+          } else if (typeof e.data === 'string' && e.data.startsWith('authorization:github:error:')) {
+            window.removeEventListener('message', onMessage);
+            popup.close();
+            reject(new Error(e.data.slice('authorization:github:error:'.length)));
+          }
+        };
+        window.addEventListener('message', onMessage);
+      });
+    }
+
+    async function authenticate(provider) {
+      const authPath = provider === 'google' ? '/google/auth' : '/auth';
+      const token = await doOAuth(API_BASE + authPath + '?provider=github&scope=repo,user');
+
+      const userResp = await fetch('https://api.github.com/user', {
+        headers: { 'Authorization': 'token ' + token }
+      });
+      if (!userResp.ok) throw new Error('GitHub /user failed: ' + userResp.status);
+      const ghUser = await userResp.json();
+
+      const user = Object.assign({}, ghUser, {
+        token: token,
+        backendName: 'github'
+      });
+      localStorage.setItem('decap-cms-user', JSON.stringify(user));
+    }
+
+    async function initCMS(provider) {
       sessionStorage.setItem('cms-auth-provider', provider);
+      const existing = localStorage.getItem('decap-cms-user');
 
-      const config = JSON.parse(JSON.stringify(cmsConfig));
-      if (provider === 'google') {
-        config.backend.auth_endpoint = 'google/auth';
+      if (!existing) {
+        try {
+          await authenticate(provider);
+        } catch (err) {
+          alert('Erro no login: ' + err.message);
+          return;
+        }
       }
-      config.load_config_file = false;
 
+      document.getElementById('auth-overlay').style.display = 'none';
+      const config = JSON.parse(JSON.stringify(cmsConfig));
+      config.load_config_file = false;
       CMS.init({ config: config });
 
       window.addEventListener('message', (e) => {
         if (e.data === 'cms-logout') {
           sessionStorage.removeItem('cms-auth-provider');
+          localStorage.removeItem('decap-cms-user');
         }
       });
     }
 
-    const savedProvider = sessionStorage.getItem('cms-auth-provider');
-    if (savedProvider) {
-      document.addEventListener('DOMContentLoaded', () => initCMS(savedProvider));
+    // Auto-resume if we already authenticated this session
+    if (localStorage.getItem('decap-cms-user') && sessionStorage.getItem('cms-auth-provider')) {
+      document.addEventListener('DOMContentLoaded', () => initCMS(sessionStorage.getItem('cms-auth-provider')));
     }
   </script>
 </body>
