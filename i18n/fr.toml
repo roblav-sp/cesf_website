@@ -15,3 +15,9 @@ other = "Prochainement de nouveaux événements."
 
 [home_no_videos]
 other = "Prochainement de nouvelles vidéos."
+
+[home_facebook]
+other = "Actualités Facebook"
+
+[home_see_facebook]
+other = "Voir sur Facebook"

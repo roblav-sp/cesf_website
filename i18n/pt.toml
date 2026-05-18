@@ -15,3 +15,9 @@ other = "Em breve novos eventos."
 
 [home_no_videos]
 other = "Em breve novos vídeos."
+
+[home_facebook]
+other = "Notícias do Facebook"
+
+[home_see_facebook]
+other = "Ver no Facebook"

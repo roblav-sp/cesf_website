@@ -15,3 +15,9 @@ other = "New events coming soon."
 
 [home_no_videos]
 other = "New videos coming soon."
+
+[home_facebook]
+other = "Facebook News"
+
+[home_see_facebook]
+other = "View on Facebook"

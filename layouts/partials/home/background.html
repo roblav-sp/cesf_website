@@ -167,6 +167,30 @@
   </div>
 </section>
 
+{{/* ─── Facebook Page feed ─────────────────────────────────── */}}
+<section class="mb-16 px-4">
+  <div class="mx-auto max-w-7xl">
+    <div class="flex items-center justify-between mb-5">
+      <h2 class="text-2xl font-extrabold text-neutral-800 dark:text-neutral-200 m-0">
+        {{ i18n "home_facebook" }}
+      </h2>
+      <a href="https://www.facebook.com/cesfraternite" target="_blank" rel="noopener noreferrer"
+         class="text-sm font-semibold text-primary-600 dark:text-primary-400 hover:underline no-underline">
+        {{ i18n "home_see_facebook" }} →
+      </a>
+    </div>
+    <div class="flex justify-center">
+      <iframe
+        src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fcesfraternite&tabs=timeline&width=500&height=600&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true"
+        width="500" height="600"
+        style="border:none;overflow:hidden;max-width:100%;"
+        scrolling="no" frameborder="0" allowfullscreen="true"
+        allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
+        loading="lazy"></iframe>
+    </div>
+  </div>
+</section>
+
 {{ if .Site.Params.homepage.layoutBackgroundBlur | default false }}
   <div
     id="background-blur"
