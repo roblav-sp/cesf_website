@@ -186,7 +186,8 @@
         config.backend.base_url = API_BASE + '/google';
       }
 
-      CMS.init({ config: config, load_config_file: false });
+      config.load_config_file = false;
+      CMS.init({ config: config });
 
       window.addEventListener('message', (e) => {
         if (e.data === 'cms-logout') {
