@@ -215,8 +215,8 @@
 </head>
 <body>
 <div class="card">
-  <h1>📢 Publicar nas Redes Sociais</h1>
-  <p class="subtitle">Publica no Facebook. O Instagram recebe automaticamente via Meta Business Suite.</p>
+  <h1>📢 Publicar Evento</h1>
+  <p class="subtitle">Cria a página do evento no site e faz o deploy automaticamente via GitHub.</p>
 
   <form id="post-form" novalidate>
 
@@ -264,13 +264,9 @@
         <input type="checkbox" id="cb-site" checked />
         Publicar no site
       </label>
-      <label>
-        <input type="checkbox" id="cb-facebook" checked />
-        Postar no Facebook
-      </label>
     </div>
 
-    <button type="submit" id="submit-btn">Publicar no site e no Facebook</button>
+    <button type="submit" id="submit-btn">Publicar no site</button>
   </form>
 
   <div id="status"></div>
@@ -295,32 +291,13 @@
   const dateInput   = document.getElementById('event-date');
   const youtubeInput = document.getElementById('youtube-url');
   const cbSite      = document.getElementById('cb-site');
-  const cbFacebook  = document.getElementById('cb-facebook');
 
   let imageBase64 = null;
   let imageMime   = null;
 
-  function updateSubmitButton() {
-    const hasSite = cbSite.checked;
-    const hasFacebook = cbFacebook.checked;
-    if (hasSite && hasFacebook) {
-      submitBtn.textContent = 'Publicar no site e no Facebook';
-    } else if (hasSite) {
-      submitBtn.textContent = 'Publicar no site';
-    } else if (hasFacebook) {
-      submitBtn.textContent = 'Postar no Facebook';
-    } else {
-      submitBtn.textContent = 'Publicar';
-    }
-  }
-
   document.addEventListener('DOMContentLoaded', () => {
     dateInput.value = new Date().toISOString().split('T')[0];
-    updateSubmitButton();
   });
-
-  cbSite.addEventListener('change', updateSubmitButton);
-  cbFacebook.addEventListener('change', updateSubmitButton);
 
   // Character counter
   textArea.addEventListener('input', () => {
@@ -374,12 +351,11 @@
     const date   = dateInput.value.trim();
     const youtubeUrl = youtubeInput.value.trim();
     const publishToSite = cbSite.checked;
-    const postToFacebook = cbFacebook.checked;
 
     if (!apiKey) { showStatus('Chave de acesso obrigatória.', true); return; }
     if (!text)   { showStatus('Texto do post é obrigatório.', true); return; }
-    if (publishToSite && !title) { showStatus('Título do evento é obrigatório quando "Publicar no site" está marcado.', true); return; }
-    if (publishToSite && !date) { showStatus('Data do evento é obrigatória quando "Publicar no site" está marcado.', true); return; }
+    if (publishToSite && !title) { showStatus('Título do evento é obrigatório.', true); return; }
+    if (publishToSite && !date) { showStatus('Data do evento é obrigatória.', true); return; }
 
     submitBtn.disabled = true;
     submitBtn.textContent = 'Publicando…';
@@ -390,7 +366,7 @@
       title,
       date,
       publish_to_site: publishToSite,
-      post_to_facebook: postToFacebook,
+      post_to_facebook: false,
     };
     if (youtubeUrl) {
       payload.youtube_url = youtubeUrl;
@@ -410,16 +386,9 @@
       const data = await resp.json().catch(() => ({}));
 
       if (resp.ok) {
-        let successMsg;
-        if (publishToSite && postToFacebook) {
-          successMsg = '✅ Publicado no site e no Facebook!';
-        } else if (publishToSite) {
-          successMsg = '✅ Publicado no site com sucesso!';
-        } else if (postToFacebook) {
-          successMsg = '✅ Publicado no Facebook com sucesso!';
-        } else {
-          successMsg = '✅ Publicado com sucesso!';
-        }
+        const successMsg = publishToSite
+          ? '✅ Evento publicado no site! O deploy inicia automaticamente.'
+          : '✅ Enviado com sucesso!';
         showStatus(successMsg, false);
         textArea.value = '';
         titleInput.value = '';
