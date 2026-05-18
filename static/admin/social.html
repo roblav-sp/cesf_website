@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Publicar nas Redes Sociais — CESF</title>
+  <title>Publicar Evento — CESF</title>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -24,20 +24,11 @@
       box-shadow: 0 2px 12px rgba(0,0,0,.10);
       padding: 2rem;
       width: 100%;
-      max-width: 620px;
+      max-width: 640px;
     }
 
-    h1 {
-      font-size: 1.35rem;
-      font-weight: 700;
-      margin-bottom: 0.25rem;
-    }
-
-    .subtitle {
-      font-size: 0.875rem;
-      color: #666;
-      margin-bottom: 1.75rem;
-    }
+    h1 { font-size: 1.35rem; font-weight: 700; margin-bottom: 0.25rem; }
+    .subtitle { font-size: 0.875rem; color: #666; margin-bottom: 1.75rem; }
 
     label {
       display: block;
@@ -46,32 +37,30 @@
       margin-bottom: 0.4rem;
       color: #444;
     }
+    label .opt { font-weight: 400; color: #999; }
 
     .field { margin-bottom: 1.25rem; }
 
+    input[type="text"],
+    input[type="date"],
+    input[type="url"],
+    input[type="password"],
     textarea {
       width: 100%;
-      padding: 0.65rem 0.75rem;
+      padding: 0.6rem 0.75rem;
       border: 1px solid #ccc;
       border-radius: 6px;
       font-size: 0.95rem;
       font-family: inherit;
-      resize: vertical;
-      min-height: 130px;
       transition: border-color .15s;
     }
+    input[type="text"]:focus,
+    input[type="date"]:focus,
+    input[type="url"]:focus,
+    input[type="password"]:focus,
     textarea:focus { outline: none; border-color: #1877f2; }
 
-    input[type="password"] {
-      width: 100%;
-      padding: 0.55rem 0.75rem;
-      border: 1px solid #ccc;
-      border-radius: 6px;
-      font-size: 0.95rem;
-      font-family: inherit;
-      transition: border-color .15s;
-    }
-    input[type="password"]:focus { outline: none; border-color: #1877f2; }
+    textarea { resize: vertical; min-height: 130px; }
 
     input[type="text"], input[type="url"], input[type="date"] {
       width: 100%;
@@ -106,18 +95,10 @@
       opacity: 0;
       cursor: pointer;
     }
-    .image-drop .drop-label {
-      font-size: 0.875rem;
-      color: #666;
-      pointer-events: none;
-    }
+    .image-drop .drop-label { font-size: 0.875rem; color: #666; pointer-events: none; }
     .image-drop .drop-label strong { color: #1877f2; }
 
-    #preview-wrap {
-      display: none;
-      margin-top: 0.75rem;
-      position: relative;
-    }
+    #preview-wrap { display: none; margin-top: 0.75rem; position: relative; }
     #preview-wrap img {
       max-width: 100%;
       max-height: 240px;
@@ -126,33 +107,24 @@
     }
     #remove-image {
       position: absolute;
-      top: 6px;
-      right: 6px;
+      top: 6px; right: 6px;
       background: rgba(0,0,0,.55);
       color: #fff;
       border: none;
       border-radius: 50%;
-      width: 26px;
-      height: 26px;
+      width: 26px; height: 26px;
       font-size: 14px;
       cursor: pointer;
       line-height: 26px;
       text-align: center;
     }
 
-    .char-count {
-      font-size: 0.78rem;
-      color: #888;
-      text-align: right;
-      margin-top: 0.3rem;
-    }
+    .char-count { font-size: 0.78rem; color: #888; text-align: right; margin-top: 0.3rem; }
     .char-count.over { color: #d00; }
 
-    .hint {
-      font-size: 0.78rem;
-      color: #888;
-      margin-top: 0.3rem;
-    }
+    .hint { font-size: 0.78rem; color: #888; margin-top: 0.3rem; }
+
+    .divider { border: none; border-top: 1px solid #eee; margin: 1.5rem 0; }
 
     button[type="submit"] {
       width: 100%;
@@ -176,9 +148,10 @@
       border-radius: 7px;
       font-size: 0.9rem;
       display: none;
+      white-space: pre-wrap;
     }
     #status.ok  { background: #e6f4ea; color: #1e6e2e; border: 1px solid #b6dcc0; }
-    #status.err { background: #fdecea; color: #a00; border: 1px solid #f5c6c2; }
+    #status.err { background: #fdecea; color: #a00;    border: 1px solid #f5c6c2; }
 
     .checkbox-group {
       display: flex;
@@ -226,6 +199,8 @@
       <p class="hint">Obtida com o administrador do site.</p>
     </div>
 
+    <hr class="divider" />
+
     <div class="field">
       <label for="title">Título do evento</label>
       <input type="text" id="title" placeholder="Título do evento…" />
@@ -248,7 +223,12 @@
     </div>
 
     <div class="field">
-      <label>Imagem (opcional)</label>
+      <label for="youtube-url">URL do YouTube <span class="opt">(opcional)</span></label>
+      <input type="url" id="youtube-url" placeholder="https://www.youtube.com/watch?v=..." />
+    </div>
+
+    <div class="field">
+      <label>Imagem <span class="opt">(opcional)</span></label>
       <div class="image-drop" id="drop-zone">
         <input type="file" id="image-input" accept="image/jpeg,image/png,image/webp,image/gif" />
         <p class="drop-label">Clique ou arraste uma imagem aqui<br><strong>JPEG · PNG · WebP · GIF</strong></p>
@@ -275,7 +255,6 @@
 
 <script>
   const API_ENDPOINT = 'https://lh33y25cvc.execute-api.us-east-1.amazonaws.com/social';
-  const FB_POST_LIMIT = 63206;
 
   const form        = document.getElementById('post-form');
   const textArea    = document.getElementById('text');
@@ -303,14 +282,12 @@
   textArea.addEventListener('input', () => {
     const n = textArea.value.length;
     charUsed.textContent = n;
-    charUsed.parentElement.classList.toggle('over', n > FB_POST_LIMIT);
+    charUsed.parentElement.classList.toggle('over', n > 2000);
   });
 
-  // Drag-and-drop highlights
   dropZone.addEventListener('dragover',  e => { e.preventDefault(); dropZone.classList.add('drag-over'); });
   dropZone.addEventListener('dragleave', () => dropZone.classList.remove('drag-over'));
   dropZone.addEventListener('drop',      e => { e.preventDefault(); dropZone.classList.remove('drag-over'); handleFile(e.dataTransfer.files[0]); });
-
   imageInput.addEventListener('change', () => handleFile(imageInput.files[0]));
 
   removeBtn.addEventListener('click', () => {
@@ -326,7 +303,6 @@
     const reader = new FileReader();
     reader.onload = e => {
       const dataUrl = e.target.result;
-      // strip the data URL prefix to get raw base64
       imageBase64 = dataUrl.split(',')[1];
       imageMime   = file.type;
       previewImg.src = dataUrl;
@@ -346,6 +322,7 @@
     e.preventDefault();
 
     const apiKey = document.getElementById('api-key').value.trim();
+    const title  = document.getElementById('title').value.trim();
     const text   = textArea.value.trim();
     const title  = titleInput.value.trim();
     const date   = dateInput.value.trim();
@@ -396,11 +373,11 @@
         charUsed.textContent = '0';
         removeBtn.click();
       } else {
-        const msg = data.error?.message || data.body || `Erro ${resp.status}`;
-        showStatus(`❌ ${msg}`, true);
+        const msg = data.error?.message || data.body || data.error || `Erro ${resp.status}`;
+        showStatus(`Erro: ${msg}`, true);
       }
     } catch (err) {
-      showStatus(`❌ Erro de rede: ${err.message}`, true);
+      showStatus(`Erro de rede: ${err.message}`, true);
     } finally {
       submitBtn.disabled = false;
       updateSubmitButton();
