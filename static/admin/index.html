@@ -48,7 +48,8 @@
         name: "github",
         repo: "roblav-sp/cesf_website",
         branch: "main",
-        base_url: API_BASE
+        base_url: API_BASE,
+        auth_endpoint: "auth"
       },
       media_folder: "static/images",
       public_folder: "/images",
@@ -144,9 +145,7 @@
             { label: "Description", name: "description", widget: "string", required: false },
             { label: "Body", name: "body", widget: "markdown" }
           ]
-        }
-      ],
-      files_collections: [
+        },
         {
           name: "data",
           label: "Dados do Site",
@@ -183,10 +182,10 @@
 
       const config = JSON.parse(JSON.stringify(cmsConfig));
       if (provider === 'google') {
-        config.backend.base_url = API_BASE + '/google';
+        config.backend.auth_endpoint = 'google/auth';
       }
-
       config.load_config_file = false;
+
       CMS.init({ config: config });
 
       window.addEventListener('message', (e) => {
