@@ -234,7 +234,8 @@
         }
       }
 
-      document.getElementById('auth-overlay').style.display = 'none';
+      const overlay = document.getElementById('auth-overlay');
+      if (overlay) overlay.remove();
       const config = JSON.parse(JSON.stringify(cmsConfig));
       config.load_config_file = false;
       CMS.init({ config: config });
