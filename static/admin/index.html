@@ -146,33 +146,6 @@
             { label: "Body", name: "body", widget: "markdown" }
           ]
         },
-        {
-          name: "data",
-          label: "Dados do Site",
-          files: [
-            {
-              name: "youtube",
-              label: "Vídeos YouTube",
-              file: "data/youtube.yaml",
-              fields: [
-                {
-                  label: "Vídeos",
-                  name: "videos",
-                  widget: "list",
-                  fields: [
-                    { label: "ID do vídeo (YouTube)", name: "id", widget: "string",
-                      hint: "Ex: dQw4w9WgXcQ (da URL youtube.com/watch?v=ID)" },
-                    { label: "Título em Português", name: "title_pt", widget: "string" },
-                    { label: "Titre en Français", name: "title_fr", widget: "string", required: false },
-                    { label: "Title in English", name: "title_en", widget: "string", required: false },
-                    { label: "Data de publicação", name: "date", widget: "datetime",
-                      format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
       ]
     };
 
