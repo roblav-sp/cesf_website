@@ -53,7 +53,7 @@ Encontro voltado aos pais e responsáveis, oferecendo espaço de apoio, conversa
 **📖 18h45 - 19h30 (🇧🇷)**  
 Evangelho no Lar Coletivo — para auxiliar as famílias que gostariam de desenvolver este hábito.
 
-### Terça-feira (🇨🇦 Francês / 🇨🇦 Inglês) 💻
+### Terça-feira (⚜️ Francês / 🇨🇦 Inglês) 💻
 
 **🕊️ 19h30 - 21h30**  
 Assistência Espiritual (Alternância semanal FR/EN com slides multilíngues)
@@ -63,12 +63,12 @@ Assistência Espiritual (Alternância semanal FR/EN com slides multilíngues)
 **📚 19h00 - 20h00 (🇧🇷)**  
 Estudo dos livros do médium Divaldo Franco e do espírito Joana de Ângelis
 
-**🌍 19h30 - 19h50 (🇧🇷 / 🇨🇦)**  
+**🌍 19h30 - 19h50 (🇧🇷 / ⚜️)**  
 Vibrações coletivas pelo planeta (Alternância semanal)
 
-### Sábado (🇨🇦 Francês) 💻
+### Sábado (⚜️ Francês) 💻
 
-**🎙️ 10h30 às 11h30 (🇨🇦 Francês)**  
+**🎙️ 10h30 às 11h30 (⚜️ Francês)**  
 Palestras e estudo sistematizado da filosofia espírita através do estudo de livros de Allan Kardec e outras fontes.
 
 ---

@@ -53,7 +53,7 @@ Rencontre destinée aux parents et tuteurs, offrant un espace de soutien, de con
 **📖 18h45 - 19h30 (🇧🇷)**  
 Évangile au Foyer Collectif — pour aider les familles qui souhaitent développer cette habitude.
 
-### Mardi (🇨🇦 Français / 🇨🇦 Anglais) 💻
+### Mardi (⚜️ Français / 🇨🇦 Anglais) 💻
 
 **🕊️ 19h30 - 21h30**  
 Assistance Spirituelle (Alternance hebdomadaire FR/EN avec diapositives multilingues)
@@ -63,12 +63,12 @@ Assistance Spirituelle (Alternance hebdomadaire FR/EN avec diapositives multilin
 **📚 19h00 - 20h00 (🇧🇷)**  
 Étude des livres du médium Divaldo Franco et de l'esprit Joana de Ângelis
 
-**🌍 19h30 - 19h50 (🇧🇷 / 🇨🇦)**  
+**🌍 19h30 - 19h50 (🇧🇷 / ⚜️)**  
 Vibrations collectives pour la planète (Alternance hebdomadaire)
 
-### Samedi (🇨🇦 Français) 💻
+### Samedi (⚜️ Français) 💻
 
-**🎙️ 10h30 à 11h30 (🇨🇦 Français)**  
+**🎙️ 10h30 à 11h30 (⚜️ Français)**  
 Conférences et étude systématique de la philosophie spirite à travers l'étude des livres d'Allan Kardec et d'autres sources.
 
 ---
