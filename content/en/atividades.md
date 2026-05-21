@@ -5,7 +5,7 @@ description: "Explore our meetings, studies and spiritist activities"
 
 # 📅 Activity Schedule
 
-## Wednesday (🇵🇹 Portuguese) 📍+ 💻
+## Wednesday (🇧🇷 Portuguese) 📍+ 💻
 
 ### 🎙️ 6:45 PM - 8:00 PM
 **Lectures on Spiritism**  
@@ -48,22 +48,27 @@ A gathering for parents and guardians, offering a space for support, conversatio
 
 ## 💻 Zoom Only
 
-### Tuesday (🇫🇷 French / 🇬🇧 English) 💻
+### Monday (🇧🇷 Portuguese) 💻
+
+**📖 6:45 PM - 7:30 PM (🇧🇷)**  
+Collective Home Gospel — to help families who would like to develop this habit.
+
+### Tuesday (🇨🇦 French / 🇨🇦 English) 💻
 
 **🕊️ 7:30 PM - 9:30 PM**  
 Spiritual Assistance (Weekly alternation FR/EN with multilingual slides)
 
-### Thursday (🇵🇹 Portuguese) 💻
+### Thursday (🇧🇷 Portuguese) 💻
 
-**📚 7:00 PM - 8:00 PM (🇵🇹)**  
+**📚 7:00 PM - 8:00 PM (🇧🇷)**  
 Study of the books of medium Divaldo Franco and the spirit Joana de Ângelis
 
-**🌍 8:15 PM - 9:00 PM (🇵🇹 / 🇫🇷)**  
+**🌍 7:30 PM - 7:50 PM (🇧🇷 / 🇨🇦)**  
 Collective vibrations for the planet (Weekly alternation)
 
-### Saturday (🇫🇷 French) 💻
+### Saturday (🇨🇦 French) 💻
 
-**🎙️ 10:30 AM to 11:30 AM (🇫🇷 French)**  
+**🎙️ 10:30 AM to 11:30 AM (🇨🇦 French)**  
 Lectures and systematic study of spiritist philosophy through the study of Allan Kardec's books and other sources.
 
 ---
