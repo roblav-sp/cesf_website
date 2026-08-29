@@ -24,4 +24,3 @@ If you seek a spiritist center to deepen your studies, share your knowledge, see
 
 📍 **Address:** 5569 Rue de Verdun, Montreal, QC H4H 1L2  
 📧 **Email:** cesfraternite@gmail.com  
-📱 **WhatsApp:** [Click here to join our group](https://chat.whatsapp.com/5kV0suS9TLBIyrp5StJJFi?mode=gi_t)

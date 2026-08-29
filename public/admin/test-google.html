@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Teste Google OAuth — CESF</title>
+<style>
+  body { font-family: system-ui; max-width: 800px; margin: 2rem auto; padding: 1rem; }
+  button { padding: 0.6rem 1.2rem; font-size: 1rem; cursor: pointer; margin-right: 0.5rem; }
+  pre { background: #f5f5f5; padding: 1rem; border-radius: 6px; font-size: 12px; white-space: pre-wrap; word-break: break-all; }
+  .ok  { color: #1e6e2e; }
+  .err { color: #a00; }
+  .info { color: #1877f2; }
+  h2 { font-size: 1rem; margin-top: 1.5rem; border-top: 1px solid #ddd; padding-top: 1rem; }
+</style>
+</head>
+<body>
+<h1>🧪 Teste Google OAuth — CESF</h1>
+<p>Esta página testa o fluxo Google OAuth isoladamente, sem o Decap CMS. Mostra cada passo e qualquer erro.</p>
+
+<button onclick="startAuth()">▶ Iniciar login Google</button>
+<button onclick="clearLog()">Limpar log</button>
+
+<h2>Log do fluxo</h2>
+<pre id="log"></pre>
+
+<h2>Mensagens recebidas via postMessage</h2>
+<pre id="messages">(aguardando)</pre>
+
+<script>
+const API_BASE = 'https://lh33y25cvc.execute-api.us-east-1.amazonaws.com';
+const AUTH_URL = API_BASE + '/google/auth';
+
+const logEl = document.getElementById('log');
+const msgEl = document.getElementById('messages');
+let popup = null;
+
+function log(msg, cls) {
+  const time = new Date().toISOString().substr(11, 8);
+  logEl.innerHTML += `[${time}] <span class="${cls||''}">${msg}</span>\n`;
+}
+
+function clearLog() {
+  logEl.textContent = '';
+  msgEl.textContent = '(aguardando)';
+}
+
+window.addEventListener('message', function(e) {
+  const entry = {
+    origin: e.origin,
+    data: e.data,
+    expectedOrigin: API_BASE,
+    originMatches: e.origin === API_BASE
+  };
+  msgEl.textContent = JSON.stringify(entry, null, 2);
+  log(`📨 Mensagem recebida do popup — origin=${e.origin}, data=${JSON.stringify(e.data).substr(0,80)}`, 'info');
+
+  // Simular o que o Decap faz: responder com handshake
+  if (e.data === 'authorizing:github' && e.source) {
+    log(`✓ Handshake "authorizing:github" recebido. Respondendo de volta...`, 'ok');
+    try {
+      e.source.postMessage('authorizing:github', e.origin);
+      log(`✓ Resposta enviada ao popup com targetOrigin=${e.origin}`, 'ok');
+    } catch (err) {
+      log(`✗ Falha ao responder: ${err.message}`, 'err');
+    }
+  } else if (typeof e.data === 'string' && e.data.startsWith('authorization:github:success:')) {
+    log(`🎉 Token recebido! Fluxo completo.`, 'ok');
+    try {
+      const tokenJson = e.data.slice('authorization:github:success:'.length);
+      const parsed = JSON.parse(tokenJson);
+      log(`Token preview: ${parsed.token ? parsed.token.substr(0,10)+'...' : '(vazio)'}, provider=${parsed.provider}`, 'ok');
+    } catch (err) {
+      log(`Erro ao parsear token: ${err.message}`, 'err');
+    }
+  }
+});
+
+function startAuth() {
+  clearLog();
+  log(`🚀 Abrindo popup para: ${AUTH_URL}`, 'info');
+  popup = window.open(AUTH_URL, 'google-auth-popup', 'width=600,height=700');
+  if (!popup) {
+    log(`✗ Popup foi BLOQUEADO pelo navegador. Permite popups deste site.`, 'err');
+    return;
+  }
+  log(`✓ Popup aberto. Aguardando mensagens...`, 'ok');
+  log(`ℹ Vai redirecionar para Google. Faz login com cesfraternite@gmail.com`, 'info');
+  log(`ℹ Após login, o popup deve enviar 'authorizing:github' de volta.`, 'info');
+
+  // Monitorar o popup
+  const checkClosed = setInterval(function() {
+    if (popup.closed) {
+      clearInterval(checkClosed);
+      log(`⚠ Popup foi fechado.`, 'info');
+    }
+  }, 500);
+}
+</script>
+</body>
+</html>

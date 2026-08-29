@@ -24,4 +24,3 @@ Si vous recherchez un centre spirite pour approfondir vos études, partager vos 
 
 📍 **Adresse:** 5569 Rue de Verdun, Montréal, QC H4H 1L2  
 📧 **Email:** cesfraternite@gmail.com  
-📱 **WhatsApp :** [Cliquez ici pour rejoindre notre groupe](https://chat.whatsapp.com/5kV0suS9TLBIyrp5StJJFi?mode=gi_t)

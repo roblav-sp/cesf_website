@@ -7,58 +7,224 @@
   <script>window.CMS_MANUAL_INIT = true;</script>
 </head>
 <body>
+  <div id="auth-overlay" style="
+    position:fixed; inset:0; z-index:9999;
+    background:#f5f5f5;
+    display:flex; flex-direction:column;
+    align-items:center; justify-content:center;
+    font-family:system-ui,-apple-system,sans-serif;
+  ">
+    <div style="
+      background:#fff; border-radius:12px;
+      box-shadow:0 4px 24px rgba(0,0,0,.12);
+      padding:2.5rem 3rem; text-align:center; max-width:360px; width:90%;
+    ">
+      <h1 style="font-size:1.25rem;font-weight:700;margin-bottom:0.5rem;color:#222;">
+        CESF — Área Administrativa
+      </h1>
+      <p style="font-size:0.875rem;color:#666;margin-bottom:2rem;">
+        Escolha como entrar:
+      </p>
+      <button id="btn-github" onclick="initCMS('github')" style="
+        display:block; width:100%; padding:0.7rem 1rem;
+        background:#24292e; color:#fff; border:none; border-radius:8px;
+        font-size:0.95rem; font-weight:600; cursor:pointer; margin-bottom:0.75rem;
+      ">GitHub — Desenvolvedor</button>
+      <button id="btn-google" onclick="initCMS('google')" style="
+        display:block; width:100%; padding:0.7rem 1rem;
+        background:#4285f4; color:#fff; border:none; border-radius:8px;
+        font-size:0.95rem; font-weight:600; cursor:pointer;
+      ">Google — Voluntário</button>
+    </div>
+  </div>
+
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+
   <script>
-    CMS.init({
-      config: {
-        backend: {
-          name: "github",
-          repo: "roblav-sp/cesf_website",
-          branch: "main",
-          base_url: "https://lh33y25cvc.execute-api.us-east-1.amazonaws.com"
+    const API_BASE = 'https://lh33y25cvc.execute-api.us-east-1.amazonaws.com';
+
+    const cmsConfig = {
+      backend: {
+        name: "github",
+        repo: "roblav-sp/cesf_website",
+        branch: "main",
+        base_url: API_BASE,
+        auth_endpoint: "auth"
+      },
+      media_folder: "static/images",
+      public_folder: "/images",
+      collections: [
+        {
+          name: "eventos-pt",
+          label: "Eventos (Português)",
+          folder: "content/pt/eventos",
+          create: true,
+          slug: "{{year}}-{{month}}-{{day}}-{{slug}}",
+          fields: [
+            { label: "Título", name: "title", widget: "string" },
+            { label: "Data", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false },
+            { label: "Descrição (resumo)", name: "description", widget: "string", required: false },
+            { label: "Imagem de destaque (URL)", name: "featureimage", widget: "string", required: false,
+              hint: "URL da imagem (ex: /social/2026-06-01-evento.jpg ou URL externa)" },
+            { label: "Vídeo YouTube (URL)", name: "youtube_url", widget: "string", required: false,
+              hint: "Ex: https://www.youtube.com/watch?v=ID" },
+            { label: "Post do Facebook (URL)", name: "facebook_url", widget: "string", required: false },
+            { label: "Mostrar data", name: "showDate", widget: "boolean", default: true },
+            { label: "Mostrar resumo", name: "showSummary", widget: "boolean", default: true },
+            { label: "Conteúdo", name: "body", widget: "markdown" }
+          ]
         },
-        media_folder: "static/images",
-        public_folder: "/images",
-        collections: [
-          {
-            name: "pages-pt",
-            label: "Pages (Português)",
-            folder: "content/pt",
-            create: true,
-            slug: "{{slug}}",
-            fields: [
-              { label: "Title", name: "title", widget: "string" },
-              { label: "Description", name: "description", widget: "string", required: false },
-              { label: "Body", name: "body", widget: "markdown" }
-            ]
-          },
-          {
-            name: "pages-fr",
-            label: "Pages (Français)",
-            folder: "content/fr",
-            create: true,
-            slug: "{{slug}}",
-            fields: [
-              { label: "Title", name: "title", widget: "string" },
-              { label: "Description", name: "description", widget: "string", required: false },
-              { label: "Body", name: "body", widget: "markdown" }
-            ]
-          },
-          {
-            name: "pages-en",
-            label: "Pages (English)",
-            folder: "content/en",
-            create: true,
-            slug: "{{slug}}",
-            fields: [
-              { label: "Title", name: "title", widget: "string" },
-              { label: "Description", name: "description", widget: "string", required: false },
-              { label: "Body", name: "body", widget: "markdown" }
-            ]
+        {
+          name: "eventos-fr",
+          label: "Événements (Français)",
+          folder: "content/fr/eventos",
+          create: true,
+          slug: "{{year}}-{{month}}-{{day}}-{{slug}}",
+          fields: [
+            { label: "Titre", name: "title", widget: "string" },
+            { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false },
+            { label: "Description (résumé)", name: "description", widget: "string", required: false },
+            { label: "Image mise en avant (URL)", name: "featureimage", widget: "string", required: false },
+            { label: "Vidéo YouTube (URL)", name: "youtube_url", widget: "string", required: false },
+            { label: "Post Facebook (URL)", name: "facebook_url", widget: "string", required: false },
+            { label: "Afficher la date", name: "showDate", widget: "boolean", default: true },
+            { label: "Afficher le résumé", name: "showSummary", widget: "boolean", default: true },
+            { label: "Contenu", name: "body", widget: "markdown" }
+          ]
+        },
+        {
+          name: "eventos-en",
+          label: "Events (English)",
+          folder: "content/en/eventos",
+          create: true,
+          slug: "{{year}}-{{month}}-{{day}}-{{slug}}",
+          fields: [
+            { label: "Title", name: "title", widget: "string" },
+            { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false },
+            { label: "Description (summary)", name: "description", widget: "string", required: false },
+            { label: "Feature image (URL)", name: "featureimage", widget: "string", required: false },
+            { label: "YouTube video (URL)", name: "youtube_url", widget: "string", required: false },
+            { label: "Facebook post (URL)", name: "facebook_url", widget: "string", required: false },
+            { label: "Show date", name: "showDate", widget: "boolean", default: true },
+            { label: "Show summary", name: "showSummary", widget: "boolean", default: true },
+            { label: "Body", name: "body", widget: "markdown" }
+          ]
+        },
+        {
+          name: "pages-pt",
+          label: "Páginas (Português)",
+          folder: "content/pt",
+          create: true,
+          slug: "{{slug}}",
+          fields: [
+            { label: "Título", name: "title", widget: "string" },
+            { label: "Descrição", name: "description", widget: "string", required: false },
+            { label: "Conteúdo", name: "body", widget: "markdown" }
+          ]
+        },
+        {
+          name: "pages-fr",
+          label: "Pages (Français)",
+          folder: "content/fr",
+          create: true,
+          slug: "{{slug}}",
+          fields: [
+            { label: "Titre", name: "title", widget: "string" },
+            { label: "Description", name: "description", widget: "string", required: false },
+            { label: "Contenu", name: "body", widget: "markdown" }
+          ]
+        },
+        {
+          name: "pages-en",
+          label: "Pages (English)",
+          folder: "content/en",
+          create: true,
+          slug: "{{slug}}",
+          fields: [
+            { label: "Title", name: "title", widget: "string" },
+            { label: "Description", name: "description", widget: "string", required: false },
+            { label: "Body", name: "body", widget: "markdown" }
+          ]
+        },
+      ]
+    };
+
+    // Run our own OAuth popup, get token, fetch GitHub /user, store in
+    // decap-cms-user localStorage. Decap reads on init and skips its login UI.
+    function doOAuth(authUrl) {
+      return new Promise((resolve, reject) => {
+        const popup = window.open(authUrl, 'cms-auth', 'width=600,height=700');
+        if (!popup) return reject(new Error('Popup bloqueado pelo browser'));
+
+        const onMessage = (e) => {
+          if (e.origin !== API_BASE) return;
+          if (e.data === 'authorizing:github') {
+            e.source.postMessage('authorizing:github', e.origin);
+          } else if (typeof e.data === 'string' && e.data.startsWith('authorization:github:success:')) {
+            window.removeEventListener('message', onMessage);
+            try {
+              const payload = JSON.parse(e.data.slice('authorization:github:success:'.length));
+              popup.close();
+              resolve(payload.token);
+            } catch (err) { reject(err); }
+          } else if (typeof e.data === 'string' && e.data.startsWith('authorization:github:error:')) {
+            window.removeEventListener('message', onMessage);
+            popup.close();
+            reject(new Error(e.data.slice('authorization:github:error:'.length)));
           }
-        ]
+        };
+        window.addEventListener('message', onMessage);
+      });
+    }
+
+    async function authenticate(provider) {
+      const authPath = provider === 'google' ? '/google/auth' : '/auth';
+      const token = await doOAuth(API_BASE + authPath + '?provider=github&scope=repo,user');
+
+      const userResp = await fetch('https://api.github.com/user', {
+        headers: { 'Authorization': 'token ' + token }
+      });
+      if (!userResp.ok) throw new Error('GitHub /user failed: ' + userResp.status);
+      const ghUser = await userResp.json();
+
+      const user = Object.assign({}, ghUser, {
+        token: token,
+        backendName: 'github'
+      });
+      localStorage.setItem('decap-cms-user', JSON.stringify(user));
+    }
+
+    async function initCMS(provider) {
+      sessionStorage.setItem('cms-auth-provider', provider);
+      const existing = localStorage.getItem('decap-cms-user');
+
+      if (!existing) {
+        try {
+          await authenticate(provider);
+        } catch (err) {
+          alert('Erro no login: ' + err.message);
+          return;
+        }
       }
-    });
+
+      const overlay = document.getElementById('auth-overlay');
+      if (overlay) overlay.remove();
+      const config = JSON.parse(JSON.stringify(cmsConfig));
+      config.load_config_file = false;
+      CMS.init({ config: config });
+
+      window.addEventListener('message', (e) => {
+        if (e.data === 'cms-logout') {
+          sessionStorage.removeItem('cms-auth-provider');
+          localStorage.removeItem('decap-cms-user');
+        }
+      });
+    }
+
+    // Auto-resume if we already authenticated this session
+    if (localStorage.getItem('decap-cms-user') && sessionStorage.getItem('cms-auth-provider')) {
+      document.addEventListener('DOMContentLoaded', () => initCMS(sessionStorage.getItem('cms-auth-provider')));
+    }
   </script>
 </body>
 </html>

@@ -86,7 +86,6 @@ Need to be heard or need help?
 🎥 **Zoom Link:** [Click here to join](https://zoom.us/j/7478764062?pwd=cesf)  
 🆔 **ID:** 7478 764 062 | 🔑 **Password:** cesf
 
-📱 **WhatsApp:** Join our group for articles and announcements  
 👍 **Facebook:** [Follow us here](https://www.facebook.com/cesfraternite)  
 📧 **General information:** cesfraternite@gmail.com
 

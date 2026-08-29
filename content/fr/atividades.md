@@ -86,7 +86,6 @@ Besoin d'être écouté ou d'aide ?
 🎥 **Lien Zoom :** [Cliquez ici pour rejoindre](https://zoom.us/j/7478764062?pwd=cesf)  
 🆔 **ID :** 7478 764 062 | 🔑 **Mot de passe :** cesf
 
-📱 **WhatsApp :** Rejoignez notre groupe pour articles et annonces  
 👍 **Facebook :** [Suivez-nous ici](https://www.facebook.com/cesfraternite)  
 📧 **Informations générales :** cesfraternite@gmail.com
 

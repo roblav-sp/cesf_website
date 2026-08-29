@@ -3,6 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/fr/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/fr/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/fr/eventos/2026-05-01-bienvenue-au-cesf/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/fr/eventos/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt/eventos/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/eventos/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/fr/eventos/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/fr/atividades/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -55,26 +103,6 @@
       rel="alternate"
       hreflang="fr"
       href="http://localhost:1313/fr/outrasatividades/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/fr/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="http://localhost:1313/fr/"
     />
   </url>
   <url>
@@ -175,26 +203,6 @@
       rel="alternate"
       hreflang="fr"
       href="http://localhost:1313/fr/ensinamentos-fundamentais/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/fr/eventos/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt/eventos/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/eventos/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="http://localhost:1313/fr/eventos/"
     />
   </url>
   <url>
@@ -310,6 +318,26 @@
       rel="alternate"
       hreflang="fr"
       href="http://localhost:1313/fr/praticaespirita/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/fr/oqueeespiritismo/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt/oqueeespiritismo/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/oqueeespiritismo/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/fr/oqueeespiritismo/"
     />
   </url>
   <url>

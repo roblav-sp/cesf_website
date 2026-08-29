@@ -24,4 +24,3 @@ Se você busca um centro espírita para aprofundar seus estudos, compartilhar se
 
 📍 **Endereço:** 5569 Rue de Verdun, Montreal, QC H4H 1L2  
 📧 **Email:** cesfraternite@gmail.com  
-📱 **WhatsApp:** [Clique aqui para entrar no nosso grupo](https://chat.whatsapp.com/5kV0suS9TLBIyrp5StJJFi?mode=gi_t)

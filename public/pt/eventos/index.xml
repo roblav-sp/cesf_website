@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eventos e Publicações on CESF - Centre d&#39;Études Spirites Fraternité</title>
+    <link>http://localhost:1313/pt/eventos/</link>
+    <description>Recent content in Eventos e Publicações on CESF - Centre d&#39;Études Spirites Fraternité</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2026 CESF</copyright>
+    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt/eventos/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bem-vindos ao CESF — Site Renovado</title>
+      <link>http://localhost:1313/pt/eventos/2026-05-01-bem-vindos-ao-cesf/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt/eventos/2026-05-01-bem-vindos-ao-cesf/</guid>
+      <description>&lt;p&gt;Olá a todos!&lt;/p&gt;&#xA;&lt;p&gt;Estamos felizes em anunciar o lançamento do nosso novo site. A partir de agora, esta seção &lt;strong&gt;Eventos e Publicações&lt;/strong&gt; será o espaço central para:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;📢 Anúncios e avisos importantes&lt;/li&gt;&#xA;&lt;li&gt;🗓️ Conferências e eventos especiais&lt;/li&gt;&#xA;&lt;li&gt;📺 Novos vídeos publicados no nosso canal do YouTube&lt;/li&gt;&#xA;&lt;li&gt;🌐 Conteúdo compartilhado nas nossas redes sociais&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Sigam-nos também no &lt;a href=&#34;https://www.facebook.com/cesfraternite&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Facebook&lt;/a&gt; para receber atualizações em primeira mão.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
